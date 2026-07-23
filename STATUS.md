@@ -8,13 +8,13 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9882** (-1.18% since start) |
-| Peak / drawdown | 1.0118 / -2.33% |
-| Ticks recorded | 12 |
-| Last tick | 2026-07-23T21:18:38.355498+00:00 (-0.7286%) |
-| Risk rails | normal (dd -1.6%) |
-| Data source | okx (bar 2026-07-23 20:00:00+00:00) |
-| Gross leverage | 3.46x |
+| **Equity** | **0.9913** (-0.87% since start) |
+| Peak / drawdown | 1.0118 / -2.03% |
+| Ticks recorded | 13 |
+| Last tick | 2026-07-23T22:35:19.717925+00:00 (+0.3137%) |
+| Risk rails | normal (dd -2.3%) |
+| Data source | okx (bar 2026-07-23 21:00:00+00:00) |
+| Gross leverage | 3.47x |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -35,7 +35,7 @@ and 8h funding settlements.*
 |---|---|
 | DOGE perp | -41.0% |
 | LTC perp | -39.1% |
-| SUSHI perp | -27.7% |
+| SUSHI perp | -27.6% |
 | FIL perp | -18.0% |
 | XRP perp | -13.3% |
 | THETA perp | -13.1% |
@@ -46,6 +46,7 @@ and 8h funding settlements.*
 | AVAX perp | -5.3% |
 | BNB perp | -4.1% |
 | ADA perp | -3.9% |
+| DOT perp | -0.7% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
