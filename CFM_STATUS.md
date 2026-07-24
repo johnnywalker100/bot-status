@@ -9,13 +9,13 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **1.0084** (+0.84% since start) |
-| Peak / drawdown | 1.0141 / -0.57% |
-| Ticks recorded | 20 |
-| Last tick | 2026-07-24T19:08:48.032672+00:00 (+0.1655%) |
-| Risk rails | normal (dd -0.7%) |
-| Data source | coinbase-cfm (bar 2026-07-24 18:00:00+00:00) |
-| Gross leverage | 2.55x |
+| **Equity** | **1.0076** (+0.76% since start) |
+| Peak / drawdown | 1.0141 / -0.64% |
+| Ticks recorded | 21 |
+| Last tick | 2026-07-24T20:08:41.157865+00:00 (-0.0760%) |
+| Risk rails | normal (dd -0.6%) |
+| Data source | coinbase-cfm (bar 2026-07-24 19:00:00+00:00) |
+| Gross leverage | 2.56x |
 
 ## Positions (weight of account / whole contracts)
 
@@ -24,17 +24,17 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 | AAVE perp | +27.9% | +6 |
 | BCH perp | +16.6% | +8 |
 | ETH perp | +14.8% | +8 |
-| HBAR perp | +14.1% | +4 |
+| HBAR perp | +14.2% | +4 |
 | ADA perp | +11.4% | +7 |
 | SOL perp | +7.3% | +2 |
 
 | Short | Size | Contracts |
 |---|---|---|
 | DOGE perp | -34.3% | -10 |
-| SUI perp | -21.1% | -6 |
+| SUI perp | -21.2% | -6 |
 | LTC perp | -18.3% | -8 |
 | SHIB perp | -18.2% | -44 |
-| NEAR perp | -17.9% | -2 |
+| NEAR perp | -18.0% | -2 |
 | LINK perp | -12.4% | -3 |
 | BNB perp | -11.2% | -2 |
 | XRP perp | -10.8% | -2 |
@@ -42,7 +42,7 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 | ENA perp | -4.3% | -1 |
 | AVAX perp | -4.3% | -7 |
 | PEPE perp | -2.7% | -1 |
-| DOT perp | -0.8% | -1 |
+| DOT perp | -1.6% | -2 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
