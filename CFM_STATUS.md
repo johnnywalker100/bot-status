@@ -11,8 +11,8 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 |---|---|
 | **Equity** | **0.9946** (-0.54% since start) |
 | Peak / drawdown | 1.0000 / -0.54% |
-| Ticks recorded | 6 |
-| Last tick | 2026-07-24T06:00:45.864175+00:00 (-0.0176%) |
+| Ticks recorded | 7 |
+| Last tick | 2026-07-24T06:08:47.099087+00:00 (-0.0038%) |
 | Risk rails | normal (dd -0.5%) |
 | Data source | coinbase-cfm (bar 2026-07-24 05:00:00+00:00) |
 | Gross leverage | 2.45x |
@@ -36,7 +36,7 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 | SHIB perp | -18.0% | -43 |
 | LINK perp | -12.7% | -3 |
 | BNB perp | -11.4% | -2 |
-| XRP perp | -11.1% | -2 |
+| XRP perp | -11.2% | -2 |
 | NEAR perp | -9.5% | -1 |
 | BTC perp | -6.6% | -1 |
 | ENA perp | -4.5% | -1 |
