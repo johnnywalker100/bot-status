@@ -9,42 +9,40 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9569** (-4.31% since start) |
-| Peak / drawdown | 1.0141 / -5.64% |
-| Ticks recorded | 38 |
-| Last tick | 2026-07-25T17:08:43.892613+00:00 (-4.0758%) |
-| Risk rails | normal (dd -1.6%) |
-| Data source | coinbase-cfm (bar 2026-07-25 16:00:00+00:00) |
-| Gross leverage | 2.66x |
+| **Equity** | **0.9477** (-5.23% since start) |
+| Peak / drawdown | 1.0141 / -6.55% |
+| Ticks recorded | 39 |
+| Last tick | 2026-07-25T18:08:51.451541+00:00 (-0.9714%) |
+| Risk rails | normal (dd -5.6%) |
+| Data source | coinbase-cfm (bar 2026-07-25 17:00:00+00:00) |
+| Gross leverage | 2.60x |
 
 ## Positions (weight of account / whole contracts)
 
 | Long | Size | Contracts |
 |---|---|---|
-| AAVE perp | +23.1% | +5 |
-| ETH perp | +16.8% | +9 |
-| BCH perp | +12.6% | +6 |
-| ADA perp | +11.6% | +7 |
-| ONDO perp | +3.8% | +1 |
-| SOL perp | +3.7% | +1 |
-| HBAR perp | +3.5% | +1 |
-| AVAX perp | +0.7% | +1 |
+| AAVE perp | +24.1% | +5 |
+| ETH perp | +17.6% | +9 |
+| BCH perp | +13.2% | +6 |
+| ADA perp | +10.4% | +6 |
+| ONDO perp | +4.0% | +1 |
+| SOL perp | +3.9% | +1 |
+| HBAR perp | +3.7% | +1 |
 
 | Short | Size | Contracts |
 |---|---|---|
-| DOGE perp | -32.7% | -9 |
-| LTC perp | -25.4% | -11 |
-| PEPE perp | -19.6% | -7 |
-| ZEC perp | -19.2% | -4 |
-| NEAR perp | -18.0% | -2 |
-| SUI perp | -17.9% | -5 |
-| LINK perp | -12.6% | -3 |
-| HYPE perp | -11.6% | -2 |
-| ENA perp | -8.7% | -2 |
-| SHIB perp | -7.4% | -15 |
-| BTC perp | -6.4% | -1 |
-| BNB perp | -5.7% | -1 |
-| DOT perp | -4.9% | -6 |
+| DOGE perp | -30.6% | -8 |
+| LTC perp | -24.1% | -10 |
+| ZEC perp | -20.4% | -4 |
+| NEAR perp | -18.8% | -2 |
+| SUI perp | -18.7% | -5 |
+| PEPE perp | -17.5% | -6 |
+| LINK perp | -13.2% | -3 |
+| HYPE perp | -12.2% | -2 |
+| ENA perp | -9.1% | -2 |
+| SHIB perp | -6.8% | -13 |
+| BTC perp | -6.7% | -1 |
+| DOT perp | -5.1% | -6 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
