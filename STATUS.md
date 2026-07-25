@@ -8,12 +8,12 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0111** (+1.11% since start) |
-| Peak / drawdown | 1.0294 / -1.78% |
-| Ticks recorded | 55 |
-| Last tick | 2026-07-25T18:08:23.009725+00:00 (-0.3521%) |
-| Risk rails | normal (dd -1.4%) |
-| Data source | okx (bar 2026-07-25 17:00:00+00:00) |
+| **Equity** | **1.0127** (+1.27% since start) |
+| Peak / drawdown | 1.0294 / -1.62% |
+| Ticks recorded | 56 |
+| Last tick | 2026-07-25T19:08:20.005723+00:00 (+0.1588%) |
+| Risk rails | normal (dd -1.8%) |
+| Data source | okx (bar 2026-07-25 18:00:00+00:00) |
 | Gross leverage | 4.00x |
 
 ## Positions (futures contracts, fraction of account)
@@ -22,14 +22,14 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +35.8% |
+| TRX perp | +35.7% |
 | ADA perp | +26.3% |
 | ATOM perp | +24.7% |
-| ETC perp | +24.0% |
+| ETC perp | +23.9% |
 | AVAX perp | +20.4% |
 | ALGO perp | +17.8% |
 | ETH perp | +17.6% |
-| AAVE perp | +12.0% |
+| AAVE perp | +12.1% |
 | UNI perp | +3.5% |
 | SOL perp | +1.8% |
 
@@ -45,7 +45,7 @@ and 8h funding settlements.*
 | FIL perp | -8.3% |
 | XLM perp | -7.6% |
 | BNB perp | -4.4% |
-| BCH perp | -3.9% |
+| BCH perp | -3.8% |
 | DOT perp | -0.9% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
