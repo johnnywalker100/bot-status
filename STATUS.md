@@ -8,12 +8,12 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0111** (+1.11% since start) |
-| Peak / drawdown | 1.0294 / -1.78% |
-| Ticks recorded | 44 |
-| Last tick | 2026-07-25T07:08:17.861765+00:00 (-0.0173%) |
+| **Equity** | **1.0121** (+1.21% since start) |
+| Peak / drawdown | 1.0294 / -1.69% |
+| Ticks recorded | 45 |
+| Last tick | 2026-07-25T08:08:20.203051+00:00 (+0.0995%) |
 | Risk rails | normal (dd -1.8%) |
-| Data source | okx (bar 2026-07-25 06:00:00+00:00) |
+| Data source | okx (bar 2026-07-25 07:00:00+00:00) |
 | Gross leverage | 4.00x |
 
 ## Positions (futures contracts, fraction of account)
@@ -40,7 +40,7 @@ and 8h funding settlements.*
 | DOGE perp | -29.1% |
 | LINK perp | -29.1% |
 | XRP perp | -22.4% |
-| THETA perp | -17.8% |
+| THETA perp | -17.9% |
 | BTC perp | -13.6% |
 | XLM perp | -12.1% |
 | FIL perp | -4.5% |
