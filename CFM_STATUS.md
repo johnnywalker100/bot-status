@@ -9,12 +9,12 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9587** (-4.13% since start) |
-| Peak / drawdown | 1.0141 / -5.46% |
-| Ticks recorded | 44 |
-| Last tick | 2026-07-25T23:08:42.214876+00:00 (+0.5500%) |
-| Risk rails | normal (dd -5.5%) |
-| Data source | coinbase-cfm (bar 2026-07-25 22:00:00+00:00) |
+| **Equity** | **0.9589** (-4.11% since start) |
+| Peak / drawdown | 1.0141 / -5.44% |
+| Ticks recorded | 45 |
+| Last tick | 2026-07-26T00:08:55.203554+00:00 (+0.0215%) |
+| Risk rails | normal (dd -5.4%) |
+| Data source | coinbase-cfm (bar 2026-07-25 23:00:00+00:00) |
 | Gross leverage | 2.67x |
 
 ## Positions (weight of account / whole contracts)
@@ -33,10 +33,10 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 |---|---|---|
 | DOGE perp | -33.7% | -9 |
 | LTC perp | -24.3% | -10 |
-| ZEC perp | -20.2% | -4 |
+| ZEC perp | -20.3% | -4 |
 | NEAR perp | -18.7% | -2 |
 | SUI perp | -18.6% | -5 |
-| PEPE perp | -17.2% | -6 |
+| PEPE perp | -17.1% | -6 |
 | LINK perp | -13.1% | -3 |
 | HYPE perp | -12.1% | -2 |
 | ENA perp | -9.0% | -2 |
