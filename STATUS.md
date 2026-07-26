@@ -8,12 +8,12 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0083** (+0.83% since start) |
-| Peak / drawdown | 1.0294 / -2.05% |
-| Ticks recorded | 75 |
-| Last tick | 2026-07-26T14:08:21.081406+00:00 (+0.0169%) |
+| **Equity** | **1.0080** (+0.80% since start) |
+| Peak / drawdown | 1.0294 / -2.09% |
+| Ticks recorded | 76 |
+| Last tick | 2026-07-26T15:08:22.118805+00:00 (-0.0351%) |
 | Risk rails | normal (dd -2.1%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-26 13:00:00+00:00) |
+| Data source | okx (bar 2026-07-26 14:00:00+00:00) |
 | Gross leverage | 2.00x |
 
 ## Positions (futures contracts, fraction of account)
@@ -43,7 +43,7 @@ and 8h funding settlements.*
 | BCH perp | -7.9% |
 | BTC perp | -7.5% |
 | XRP perp | -3.8% |
-| FIL perp | -3.7% |
+| FIL perp | -3.8% |
 | AAVE perp | -2.2% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
