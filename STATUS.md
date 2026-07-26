@@ -8,12 +8,12 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0083** (+0.83% since start) |
-| Peak / drawdown | 1.0294 / -2.06% |
-| Ticks recorded | 70 |
-| Last tick | 2026-07-26T09:08:19.209040+00:00 (-0.1882%) |
-| Risk rails | normal (dd -2.0%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-26 08:00:00+00:00) |
+| **Equity** | **1.0062** (+0.62% since start) |
+| Peak / drawdown | 1.0294 / -2.25% |
+| Ticks recorded | 71 |
+| Last tick | 2026-07-26T10:08:19.815255+00:00 (-0.2026%) |
+| Risk rails | normal (dd -2.3%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-07-26 09:00:00+00:00) |
 | Gross leverage | 2.00x |
 
 ## Positions (futures contracts, fraction of account)
@@ -24,7 +24,7 @@ and 8h funding settlements.*
 |---|---|
 | ADA perp | +19.7% |
 | TRX perp | +17.5% |
-| ETC perp | +11.3% |
+| ETC perp | +11.4% |
 | ATOM perp | +9.4% |
 | AVAX perp | +8.3% |
 | ETH perp | +4.9% |
