@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9994** (-0.06% since start) |
-| Peak / drawdown | 1.0294 / -2.92% |
-| Ticks recorded | 85 |
-| Last tick | 2026-07-27T00:08:22.566820+00:00 (+0.0795%) |
-| Risk rails | normal (dd -2.9%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-26 23:00:00+00:00) |
+| **Equity** | **1.0021** (+0.21% since start) |
+| Peak / drawdown | 1.0294 / -2.66% |
+| Ticks recorded | 86 |
+| Last tick | 2026-07-27T01:08:19.793111+00:00 (+0.2690%) |
+| Risk rails | normal (dd -2.6%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-07-27 00:00:00+00:00) |
 | Gross leverage | 2.00x |
 | Weeks tracked | 1 |
-| Average week | +0.08% |
+| Average week | +0.35% |
 | Weeks ≥ +3% | 0% |
-| Best / worst week | +0.08% / +0.08% |
+| Best / worst week | +0.35% / +0.35% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,30 +26,30 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +17.3% |
-| ADA perp | +14.8% |
-| ATOM perp | +9.8% |
-| ETC perp | +7.7% |
-| AVAX perp | +6.4% |
-| ETH perp | +4.8% |
-| AAVE perp | +2.6% |
-| UNI perp | +1.8% |
-| XLM perp | +1.6% |
-| SOL perp | +0.6% |
+| TRX perp | +19.1% |
+| ADA perp | +15.6% |
+| ATOM perp | +9.4% |
+| ETH perp | +7.6% |
+| AAVE perp | +6.9% |
+| XLM perp | +6.3% |
+| ALGO perp | +2.7% |
+| SOL perp | +2.1% |
+| UNI perp | +1.9% |
+| ETC perp | +0.8% |
 
 | Contract | Size |
 |---|---|
-| DOGE perp | -23.7% |
-| LTC perp | -22.4% |
-| THETA perp | -18.1% |
-| LINK perp | -14.0% |
-| SUSHI perp | -13.2% |
-| BNB perp | -10.8% |
-| BCH perp | -8.3% |
-| BTC perp | -7.4% |
-| DOT perp | -5.1% |
-| XRP perp | -4.8% |
-| FIL perp | -4.5% |
+| DOGE perp | -27.4% |
+| LTC perp | -21.6% |
+| THETA perp | -20.4% |
+| BNB perp | -15.7% |
+| LINK perp | -14.8% |
+| SUSHI perp | -9.3% |
+| BTC perp | -7.6% |
+| XRP perp | -4.4% |
+| FIL perp | -2.6% |
+| DOT perp | -2.5% |
+| BCH perp | -1.0% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
