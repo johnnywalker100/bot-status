@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0039** (+0.39% since start) |
-| Peak / drawdown | 1.0294 / -2.48% |
-| Ticks recorded | 93 |
-| Last tick | 2026-07-27T08:08:20.478416+00:00 (+0.1304%) |
-| Risk rails | normal (dd -2.5%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-27 07:00:00+00:00) |
+| **Equity** | **1.0071** (+0.71% since start) |
+| Peak / drawdown | 1.0294 / -2.17% |
+| Ticks recorded | 94 |
+| Last tick | 2026-07-27T09:08:20.491594+00:00 (+0.3159%) |
+| Risk rails | normal (dd -2.1%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-07-27 08:00:00+00:00) |
 | Gross leverage | 2.00x |
 | Weeks tracked | 1 |
-| Average week | +0.53% |
+| Average week | +0.85% |
 | Weeks ≥ +3% | 0% |
-| Best / worst week | +0.53% / +0.53% |
+| Best / worst week | +0.85% / +0.85% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -28,28 +28,28 @@ and 8h funding settlements.*
 |---|---|
 | TRX perp | +19.1% |
 | ADA perp | +15.6% |
-| ATOM perp | +9.3% |
-| ETH perp | +7.6% |
-| AAVE perp | +6.9% |
-| XLM perp | +6.3% |
-| ALGO perp | +2.8% |
-| SOL perp | +2.0% |
+| ATOM perp | +9.5% |
+| BCH perp | +7.9% |
+| ETH perp | +5.1% |
+| DOT perp | +4.5% |
+| XLM perp | +3.8% |
+| SOL perp | +2.9% |
 | UNI perp | +1.9% |
+| ALGO perp | +1.6% |
 | ETC perp | +0.8% |
 
 | Contract | Size |
 |---|---|
-| DOGE perp | -27.4% |
-| LTC perp | -21.6% |
-| THETA perp | -20.4% |
-| BNB perp | -15.7% |
-| LINK perp | -14.8% |
-| SUSHI perp | -9.4% |
-| BTC perp | -7.7% |
-| XRP perp | -4.4% |
-| FIL perp | -2.7% |
-| DOT perp | -2.4% |
-| BCH perp | -0.9% |
+| DOGE perp | -28.8% |
+| LTC perp | -23.4% |
+| BNB perp | -17.1% |
+| LINK perp | -16.7% |
+| THETA perp | -11.0% |
+| SUSHI perp | -8.3% |
+| BTC perp | -7.8% |
+| AVAX perp | -6.6% |
+| XRP perp | -4.8% |
+| FIL perp | -2.6% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
