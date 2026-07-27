@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0020** (+0.20% since start) |
-| Peak / drawdown | 1.0294 / -2.67% |
-| Ticks recorded | 90 |
-| Last tick | 2026-07-27T05:08:20.416184+00:00 (+0.0804%) |
-| Risk rails | normal (dd -2.7%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-27 04:00:00+00:00) |
+| **Equity** | **1.0000** (+0.00% since start) |
+| Peak / drawdown | 1.0294 / -2.86% |
+| Ticks recorded | 91 |
+| Last tick | 2026-07-27T06:08:24.880879+00:00 (-0.1960%) |
+| Risk rails | normal (dd -2.9%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-07-27 05:00:00+00:00) |
 | Gross leverage | 2.00x |
 | Weeks tracked | 1 |
-| Average week | +0.34% |
+| Average week | +0.14% |
 | Weeks ≥ +3% | 0% |
-| Best / worst week | +0.34% / +0.34% |
+| Best / worst week | +0.14% / +0.14% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -48,8 +48,8 @@ and 8h funding settlements.*
 | BTC perp | -7.7% |
 | XRP perp | -4.4% |
 | FIL perp | -2.7% |
-| DOT perp | -2.5% |
-| BCH perp | -1.0% |
+| DOT perp | -2.4% |
+| BCH perp | -0.9% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
