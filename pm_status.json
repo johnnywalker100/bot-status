@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28 20:41:20.420981+00:00",
+  "generated": "2026-07-28 20:43:20.422695+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.938141,
   "peak": 1.028718,
@@ -2988,16 +2988,16 @@
     "shadow": {
       "hours": 13.87,
       "scorable_trades": 16438,
-      "fills": 1729,
+      "fills": 1738,
       "fills_needed": 2000,
       "markets": 621,
-      "bias": 1.797,
+      "bias": 1.783,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.3135,
+      "c_per_share": -2.3263,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
