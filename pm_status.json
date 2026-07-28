@@ -1,46 +1,46 @@
 {
-  "generated": "2026-07-28 20:17:20.292698+00:00",
+  "generated": "2026-07-28 20:19:20.303540+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.929141,
+  "equity": 0.928141,
   "peak": 1.028718,
-  "drawdown": -0.096798,
+  "drawdown": -0.09777,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.6228,
+  "gross_lev": 0.6224,
   "last_tick": {
-    "ts": "2026-07-28 20:17:10.285885+00:00",
-    "tick_return": 0.0,
-    "equity": 0.929141,
-    "vol_scale": 0.623,
+    "ts": "2026-07-28 20:19:10.535764+00:00",
+    "tick_return": -0.004825,
+    "equity": 0.928141,
+    "vol_scale": 0.622,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 20:17:10.285885+00:00"
+    "asof": "2026-07-28 20:19:10.535764+00:00"
   },
   "positions": {
     "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00067,
-    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01709,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.04452,
-    "LoL: ZennIT vs Dynasty - Game 2 Winner": 0.04438,
-    "Cleveland Guardians vs. Cincinnati Reds": 0.00066,
-    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03901,
-    "Will Trump say \"Hell\" 2+ times during tribute to": 0.03616,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.0271,
-    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02703,
+    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01711,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.04457,
+    "LoL: ZennIT vs Dynasty - Game 2 Winner": 0.04442,
+    "Cleveland Guardians vs. Cincinnati Reds": 0.00072,
+    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03906,
+    "Will Trump say \"Hell\" 2+ times during tribute to": 0.0362,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.02713,
+    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02706,
     "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00474,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00649,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02141,
-    "Will FC Thun win on 2026-07-28?": 0.00083,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.0065,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02143,
+    "Will FC Thun win on 2026-07-28?": 0.00084,
     "Will NK Celje win on 2026-07-28?": 0.00065,
-    "Will the highest temperature in San Francisco be": 0.01552,
-    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.01524,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01103,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.01036,
-    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00383,
+    "Will the highest temperature in San Francisco be": 0.01554,
+    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.01525,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01104,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.01037,
+    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00384,
     "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.0037,
     "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.0035,
-    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: Both T": 0.00344,
+    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: Both T": 0.00345,
     "Dota 2: VooDooSh Team vs Daxak Team (BO3) - BetB": 0.00292,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00242,
-    "FC Drita vs. Floriana FC: O/U 3.5": 0.0019,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00243,
+    "FC Drita vs. Floriana FC: O/U 3.5": 0.00191,
     "Mubadala Citi DC Open: Arthur Fils vs Rafael Jod": 0.00184,
     "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00034,
     "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00118,
@@ -51,50 +51,8 @@
   },
   "history": [
     {
-      "ts": "2026-07-28 17:44:53.787911+00:00",
-      "ret": 0.0,
-      "equity": 1.002879,
-      "risk": "quoting",
-      "vol_scale": 0.179
-    },
-    {
-      "ts": "2026-07-28 17:45:15.101697+00:00",
-      "ret": -0.000976,
-      "equity": 1.0019,
-      "risk": "quoting",
-      "vol_scale": 0.194
-    },
-    {
-      "ts": "2026-07-28 17:45:33.123052+00:00",
-      "ret": 0.003088,
-      "equity": 1.004993,
-      "risk": "quoting",
-      "vol_scale": 0.202
-    },
-    {
-      "ts": "2026-07-28 17:45:53.139663+00:00",
-      "ret": 0.008927,
-      "equity": 1.013965,
-      "risk": "quoting",
-      "vol_scale": 0.213
-    },
-    {
-      "ts": "2026-07-28 17:46:13.309135+00:00",
-      "ret": 0.004272,
-      "equity": 1.018296,
-      "risk": "quoting",
-      "vol_scale": 0.218
-    },
-    {
-      "ts": "2026-07-28 17:46:36.237243+00:00",
-      "ret": 0.001834,
-      "equity": 1.020164,
-      "risk": "quoting",
-      "vol_scale": 0.219
-    },
-    {
       "ts": "2026-07-28 17:46:53.112109+00:00",
-      "ret": -0.000505,
+      "ret": 0.0,
       "equity": 1.019649,
       "risk": "quoting",
       "vol_scale": 0.235
@@ -2849,6 +2807,48 @@
       "equity": 0.929141,
       "risk": "quoting",
       "vol_scale": 0.623
+    },
+    {
+      "ts": "2026-07-28 20:17:30.333245+00:00",
+      "ret": 0.003229,
+      "equity": 0.932141,
+      "risk": "quoting",
+      "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:17:50.302754+00:00",
+      "ret": 0.0,
+      "equity": 0.932141,
+      "risk": "quoting",
+      "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:18:10.463136+00:00",
+      "ret": 0.0,
+      "equity": 0.932141,
+      "risk": "quoting",
+      "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:18:30.318493+00:00",
+      "ret": -0.000536,
+      "equity": 0.931641,
+      "risk": "quoting",
+      "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:18:50.494156+00:00",
+      "ret": 0.001073,
+      "equity": 0.932641,
+      "risk": "quoting",
+      "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:19:10.519371+00:00",
+      "ret": -0.004825,
+      "equity": 0.928141,
+      "risk": "quoting",
+      "vol_scale": 0.622
     }
   ],
   "weekly": [],
