@@ -1,49 +1,50 @@
 {
-  "generated": "2026-07-28 18:10:42.607260+00:00",
+  "generated": "2026-07-28 18:12:42.549587+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.981256,
+  "equity": 0.981965,
   "peak": 1.028718,
-  "drawdown": -0.046137,
+  "drawdown": -0.045448,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.4578,
+  "gross_lev": 0.4804,
   "last_tick": {
-    "ts": "2026-07-28 18:10:40.436226+00:00",
-    "tick_return": -0.000108,
-    "equity": 0.981256,
-    "vol_scale": 0.458,
+    "ts": "2026-07-28 18:12:38.729147+00:00",
+    "tick_return": 0.00205,
+    "equity": 0.981965,
+    "vol_scale": 0.48,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 18:10:40.436226+00:00"
+    "asof": "2026-07-28 18:12:38.729147+00:00"
   },
   "positions": {
     "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00064,
-    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.03528,
+    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.03078,
     "Cleveland Guardians vs. Cincinnati Reds": 0.00046,
-    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.02573,
-    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02413,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00615,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02027,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00659,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00863,
-    "Will the highest temperature in San Francisco be": 0.0147,
-    "Will Trump say \"Hell\" 2+ times during tribute to": 0.01101,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01045,
-    "Will R\u012bga FC win on 2026-07-28?": 0.01029,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.0097,
-    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.00919,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00654,
+    "Will Trump say \"Hell\" 2+ times during tribute to": 0.03278,
+    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03081,
+    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02411,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00614,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00804,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02026,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00878,
+    "Will the highest temperature in San Francisco be": 0.01469,
+    "Will R\u012bga FC win on 2026-07-28?": 0.01049,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01044,
+    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.00918,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00902,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00653,
     "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.0058,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00545,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00559,
     "Will FK Vardar Skopje win on 2026-07-28?": 0.00377,
     "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00363,
     "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.0035,
     "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00331,
-    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00221,
+    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00206,
     "FC Drita vs. Floriana FC: O/U 3.5": 0.00152,
-    "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00054,
+    "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00042,
     "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.0002,
     "Zelenskyy meets with Netanyahu by Thursday?": 0.00015,
-    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 9e-05
+    "FC Drita vs. Floriana FC: O/U 2.5": 8e-05,
+    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 8e-05
   },
   "history": [
     {
@@ -794,6 +795,48 @@
       "equity": 0.981256,
       "risk": "quoting",
       "vol_scale": 0.458
+    },
+    {
+      "ts": "2026-07-28 18:11:17.462518+00:00",
+      "ret": 0.004359,
+      "equity": 0.985533,
+      "risk": "quoting",
+      "vol_scale": 0.471
+    },
+    {
+      "ts": "2026-07-28 18:11:18.850476+00:00",
+      "ret": -0.000149,
+      "equity": 0.985386,
+      "risk": "quoting",
+      "vol_scale": 0.481
+    },
+    {
+      "ts": "2026-07-28 18:11:38.884571+00:00",
+      "ret": -0.0037,
+      "equity": 0.98174,
+      "risk": "quoting",
+      "vol_scale": 0.479
+    },
+    {
+      "ts": "2026-07-28 18:11:58.807798+00:00",
+      "ret": 0.000278,
+      "equity": 0.982013,
+      "risk": "quoting",
+      "vol_scale": 0.48
+    },
+    {
+      "ts": "2026-07-28 18:12:18.734126+00:00",
+      "ret": -0.002095,
+      "equity": 0.979956,
+      "risk": "quoting",
+      "vol_scale": 0.479
+    },
+    {
+      "ts": "2026-07-28 18:12:38.720195+00:00",
+      "ret": 0.00205,
+      "equity": 0.981965,
+      "risk": "quoting",
+      "vol_scale": 0.48
     }
   ],
   "weekly": [],
@@ -830,45 +873,12 @@
     "maker": {
       "quoting": true,
       "markets_quoted": 40,
-      "quotes_live": 59,
-      "fills_total": 232,
+      "quotes_live": 60,
+      "fills_total": 247,
       "halt": "",
       "recent_fills": [
         {
-          "t": "2026-07-28 18:09:58.270761+00:00",
-          "token": "113417667736311576157706169870072400342245896305384619018505001776784641143868",
-          "side": "BUY",
-          "shares": 5.3,
-          "price": 0.61,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5"
-        },
-        {
-          "t": "2026-07-28 18:09:58.270784+00:00",
-          "token": "113417667736311576157706169870072400342245896305384619018505001776784641143868",
-          "side": "BUY",
-          "shares": 5.29,
-          "price": 0.61,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5"
-        },
-        {
-          "t": "2026-07-28 18:10:40.429267+00:00",
-          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
-          "side": "BUY",
-          "shares": 1.5,
-          "price": 0.74,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
-        },
-        {
-          "t": "2026-07-28 18:10:40.429300+00:00",
+          "t": "2026-07-28 18:11:18.849273+00:00",
           "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
           "side": "BUY",
           "shares": 1.17,
@@ -879,7 +889,7 @@
           "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
         },
         {
-          "t": "2026-07-28 18:10:40.429312+00:00",
+          "t": "2026-07-28 18:11:18.849288+00:00",
           "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
           "side": "BUY",
           "shares": 0.51,
@@ -890,7 +900,7 @@
           "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
         },
         {
-          "t": "2026-07-28 18:10:40.429326+00:00",
+          "t": "2026-07-28 18:11:18.849299+00:00",
           "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
           "side": "BUY",
           "shares": 0.27,
@@ -901,7 +911,7 @@
           "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
         },
         {
-          "t": "2026-07-28 18:10:40.429344+00:00",
+          "t": "2026-07-28 18:11:18.849310+00:00",
           "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
           "side": "BUY",
           "shares": 0.27,
@@ -912,7 +922,7 @@
           "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
         },
         {
-          "t": "2026-07-28 18:10:40.429352+00:00",
+          "t": "2026-07-28 18:11:18.849325+00:00",
           "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
           "side": "BUY",
           "shares": 138.41,
@@ -921,6 +931,39 @@
           "fee": 0.0,
           "rebate": 0.0,
           "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
+        },
+        {
+          "t": "2026-07-28 18:12:38.714053+00:00",
+          "token": "60245046905824095568839802613611721706751424503945569331111241509846206370525",
+          "side": "BUY",
+          "shares": 7.0,
+          "price": 0.61,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "The Memphis Classic: Ekaterina Alexandrova vs Kristina Liuto"
+        },
+        {
+          "t": "2026-07-28 18:12:38.714101+00:00",
+          "token": "80962092146408670651882301746526991991347717928534340241439941401424245404465",
+          "side": "BUY",
+          "shares": 1.51,
+          "price": 0.51,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "FC Drita vs. Floriana FC: O/U 2.5"
+        },
+        {
+          "t": "2026-07-28 18:12:38.714121+00:00",
+          "token": "60245046905824095568839802613611721706751424503945569331111241509846206370525",
+          "side": "BUY",
+          "shares": 4.0,
+          "price": 0.61,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "The Memphis Classic: Ekaterina Alexandrova vs Kristina Liuto"
         }
       ]
     },
@@ -932,7 +975,7 @@
     "shadow": {
       "hours": 11.36,
       "scorable_trades": 12194,
-      "fills": 1370,
+      "fills": 1390,
       "fills_needed": 2000,
       "markets": 511,
       "bias": 1.668,
@@ -941,7 +984,7 @@
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -1.2862,
+      "c_per_share": -1.4306,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
