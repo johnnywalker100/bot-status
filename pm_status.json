@@ -1,49 +1,49 @@
 {
-  "generated": "2026-07-28 20:29:20.332354+00:00",
+  "generated": "2026-07-28 20:31:20.336916+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.932641,
+  "equity": 0.933141,
   "peak": 1.028718,
-  "drawdown": -0.093395,
+  "drawdown": -0.092909,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.6242,
+  "gross_lev": 0.6244,
   "last_tick": {
-    "ts": "2026-07-28 20:29:11.069893+00:00",
-    "tick_return": 0.0,
-    "equity": 0.932641,
+    "ts": "2026-07-28 20:31:11.045169+00:00",
+    "tick_return": 0.000536,
+    "equity": 0.933141,
     "vol_scale": 0.624,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 20:29:11.069893+00:00"
+    "asof": "2026-07-28 20:31:11.045169+00:00"
   },
   "positions": {
     "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00067,
-    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01703,
-    "Cleveland Guardians vs. Cincinnati Reds": 0.00048,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.04435,
-    "LoL: ZennIT vs Dynasty - Game 2 Winner": 0.04421,
-    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03887,
-    "Will Trump say \"Hell\" 2+ times during tribute to": 0.03602,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.02699,
-    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02693,
+    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01702,
+    "Cleveland Guardians vs. Cincinnati Reds": 0.00045,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.04433,
+    "LoL: ZennIT vs Dynasty - Game 2 Winner": 0.04419,
+    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03885,
+    "Will Trump say \"Hell\" 2+ times during tribute to": 0.036,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.02698,
+    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02691,
     "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00472,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00647,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02133,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00646,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02132,
     "Will FC Thun win on 2026-07-28?": 0.00083,
     "Will NK Celje win on 2026-07-28?": 0.00064,
-    "Will the highest temperature in San Francisco be": 0.01546,
-    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.01518,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01099,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.01032,
+    "Will the highest temperature in San Francisco be": 0.01545,
+    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.01517,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01098,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.01031,
     "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00382,
-    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00369,
+    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00368,
     "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00348,
     "FK CSKA 1948 Sofia vs. FC Spartak Trnava: Both T": 0.00343,
-    "Dota 2: VooDooSh Team vs Daxak Team (BO3) - BetB": 0.00291,
+    "Dota 2: VooDooSh Team vs Daxak Team (BO3) - BetB": 0.0029,
     "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00241,
     "FC Drita vs. Floriana FC: O/U 3.5": 0.0019,
-    "Mubadala Citi DC Open: Arthur Fils vs Rafael Jod": 0.00184,
+    "Mubadala Citi DC Open: Arthur Fils vs Rafael Jod": 0.00183,
     "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00034,
-    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00118,
+    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00117,
     "FC Drita vs. Floriana FC: O/U 2.5": 0.00074,
     "Will R\u012bga FC win on 2026-07-28?": 0.00054,
     "Mubadala Citi DC Open: Adrian Mannarino vs Learn": 0.00042,
@@ -51,50 +51,8 @@
   },
   "history": [
     {
-      "ts": "2026-07-28 18:01:18.421922+00:00",
-      "ret": 0.0,
-      "equity": 0.996242,
-      "risk": "quoting",
-      "vol_scale": 0.343
-    },
-    {
-      "ts": "2026-07-28 18:01:38.030660+00:00",
-      "ret": -0.000924,
-      "equity": 0.995321,
-      "risk": "quoting",
-      "vol_scale": 0.343
-    },
-    {
-      "ts": "2026-07-28 18:01:58.097661+00:00",
-      "ret": 0.004787,
-      "equity": 1.000086,
-      "risk": "quoting",
-      "vol_scale": 0.348
-    },
-    {
-      "ts": "2026-07-28 18:02:18.262098+00:00",
-      "ret": 0.002963,
-      "equity": 1.00305,
-      "risk": "quoting",
-      "vol_scale": 0.362
-    },
-    {
-      "ts": "2026-07-28 18:02:38.155438+00:00",
-      "ret": 0.002563,
-      "equity": 1.005621,
-      "risk": "quoting",
-      "vol_scale": 0.379
-    },
-    {
-      "ts": "2026-07-28 18:02:58.132928+00:00",
-      "ret": -0.001487,
-      "equity": 1.004125,
-      "risk": "quoting",
-      "vol_scale": 0.39
-    },
-    {
       "ts": "2026-07-28 18:03:18.337378+00:00",
-      "ret": -0.011632,
+      "ret": 0.0,
       "equity": 0.992445,
       "risk": "quoting",
       "vol_scale": 0.395
@@ -2849,6 +2807,48 @@
       "equity": 0.932641,
       "risk": "quoting",
       "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:29:30.697152+00:00",
+      "ret": 0.0,
+      "equity": 0.932641,
+      "risk": "quoting",
+      "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:29:50.831512+00:00",
+      "ret": 0.0,
+      "equity": 0.932641,
+      "risk": "quoting",
+      "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:30:12.373111+00:00",
+      "ret": 0.0,
+      "equity": 0.932641,
+      "risk": "quoting",
+      "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:30:30.672467+00:00",
+      "ret": 0.0,
+      "equity": 0.932641,
+      "risk": "quoting",
+      "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:30:50.360862+00:00",
+      "ret": 0.0,
+      "equity": 0.932641,
+      "risk": "quoting",
+      "vol_scale": 0.624
+    },
+    {
+      "ts": "2026-07-28 20:31:11.020756+00:00",
+      "ret": 0.000536,
+      "equity": 0.933141,
+      "risk": "quoting",
+      "vol_scale": 0.624
     }
   ],
   "weekly": [],
@@ -2884,7 +2884,7 @@
   "research": {
     "maker": {
       "quoting": true,
-      "markets_quoted": 36,
+      "markets_quoted": 20,
       "quotes_live": 0,
       "fills_total": 322,
       "halt": "",
@@ -2985,11 +2985,11 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 13.62,
-      "scorable_trades": 16094,
+      "hours": 13.7,
+      "scorable_trades": 16241,
       "fills": 1710,
       "fills_needed": 2000,
-      "markets": 617,
+      "markets": 619,
       "bias": 1.776,
       "breakeven": {
         "gross": 1.35,
