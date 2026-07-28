@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28 20:15:20.280608+00:00",
+  "generated": "2026-07-28 20:17:20.292698+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.929141,
   "peak": 1.028718,
@@ -7,13 +7,13 @@
   "start": "2026-07-28 17:30:58.185107+00:00",
   "gross_lev": 0.6228,
   "last_tick": {
-    "ts": "2026-07-28 20:15:09.063905+00:00",
+    "ts": "2026-07-28 20:17:10.285885+00:00",
     "tick_return": 0.0,
     "equity": 0.929141,
     "vol_scale": 0.623,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 20:15:09.063905+00:00"
+    "asof": "2026-07-28 20:17:10.285885+00:00"
   },
   "positions": {
     "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00067,
@@ -51,50 +51,8 @@
   },
   "history": [
     {
-      "ts": "2026-07-28 17:42:53.779239+00:00",
-      "ret": 0.0,
-      "equity": 0.999785,
-      "risk": "quoting",
-      "vol_scale": 0.161
-    },
-    {
-      "ts": "2026-07-28 17:43:13.664748+00:00",
-      "ret": -0.000104,
-      "equity": 0.999681,
-      "risk": "quoting",
-      "vol_scale": 0.167
-    },
-    {
-      "ts": "2026-07-28 17:43:33.831846+00:00",
-      "ret": 0.001993,
-      "equity": 1.001673,
-      "risk": "quoting",
-      "vol_scale": 0.175
-    },
-    {
-      "ts": "2026-07-28 17:43:53.764207+00:00",
-      "ret": -0.004193,
-      "equity": 0.997473,
-      "risk": "quoting",
-      "vol_scale": 0.173
-    },
-    {
-      "ts": "2026-07-28 17:44:14.261908+00:00",
-      "ret": -0.000868,
-      "equity": 0.996608,
-      "risk": "quoting",
-      "vol_scale": 0.173
-    },
-    {
-      "ts": "2026-07-28 17:44:33.657339+00:00",
-      "ret": 0.006554,
-      "equity": 1.003139,
-      "risk": "quoting",
-      "vol_scale": 0.179
-    },
-    {
       "ts": "2026-07-28 17:44:53.787911+00:00",
-      "ret": -0.00026,
+      "ret": 0.0,
       "equity": 1.002879,
       "risk": "quoting",
       "vol_scale": 0.179
@@ -2849,6 +2807,48 @@
       "equity": 0.929141,
       "risk": "quoting",
       "vol_scale": 0.623
+    },
+    {
+      "ts": "2026-07-28 20:15:30.761023+00:00",
+      "ret": 0.000538,
+      "equity": 0.929641,
+      "risk": "quoting",
+      "vol_scale": 0.623
+    },
+    {
+      "ts": "2026-07-28 20:15:49.157281+00:00",
+      "ret": 0.000538,
+      "equity": 0.930141,
+      "risk": "quoting",
+      "vol_scale": 0.623
+    },
+    {
+      "ts": "2026-07-28 20:16:29.368374+00:00",
+      "ret": 0.0,
+      "equity": 0.930141,
+      "risk": "quoting",
+      "vol_scale": 0.623
+    },
+    {
+      "ts": "2026-07-28 20:16:30.429666+00:00",
+      "ret": -0.001075,
+      "equity": 0.929141,
+      "risk": "quoting",
+      "vol_scale": 0.623
+    },
+    {
+      "ts": "2026-07-28 20:16:50.255385+00:00",
+      "ret": 0.0,
+      "equity": 0.929141,
+      "risk": "quoting",
+      "vol_scale": 0.623
+    },
+    {
+      "ts": "2026-07-28 20:17:10.268473+00:00",
+      "ret": 0.0,
+      "equity": 0.929141,
+      "risk": "quoting",
+      "vol_scale": 0.623
     }
   ],
   "weekly": [],
@@ -2884,7 +2884,7 @@
   "research": {
     "maker": {
       "quoting": true,
-      "markets_quoted": 20,
+      "markets_quoted": 24,
       "quotes_live": 0,
       "fills_total": 322,
       "halt": "",
@@ -2987,16 +2987,16 @@
     "shadow": {
       "hours": 13.45,
       "scorable_trades": 15889,
-      "fills": 1690,
+      "fills": 1701,
       "fills_needed": 2000,
       "markets": 606,
-      "bias": 1.779,
+      "bias": 1.773,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.1867,
+      "c_per_share": -2.2561,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
