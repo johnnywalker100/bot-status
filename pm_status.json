@@ -1,0 +1,136 @@
+{
+  "generated": "2026-07-28 07:15:14.023941+00:00",
+  "note": "SIMULATED paper trading - no real funds",
+  "equity": 1.0,
+  "peak": 1.0,
+  "drawdown": 0.0,
+  "start": "2026-07-28 03:29:07.610425+00:00",
+  "gross_lev": 0.0,
+  "last_tick": {
+    "ts": "2026-07-28 04:01:49.318644+00:00",
+    "tick_return": 0.0,
+    "equity": 1.0,
+    "vol_scale": 0.0,
+    "risk": "gate closed",
+    "provider": "polymarket",
+    "asof": "2026-07-28 04:01:49.318644+00:00"
+  },
+  "positions": {},
+  "history": [
+    {
+      "ts": "2026-07-28 03:29:07.610425+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "gate closed",
+      "vol_scale": 0.0
+    },
+    {
+      "ts": "2026-07-28 03:32:44.507731+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "gate closed",
+      "vol_scale": 0.0
+    },
+    {
+      "ts": "2026-07-28 04:01:49.312684+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "gate closed",
+      "vol_scale": 0.0
+    }
+  ],
+  "weekly": [],
+  "config": {
+    "mode": "paper",
+    "fee_rate": 0.07,
+    "min_edge": 0.03,
+    "max_deploy": 0.6,
+    "brake_dd": -0.15,
+    "halt_dd": -0.3,
+    "daily_kill": -0.1,
+    "spread_model": "conservative",
+    "maker_rebate_theta": 0.0
+  },
+  "backtest_ref": {
+    "mm/tape": {
+      "geo_wk": 0.01042,
+      "max_dd": -0.03473,
+      "sharpe": 3.58,
+      "mc_12m": {
+        "p_loss": 0.0
+      }
+    },
+    "calibration/oos": {
+      "geo_wk": 0.00693,
+      "max_dd": -0.0822,
+      "sharpe": 0.39,
+      "mc_12m": {
+        "p_loss": 0.045
+      }
+    }
+  },
+  "research": {
+    "gate": {
+      "open": false,
+      "reason": "only 3 qualifying markets (need 400)",
+      "n_markets": 3
+    },
+    "shadow": {
+      "hours": 0.44,
+      "scorable_trades": 676,
+      "fills": 25,
+      "fills_needed": 2000,
+      "markets": 50,
+      "bias": 0.406,
+      "breakeven": {
+        "gross": 1.35,
+        "rebate_25pct": 1.5,
+        "rebate_full": 1.95
+      },
+      "c_per_share": 0.1642,
+      "verdict": "collecting - no verdict below 2,000 fills"
+    },
+    "scorecard": [
+      {
+        "name": "market making",
+        "verdict": "survived",
+        "detail": "+$12,225 on $15,202 over 1.09y, Sharpe 3.58, 65% of 396 markets positive; break-even at 1.35x adverse selection (1.95x with the full maker rebate)"
+      },
+      {
+        "name": "recalibration, held to resolution",
+        "verdict": "dead",
+        "detail": "regime-unstable, sign-flipped in 2026, walk-forward Brier skill -0.05% OOS"
+      },
+      {
+        "name": "taker mean-reversion",
+        "verdict": "dead",
+        "detail": "daily autocorrelation -0.19 but 80% is bid-ask bounce; residual 0.2-1.6c vs 2-11c round trip"
+      },
+      {
+        "name": "taker flow-following",
+        "verdict": "dead",
+        "detail": "correlation 0.002"
+      },
+      {
+        "name": "dutch-book arbitrage",
+        "verdict": "dead",
+        "detail": "0 of 79 complete negRisk events executable after fees"
+      },
+      {
+        "name": "complement arbitrage",
+        "verdict": "dead",
+        "detail": "never exists; tightest of 6,894 live markets was 1.001"
+      },
+      {
+        "name": "cross-venue vs Kalshi",
+        "verdict": "dead",
+        "detail": "Kalshi half-spreads 2.5c, 5x Polymarket"
+      }
+    ],
+    "corpus": {
+      "resolved_markets": 32667,
+      "market_days": 1438948,
+      "executed_trades": 1020660
+    }
+  }
+}
