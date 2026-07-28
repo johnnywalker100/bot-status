@@ -1,42 +1,319 @@
 {
-  "generated": "2026-07-28 07:15:14.023941+00:00",
+  "generated": "2026-07-28 17:44:24.458764+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 1.0,
-  "peak": 1.0,
-  "drawdown": 0.0,
-  "start": "2026-07-28 03:29:07.610425+00:00",
-  "gross_lev": 0.0,
+  "equity": 0.996608,
+  "peak": 1.002621,
+  "drawdown": -0.005997,
+  "start": "2026-07-28 17:30:58.185107+00:00",
+  "gross_lev": 0.1726,
   "last_tick": {
-    "ts": "2026-07-28 04:01:49.318644+00:00",
-    "tick_return": 0.0,
-    "equity": 1.0,
-    "vol_scale": 0.0,
-    "risk": "gate closed",
+    "ts": "2026-07-28 17:44:14.265941+00:00",
+    "tick_return": -0.000868,
+    "equity": 0.996608,
+    "vol_scale": 0.173,
+    "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 04:01:49.318644+00:00"
+    "asof": "2026-07-28 17:44:14.265941+00:00"
   },
-  "positions": {},
+  "positions": {
+    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00163,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.03437,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00605,
+    "Will the highest temperature in San Francisco be": 0.01447,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00877,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00644,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00257,
+    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00208,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00191,
+    "Zelenskyy meets with Netanyahu by Thursday?": 0.00014
+  },
   "history": [
     {
-      "ts": "2026-07-28 03:29:07.610425+00:00",
+      "ts": "2026-07-28 17:30:58.185107+00:00",
       "ret": 0.0,
       "equity": 1.0,
-      "risk": "gate closed",
+      "risk": "quoting",
       "vol_scale": 0.0
     },
     {
-      "ts": "2026-07-28 03:32:44.507731+00:00",
+      "ts": "2026-07-28 17:31:12.654568+00:00",
       "ret": 0.0,
       "equity": 1.0,
-      "risk": "gate closed",
+      "risk": "quoting",
       "vol_scale": 0.0
     },
     {
-      "ts": "2026-07-28 04:01:49.312684+00:00",
+      "ts": "2026-07-28 17:31:32.633192+00:00",
       "ret": 0.0,
       "equity": 1.0,
-      "risk": "gate closed",
+      "risk": "quoting",
       "vol_scale": 0.0
+    },
+    {
+      "ts": "2026-07-28 17:31:52.431765+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "quoting",
+      "vol_scale": 0.0
+    },
+    {
+      "ts": "2026-07-28 17:32:12.430593+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "quoting",
+      "vol_scale": 0.0
+    },
+    {
+      "ts": "2026-07-28 17:32:32.519790+00:00",
+      "ret": -1.7e-05,
+      "equity": 0.999983,
+      "risk": "quoting",
+      "vol_scale": 0.003
+    },
+    {
+      "ts": "2026-07-28 17:32:52.442435+00:00",
+      "ret": 2e-05,
+      "equity": 1.000003,
+      "risk": "quoting",
+      "vol_scale": 0.006
+    },
+    {
+      "ts": "2026-07-28 17:33:12.538844+00:00",
+      "ret": -0.0001,
+      "equity": 0.999903,
+      "risk": "quoting",
+      "vol_scale": 0.022
+    },
+    {
+      "ts": "2026-07-28 17:33:32.502621+00:00",
+      "ret": 0.001847,
+      "equity": 1.001749,
+      "risk": "quoting",
+      "vol_scale": 0.04
+    },
+    {
+      "ts": "2026-07-28 17:33:52.453354+00:00",
+      "ret": 7.3e-05,
+      "equity": 1.001823,
+      "risk": "quoting",
+      "vol_scale": 0.04
+    },
+    {
+      "ts": "2026-07-28 17:34:12.486823+00:00",
+      "ret": -0.002246,
+      "equity": 0.999573,
+      "risk": "quoting",
+      "vol_scale": 0.046
+    },
+    {
+      "ts": "2026-07-28 17:34:32.549382+00:00",
+      "ret": -0.003135,
+      "equity": 0.996439,
+      "risk": "quoting",
+      "vol_scale": 0.043
+    },
+    {
+      "ts": "2026-07-28 17:34:52.494805+00:00",
+      "ret": -0.002302,
+      "equity": 0.994146,
+      "risk": "quoting",
+      "vol_scale": 0.041
+    },
+    {
+      "ts": "2026-07-28 17:35:19.288800+00:00",
+      "ret": 0.005311,
+      "equity": 0.999426,
+      "risk": "quoting",
+      "vol_scale": 0.046
+    },
+    {
+      "ts": "2026-07-28 17:35:32.802394+00:00",
+      "ret": -0.00119,
+      "equity": 0.998237,
+      "risk": "quoting",
+      "vol_scale": 0.046
+    },
+    {
+      "ts": "2026-07-28 17:35:55.362877+00:00",
+      "ret": -0.002329,
+      "equity": 0.995912,
+      "risk": "quoting",
+      "vol_scale": 0.044
+    },
+    {
+      "ts": "2026-07-28 17:36:13.101922+00:00",
+      "ret": -0.000502,
+      "equity": 0.995412,
+      "risk": "quoting",
+      "vol_scale": 0.044
+    },
+    {
+      "ts": "2026-07-28 17:36:32.848880+00:00",
+      "ret": -0.004507,
+      "equity": 0.990925,
+      "risk": "quoting",
+      "vol_scale": 0.039
+    },
+    {
+      "ts": "2026-07-28 17:37:11.989329+00:00",
+      "ret": -0.000114,
+      "equity": 0.990812,
+      "risk": "quoting",
+      "vol_scale": 0.041
+    },
+    {
+      "ts": "2026-07-28 17:37:13.251059+00:00",
+      "ret": 0.002121,
+      "equity": 0.992913,
+      "risk": "quoting",
+      "vol_scale": 0.045
+    },
+    {
+      "ts": "2026-07-28 17:37:33.406526+00:00",
+      "ret": 0.001361,
+      "equity": 0.994264,
+      "risk": "quoting",
+      "vol_scale": 0.047
+    },
+    {
+      "ts": "2026-07-28 17:37:53.544028+00:00",
+      "ret": 0.002331,
+      "equity": 0.996582,
+      "risk": "quoting",
+      "vol_scale": 0.057
+    },
+    {
+      "ts": "2026-07-28 17:38:13.956654+00:00",
+      "ret": -0.001628,
+      "equity": 0.99496,
+      "risk": "quoting",
+      "vol_scale": 0.066
+    },
+    {
+      "ts": "2026-07-28 17:38:33.367637+00:00",
+      "ret": 0.001185,
+      "equity": 0.996139,
+      "risk": "quoting",
+      "vol_scale": 0.079
+    },
+    {
+      "ts": "2026-07-28 17:38:53.488460+00:00",
+      "ret": 0.001597,
+      "equity": 0.99773,
+      "risk": "quoting",
+      "vol_scale": 0.081
+    },
+    {
+      "ts": "2026-07-28 17:39:13.508194+00:00",
+      "ret": -2.3e-05,
+      "equity": 0.997707,
+      "risk": "quoting",
+      "vol_scale": 0.081
+    },
+    {
+      "ts": "2026-07-28 17:39:33.727388+00:00",
+      "ret": 0.002557,
+      "equity": 1.000258,
+      "risk": "quoting",
+      "vol_scale": 0.084
+    },
+    {
+      "ts": "2026-07-28 17:39:53.285386+00:00",
+      "ret": 0.000436,
+      "equity": 1.000695,
+      "risk": "quoting",
+      "vol_scale": 0.084
+    },
+    {
+      "ts": "2026-07-28 17:40:17.848242+00:00",
+      "ret": 7.7e-05,
+      "equity": 1.000772,
+      "risk": "quoting",
+      "vol_scale": 0.102
+    },
+    {
+      "ts": "2026-07-28 17:40:33.353277+00:00",
+      "ret": -2.4e-05,
+      "equity": 1.000748,
+      "risk": "quoting",
+      "vol_scale": 0.103
+    },
+    {
+      "ts": "2026-07-28 17:41:00.755905+00:00",
+      "ret": -1.4e-05,
+      "equity": 1.000734,
+      "risk": "quoting",
+      "vol_scale": 0.105
+    },
+    {
+      "ts": "2026-07-28 17:41:13.766670+00:00",
+      "ret": 0.000937,
+      "equity": 1.001671,
+      "risk": "quoting",
+      "vol_scale": 0.126
+    },
+    {
+      "ts": "2026-07-28 17:41:33.873778+00:00",
+      "ret": 0.000948,
+      "equity": 1.002621,
+      "risk": "quoting",
+      "vol_scale": 0.146
+    },
+    {
+      "ts": "2026-07-28 17:41:54.146382+00:00",
+      "ret": -0.001512,
+      "equity": 1.001106,
+      "risk": "quoting",
+      "vol_scale": 0.159
+    },
+    {
+      "ts": "2026-07-28 17:42:13.408170+00:00",
+      "ret": -0.00018,
+      "equity": 1.000926,
+      "risk": "quoting",
+      "vol_scale": 0.16
+    },
+    {
+      "ts": "2026-07-28 17:42:40.184127+00:00",
+      "ret": -0.002677,
+      "equity": 0.998246,
+      "risk": "quoting",
+      "vol_scale": 0.159
+    },
+    {
+      "ts": "2026-07-28 17:42:53.779239+00:00",
+      "ret": 0.001541,
+      "equity": 0.999785,
+      "risk": "quoting",
+      "vol_scale": 0.161
+    },
+    {
+      "ts": "2026-07-28 17:43:13.664748+00:00",
+      "ret": -0.000104,
+      "equity": 0.999681,
+      "risk": "quoting",
+      "vol_scale": 0.167
+    },
+    {
+      "ts": "2026-07-28 17:43:33.831846+00:00",
+      "ret": 0.001993,
+      "equity": 1.001673,
+      "risk": "quoting",
+      "vol_scale": 0.175
+    },
+    {
+      "ts": "2026-07-28 17:43:53.764207+00:00",
+      "ret": -0.004193,
+      "equity": 0.997473,
+      "risk": "quoting",
+      "vol_scale": 0.173
+    },
+    {
+      "ts": "2026-07-28 17:44:14.261908+00:00",
+      "ret": -0.000868,
+      "equity": 0.996608,
+      "risk": "quoting",
+      "vol_scale": 0.173
     }
   ],
   "weekly": [],
@@ -70,24 +347,121 @@
     }
   },
   "research": {
+    "maker": {
+      "quoting": true,
+      "markets_quoted": 40,
+      "quotes_live": 66,
+      "fills_total": 96,
+      "halt": "",
+      "recent_fills": [
+        {
+          "t": "2026-07-28 17:43:13.662753+00:00",
+          "token": "90609555931693506386837060746478764863255493965375242514434184915263754455856",
+          "side": "BUY",
+          "shares": 50.0,
+          "price": 0.78,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Counter-Strike: Misa Esports vs Falcons Force (BO3) - Thunde"
+        },
+        {
+          "t": "2026-07-28 17:43:33.827526+00:00",
+          "token": "70289755182224971387060014779518322838654233301636742844764703861104082120877",
+          "side": "BUY",
+          "shares": 14.28,
+          "price": 0.38,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will the highest temperature in San Francisco be between 70-"
+        },
+        {
+          "t": "2026-07-28 17:43:33.827567+00:00",
+          "token": "92872990798719524418550180969113023310715937595116858449440156039249196028021",
+          "side": "BUY",
+          "shares": 0.43,
+          "price": 0.71,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Zelenskyy meets with Netanyahu by Thursday?"
+        },
+        {
+          "t": "2026-07-28 17:43:33.827614+00:00",
+          "token": "70289755182224971387060014779518322838654233301636742844764703861104082120877",
+          "side": "BUY",
+          "shares": 18.91,
+          "price": 0.38,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will the highest temperature in San Francisco be between 70-"
+        },
+        {
+          "t": "2026-07-28 17:43:33.827637+00:00",
+          "token": "90609555931693506386837060746478764863255493965375242514434184915263754455856",
+          "side": "BUY",
+          "shares": 60.0,
+          "price": 0.78,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Counter-Strike: Misa Esports vs Falcons Force (BO3) - Thunde"
+        },
+        {
+          "t": "2026-07-28 17:43:53.761498+00:00",
+          "token": "70289755182224971387060014779518322838654233301636742844764703861104082120877",
+          "side": "BUY",
+          "shares": 14.28,
+          "price": 0.38,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will the highest temperature in San Francisco be between 70-"
+        },
+        {
+          "t": "2026-07-28 17:43:53.761559+00:00",
+          "token": "70289755182224971387060014779518322838654233301636742844764703861104082120877",
+          "side": "BUY",
+          "shares": 18.91,
+          "price": 0.38,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will the highest temperature in San Francisco be between 70-"
+        },
+        {
+          "t": "2026-07-28 17:44:14.259094+00:00",
+          "token": "22626352682414934930506879201862358477433898085216581559199132662114721728792",
+          "side": "BUY",
+          "shares": 17.0,
+          "price": 0.45,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
+        }
+      ]
+    },
     "gate": {
       "open": false,
       "reason": "only 3 qualifying markets (need 400)",
       "n_markets": 3
     },
     "shadow": {
-      "hours": 0.44,
-      "scorable_trades": 676,
-      "fills": 25,
+      "hours": 10.86,
+      "scorable_trades": 11467,
+      "fills": 1312,
       "fills_needed": 2000,
-      "markets": 50,
-      "bias": 0.406,
+      "markets": 479,
+      "bias": 1.628,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": 0.1642,
+      "c_per_share": -1.2552,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
