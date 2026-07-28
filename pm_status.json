@@ -1,31 +1,36 @@
 {
-  "generated": "2026-07-28 17:44:24.458764+00:00",
+  "generated": "2026-07-28 17:50:00.818951+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.996608,
-  "peak": 1.002621,
-  "drawdown": -0.005997,
+  "equity": 1.023777,
+  "peak": 1.023777,
+  "drawdown": 0.0,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.1726,
+  "gross_lev": 0.2426,
   "last_tick": {
-    "ts": "2026-07-28 17:44:14.265941+00:00",
-    "tick_return": -0.000868,
-    "equity": 0.996608,
-    "vol_scale": 0.173,
+    "ts": "2026-07-28 17:49:52.989570+00:00",
+    "tick_return": 0.0,
+    "equity": 1.023777,
+    "vol_scale": 0.243,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 17:44:14.265941+00:00"
+    "asof": "2026-07-28 17:49:52.989570+00:00"
   },
   "positions": {
-    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00163,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.03437,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00605,
-    "Will the highest temperature in San Francisco be": 0.01447,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00877,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00644,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00257,
-    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00208,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00191,
-    "Zelenskyy meets with Netanyahu by Thursday?": 0.00014
+    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00061,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00011,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.03175,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00589,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01563,
+    "Will the highest temperature in San Francisco be": 0.01409,
+    "Will R\u012bga FC win on 2026-07-28?": 0.01065,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00886,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00626,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00509,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.00361,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00244,
+    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00202,
+    "Zelenskyy meets with Netanyahu by Thursday?": 0.00014,
+    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00013
   },
   "history": [
     {
@@ -314,6 +319,125 @@
       "equity": 0.996608,
       "risk": "quoting",
       "vol_scale": 0.173
+    },
+    {
+      "ts": "2026-07-28 17:44:33.657339+00:00",
+      "ret": 0.006554,
+      "equity": 1.003139,
+      "risk": "quoting",
+      "vol_scale": 0.179
+    },
+    {
+      "ts": "2026-07-28 17:44:53.787911+00:00",
+      "ret": -0.00026,
+      "equity": 1.002879,
+      "risk": "quoting",
+      "vol_scale": 0.179
+    },
+    {
+      "ts": "2026-07-28 17:45:15.101697+00:00",
+      "ret": -0.000976,
+      "equity": 1.0019,
+      "risk": "quoting",
+      "vol_scale": 0.194
+    },
+    {
+      "ts": "2026-07-28 17:45:33.123052+00:00",
+      "ret": 0.003088,
+      "equity": 1.004993,
+      "risk": "quoting",
+      "vol_scale": 0.202
+    },
+    {
+      "ts": "2026-07-28 17:45:53.139663+00:00",
+      "ret": 0.008927,
+      "equity": 1.013965,
+      "risk": "quoting",
+      "vol_scale": 0.213
+    },
+    {
+      "ts": "2026-07-28 17:46:13.309135+00:00",
+      "ret": 0.004272,
+      "equity": 1.018296,
+      "risk": "quoting",
+      "vol_scale": 0.218
+    },
+    {
+      "ts": "2026-07-28 17:46:36.237243+00:00",
+      "ret": 0.001834,
+      "equity": 1.020164,
+      "risk": "quoting",
+      "vol_scale": 0.219
+    },
+    {
+      "ts": "2026-07-28 17:46:53.112109+00:00",
+      "ret": -0.000505,
+      "equity": 1.019649,
+      "risk": "quoting",
+      "vol_scale": 0.235
+    },
+    {
+      "ts": "2026-07-28 17:47:13.012224+00:00",
+      "ret": 0.003056,
+      "equity": 1.022764,
+      "risk": "quoting",
+      "vol_scale": 0.238
+    },
+    {
+      "ts": "2026-07-28 17:47:33.064665+00:00",
+      "ret": 0.000784,
+      "equity": 1.023566,
+      "risk": "quoting",
+      "vol_scale": 0.239
+    },
+    {
+      "ts": "2026-07-28 17:47:53.256922+00:00",
+      "ret": -0.00271,
+      "equity": 1.020792,
+      "risk": "quoting",
+      "vol_scale": 0.236
+    },
+    {
+      "ts": "2026-07-28 17:48:13.145997+00:00",
+      "ret": 0.001795,
+      "equity": 1.022625,
+      "risk": "quoting",
+      "vol_scale": 0.241
+    },
+    {
+      "ts": "2026-07-28 17:48:35.808445+00:00",
+      "ret": 0.001126,
+      "equity": 1.023777,
+      "risk": "quoting",
+      "vol_scale": 0.242
+    },
+    {
+      "ts": "2026-07-28 17:48:52.937439+00:00",
+      "ret": -0.0,
+      "equity": 1.023777,
+      "risk": "quoting",
+      "vol_scale": 0.243
+    },
+    {
+      "ts": "2026-07-28 17:49:12.794935+00:00",
+      "ret": 0.0,
+      "equity": 1.023777,
+      "risk": "quoting",
+      "vol_scale": 0.243
+    },
+    {
+      "ts": "2026-07-28 17:49:32.831284+00:00",
+      "ret": 0.0,
+      "equity": 1.023777,
+      "risk": "quoting",
+      "vol_scale": 0.243
+    },
+    {
+      "ts": "2026-07-28 17:49:52.985333+00:00",
+      "ret": 0.0,
+      "equity": 1.023777,
+      "risk": "quoting",
+      "vol_scale": 0.243
     }
   ],
   "weekly": [],
@@ -349,98 +473,98 @@
   "research": {
     "maker": {
       "quoting": true,
-      "markets_quoted": 40,
-      "quotes_live": 66,
-      "fills_total": 96,
+      "markets_quoted": 23,
+      "quotes_live": 0,
+      "fills_total": 115,
       "halt": "",
       "recent_fills": [
         {
-          "t": "2026-07-28 17:43:13.662753+00:00",
-          "token": "90609555931693506386837060746478764863255493965375242514434184915263754455856",
+          "t": "2026-07-28 17:46:13.307072+00:00",
+          "token": "49124073420297964198535425306091167388806685065568768364287645382449492051672",
           "side": "BUY",
-          "shares": 50.0,
-          "price": 0.78,
+          "shares": 55.95,
+          "price": 0.2,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "Counter-Strike: Misa Esports vs Falcons Force (BO3) - Thunde"
+          "title": "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Europe Series "
         },
         {
-          "t": "2026-07-28 17:43:33.827526+00:00",
-          "token": "70289755182224971387060014779518322838654233301636742844764703861104082120877",
+          "t": "2026-07-28 17:46:36.234610+00:00",
+          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
           "side": "BUY",
-          "shares": 14.28,
-          "price": 0.38,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will the highest temperature in San Francisco be between 70-"
-        },
-        {
-          "t": "2026-07-28 17:43:33.827567+00:00",
-          "token": "92872990798719524418550180969113023310715937595116858449440156039249196028021",
-          "side": "BUY",
-          "shares": 0.43,
-          "price": 0.71,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Zelenskyy meets with Netanyahu by Thursday?"
-        },
-        {
-          "t": "2026-07-28 17:43:33.827614+00:00",
-          "token": "70289755182224971387060014779518322838654233301636742844764703861104082120877",
-          "side": "BUY",
-          "shares": 18.91,
-          "price": 0.38,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will the highest temperature in San Francisco be between 70-"
-        },
-        {
-          "t": "2026-07-28 17:43:33.827637+00:00",
-          "token": "90609555931693506386837060746478764863255493965375242514434184915263754455856",
-          "side": "BUY",
-          "shares": 60.0,
-          "price": 0.78,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Counter-Strike: Misa Esports vs Falcons Force (BO3) - Thunde"
-        },
-        {
-          "t": "2026-07-28 17:43:53.761498+00:00",
-          "token": "70289755182224971387060014779518322838654233301636742844764703861104082120877",
-          "side": "BUY",
-          "shares": 14.28,
-          "price": 0.38,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will the highest temperature in San Francisco be between 70-"
-        },
-        {
-          "t": "2026-07-28 17:43:53.761559+00:00",
-          "token": "70289755182224971387060014779518322838654233301636742844764703861104082120877",
-          "side": "BUY",
-          "shares": 18.91,
-          "price": 0.38,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will the highest temperature in San Francisco be between 70-"
-        },
-        {
-          "t": "2026-07-28 17:44:14.259094+00:00",
-          "token": "22626352682414934930506879201862358477433898085216581559199132662114721728792",
-          "side": "BUY",
-          "shares": 17.0,
-          "price": 0.45,
+          "shares": 5.51,
+          "price": 0.55,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
           "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
+        },
+        {
+          "t": "2026-07-28 17:46:53.110964+00:00",
+          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
+          "side": "BUY",
+          "shares": 5.51,
+          "price": 0.55,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
+        },
+        {
+          "t": "2026-07-28 17:46:53.110999+00:00",
+          "token": "34808772720105276950046782887422880544669668374663929334218137810183400221089",
+          "side": "BUY",
+          "shares": 200.0,
+          "price": 0.81,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "San Marino: Thiago Monteiro vs David Jorda Sanchis"
+        },
+        {
+          "t": "2026-07-28 17:47:13.010593+00:00",
+          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
+          "side": "BUY",
+          "shares": 10.51,
+          "price": 0.54,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
+        },
+        {
+          "t": "2026-07-28 17:48:13.142325+00:00",
+          "token": "41746809444990826735813639543545663825937707338096415693150146909886338092937",
+          "side": "BUY",
+          "shares": 200.0,
+          "price": 0.16,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will FK Vardar Skopje win on 2026-07-28?"
+        },
+        {
+          "t": "2026-07-28 17:48:52.935449+00:00",
+          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
+          "side": "BUY",
+          "shares": 10.51,
+          "price": 0.57,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
+        },
+        {
+          "t": "2026-07-28 17:48:52.935507+00:00",
+          "token": "13969203387153823146458665440104059267569949426722767089950295220087660621065",
+          "side": "BUY",
+          "shares": 2.21,
+          "price": 0.61,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng"
         }
       ]
     },
@@ -450,18 +574,18 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 10.86,
-      "scorable_trades": 11467,
-      "fills": 1312,
+      "hours": 10.95,
+      "scorable_trades": 11571,
+      "fills": 1318,
       "fills_needed": 2000,
-      "markets": 479,
-      "bias": 1.628,
+      "markets": 485,
+      "bias": 1.611,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -1.2552,
+      "c_per_share": -1.1746,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
