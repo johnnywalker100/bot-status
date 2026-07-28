@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28 17:50:56.524890+00:00",
+  "generated": "2026-07-28 17:52:56.541944+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.775442,
   "peak": 1.023777,
@@ -7,13 +7,13 @@
   "start": "2026-07-28 17:30:58.185107+00:00",
   "gross_lev": 0.0,
   "last_tick": {
-    "ts": "2026-07-28 17:50:55.064425+00:00",
+    "ts": "2026-07-28 17:52:51.583140+00:00",
     "tick_return": 0.0,
     "equity": 0.775442,
     "vol_scale": 0.0,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 17:50:55.064425+00:00"
+    "asof": "2026-07-28 17:52:51.583140+00:00"
   },
   "positions": {
     "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00081,
