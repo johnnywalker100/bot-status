@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28 18:45:19.779483+00:00",
+  "generated": "2026-07-28 18:47:19.783408+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.993855,
   "peak": 1.028718,
@@ -7,13 +7,13 @@
   "start": "2026-07-28 17:30:58.185107+00:00",
   "gross_lev": 0.6035,
   "last_tick": {
-    "ts": "2026-07-28 18:45:17.013817+00:00",
+    "ts": "2026-07-28 18:47:15.804686+00:00",
     "tick_return": 0.0,
     "equity": 0.993855,
     "vol_scale": 0.603,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 18:45:17.013817+00:00"
+    "asof": "2026-07-28 18:47:15.804686+00:00"
   },
   "positions": {
     "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00063,
@@ -1219,6 +1219,48 @@
       "equity": 0.993855,
       "risk": "quoting",
       "vol_scale": 0.603
+    },
+    {
+      "ts": "2026-07-28 18:45:35.531967+00:00",
+      "ret": 0.0,
+      "equity": 0.993855,
+      "risk": "quoting",
+      "vol_scale": 0.603
+    },
+    {
+      "ts": "2026-07-28 18:45:55.673283+00:00",
+      "ret": 0.0,
+      "equity": 0.993855,
+      "risk": "quoting",
+      "vol_scale": 0.603
+    },
+    {
+      "ts": "2026-07-28 18:46:15.516711+00:00",
+      "ret": 0.0,
+      "equity": 0.993855,
+      "risk": "quoting",
+      "vol_scale": 0.603
+    },
+    {
+      "ts": "2026-07-28 18:46:35.710873+00:00",
+      "ret": 0.0,
+      "equity": 0.993855,
+      "risk": "quoting",
+      "vol_scale": 0.603
+    },
+    {
+      "ts": "2026-07-28 18:46:55.591983+00:00",
+      "ret": 0.0,
+      "equity": 0.993855,
+      "risk": "quoting",
+      "vol_scale": 0.603
+    },
+    {
+      "ts": "2026-07-28 18:47:15.791890+00:00",
+      "ret": 0.0,
+      "equity": 0.993855,
+      "risk": "quoting",
+      "vol_scale": 0.603
     }
   ],
   "weekly": [],
@@ -1355,11 +1397,11 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 11.86,
-      "scorable_trades": 12598,
+      "hours": 11.95,
+      "scorable_trades": 12821,
       "fills": 1415,
       "fills_needed": 2000,
-      "markets": 530,
+      "markets": 532,
       "bias": 1.688,
       "breakeven": {
         "gross": 1.35,
