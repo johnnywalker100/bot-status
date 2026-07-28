@@ -1,40 +1,42 @@
 {
-  "generated": "2026-07-28 18:00:42.570979+00:00",
+  "generated": "2026-07-28 18:02:42.574937+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.999301,
+  "equity": 1.005621,
   "peak": 1.023777,
-  "drawdown": -0.023907,
+  "drawdown": -0.017734,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.3287,
+  "gross_lev": 0.3794,
   "last_tick": {
-    "ts": "2026-07-28 18:00:38.067750+00:00",
-    "tick_return": 0.002239,
-    "equity": 0.999301,
-    "vol_scale": 0.329,
+    "ts": "2026-07-28 18:02:38.163609+00:00",
+    "tick_return": 0.002563,
+    "equity": 1.005621,
+    "vol_scale": 0.379,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 18:00:38.067750+00:00"
+    "asof": "2026-07-28 18:02:38.163609+00:00"
   },
   "positions": {
-    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00063,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00011,
-    "Cleveland Guardians vs. Cincinnati Reds": 0.00054,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00603,
-    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.02026,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01961,
-    "Will the highest temperature in San Francisco be": 0.01443,
-    "Will R\u012bga FC win on 2026-07-28?": 0.01071,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01026,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00901,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00881,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00642,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.00569,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00229,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00521,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.0037,
-    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00344,
-    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00207,
-    "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.0006,
+    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00062,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00176,
+    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01591,
+    "Cleveland Guardians vs. Cincinnati Reds": 0.00052,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.006,
+    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02285,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.0198,
+    "Will the highest temperature in San Francisco be": 0.01434,
+    "Will R\u012bga FC win on 2026-07-28?": 0.01064,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01019,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00875,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.0082,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00176,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00638,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.00566,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00518,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.00368,
+    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00342,
+    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.0021,
+    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00206,
+    "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00018,
     "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.0002,
     "Zelenskyy meets with Netanyahu by Thursday?": 0.00015,
     "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00012
@@ -578,6 +580,48 @@
       "equity": 0.999301,
       "risk": "quoting",
       "vol_scale": 0.329
+    },
+    {
+      "ts": "2026-07-28 18:00:58.390206+00:00",
+      "ret": 6e-05,
+      "equity": 0.999361,
+      "risk": "quoting",
+      "vol_scale": 0.338
+    },
+    {
+      "ts": "2026-07-28 18:01:18.421922+00:00",
+      "ret": -0.003121,
+      "equity": 0.996242,
+      "risk": "quoting",
+      "vol_scale": 0.343
+    },
+    {
+      "ts": "2026-07-28 18:01:38.030660+00:00",
+      "ret": -0.000924,
+      "equity": 0.995321,
+      "risk": "quoting",
+      "vol_scale": 0.343
+    },
+    {
+      "ts": "2026-07-28 18:01:58.097661+00:00",
+      "ret": 0.004787,
+      "equity": 1.000086,
+      "risk": "quoting",
+      "vol_scale": 0.348
+    },
+    {
+      "ts": "2026-07-28 18:02:18.262098+00:00",
+      "ret": 0.002963,
+      "equity": 1.00305,
+      "risk": "quoting",
+      "vol_scale": 0.362
+    },
+    {
+      "ts": "2026-07-28 18:02:38.155438+00:00",
+      "ret": 0.002563,
+      "equity": 1.005621,
+      "risk": "quoting",
+      "vol_scale": 0.379
     }
   ],
   "weekly": [],
@@ -614,97 +658,97 @@
     "maker": {
       "quoting": true,
       "markets_quoted": 40,
-      "quotes_live": 64,
-      "fills_total": 153,
+      "quotes_live": 52,
+      "fills_total": 172,
       "halt": "",
       "recent_fills": [
         {
-          "t": "2026-07-28 18:00:24.569928+00:00",
-          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
+          "t": "2026-07-28 18:02:18.256578+00:00",
+          "token": "34551153178017281143945576708440066911195440294904716498428992303695206088315",
           "side": "BUY",
-          "shares": 140.75,
-          "price": 0.44,
+          "shares": 0.25,
+          "price": 0.78,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
+          "title": "Counter-Strike: CYBERSHOKE Prospects vs Lavked (BO3) - NODWI"
         },
         {
-          "t": "2026-07-28 18:00:24.569977+00:00",
-          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
+          "t": "2026-07-28 18:02:18.256605+00:00",
+          "token": "34551153178017281143945576708440066911195440294904716498428992303695206088315",
           "side": "BUY",
-          "shares": 1.31,
-          "price": 0.44,
+          "shares": 100.0,
+          "price": 0.78,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
+          "title": "Counter-Strike: CYBERSHOKE Prospects vs Lavked (BO3) - NODWI"
         },
         {
-          "t": "2026-07-28 18:00:38.052695+00:00",
-          "token": "29470070804130688459605616907450624647579759072633667708663049869978507039837",
+          "t": "2026-07-28 18:02:38.151305+00:00",
+          "token": "102901988879931465840384712263665756046040535693860131585853600211645153231048",
           "side": "BUY",
-          "shares": 7.5,
-          "price": 0.23,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Cleveland Guardians vs. Cincinnati Reds"
-        },
-        {
-          "t": "2026-07-28 18:00:38.052818+00:00",
-          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
-          "side": "BUY",
-          "shares": 43.64,
-          "price": 0.48,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
-        },
-        {
-          "t": "2026-07-28 18:00:38.052872+00:00",
-          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
-          "side": "BUY",
-          "shares": 140.75,
-          "price": 0.48,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
-        },
-        {
-          "t": "2026-07-28 18:00:38.052906+00:00",
-          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
-          "side": "BUY",
-          "shares": 1.31,
-          "price": 0.48,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
-        },
-        {
-          "t": "2026-07-28 18:00:38.052934+00:00",
-          "token": "3133903991445071671602163275956542764414451753570877919026551820300113165323",
-          "side": "BUY",
-          "shares": 15.97,
-          "price": 0.37,
+          "shares": 2.17,
+          "price": 0.78,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
           "title": "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoom Streamers "
         },
         {
-          "t": "2026-07-28 18:00:38.052960+00:00",
-          "token": "29470070804130688459605616907450624647579759072633667708663049869978507039837",
+          "t": "2026-07-28 18:02:38.151392+00:00",
+          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
           "side": "BUY",
-          "shares": 16.66,
-          "price": 0.23,
+          "shares": 84.39,
+          "price": 0.56,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "Cleveland Guardians vs. Cincinnati Reds"
+          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
+        },
+        {
+          "t": "2026-07-28 18:02:38.151428+00:00",
+          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
+          "side": "BUY",
+          "shares": 1.31,
+          "price": 0.56,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
+        },
+        {
+          "t": "2026-07-28 18:02:38.151456+00:00",
+          "token": "34551153178017281143945576708440066911195440294904716498428992303695206088315",
+          "side": "BUY",
+          "shares": 31.25,
+          "price": 0.79,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Counter-Strike: CYBERSHOKE Prospects vs Lavked (BO3) - NODWI"
+        },
+        {
+          "t": "2026-07-28 18:02:38.151481+00:00",
+          "token": "34551153178017281143945576708440066911195440294904716498428992303695206088315",
+          "side": "BUY",
+          "shares": 0.25,
+          "price": 0.79,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Counter-Strike: CYBERSHOKE Prospects vs Lavked (BO3) - NODWI"
+        },
+        {
+          "t": "2026-07-28 18:02:38.151505+00:00",
+          "token": "34551153178017281143945576708440066911195440294904716498428992303695206088315",
+          "side": "BUY",
+          "shares": 100.0,
+          "price": 0.79,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Counter-Strike: CYBERSHOKE Prospects vs Lavked (BO3) - NODWI"
         }
       ]
     },
@@ -716,7 +760,7 @@
     "shadow": {
       "hours": 11.2,
       "scorable_trades": 11822,
-      "fills": 1335,
+      "fills": 1351,
       "fills_needed": 2000,
       "markets": 495,
       "bias": 1.64,
@@ -725,7 +769,7 @@
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -1.2097,
+      "c_per_share": -1.3091,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
