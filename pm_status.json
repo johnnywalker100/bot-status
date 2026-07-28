@@ -1,50 +1,51 @@
 {
-  "generated": "2026-07-28 18:31:19.843588+00:00",
+  "generated": "2026-07-28 18:33:19.757050+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.995468,
+  "equity": 0.999088,
   "peak": 1.028718,
-  "drawdown": -0.032322,
+  "drawdown": -0.028803,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.4908,
+  "gross_lev": 0.5171,
   "last_tick": {
-    "ts": "2026-07-28 18:30:56.087323+00:00",
-    "tick_return": 0.000592,
-    "equity": 0.995468,
-    "vol_scale": 0.491,
+    "ts": "2026-07-28 18:33:15.870103+00:00",
+    "tick_return": 0.000395,
+    "equity": 0.999088,
+    "vol_scale": 0.517,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 18:30:56.087323+00:00"
+    "asof": "2026-07-28 18:33:15.870103+00:00"
   },
   "positions": {
     "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00063,
-    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01595,
+    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01589,
     "Cleveland Guardians vs. Cincinnati Reds": 0.00035,
-    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03642,
-    "Will Trump say \"Hell\" 2+ times during tribute to": 0.03375,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00128,
-    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02378,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00606,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01998,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00603,
-    "Will the highest temperature in San Francisco be": 0.01449,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.01386,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.01371,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.0103,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00956,
-    "Will R\u012bga FC win on 2026-07-28?": 0.00924,
-    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.00906,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00644,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.00572,
-    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00358,
-    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00345,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00326,
-    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00209,
-    "FC Drita vs. Floriana FC: O/U 3.5": 0.0015,
+    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03628,
+    "Will Trump say \"Hell\" 2+ times during tribute to": 0.03363,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00087,
+    "Will FC Thun win on 2026-07-28?": 0.02622,
+    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.0237,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00604,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01991,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.01471,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00601,
+    "Will the highest temperature in San Francisco be": 0.01443,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.01367,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01026,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.01007,
+    "Will R\u012bga FC win on 2026-07-28?": 0.00921,
+    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.00903,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00642,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.0057,
+    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00356,
+    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00344,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00325,
+    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00208,
+    "FC Drita vs. Floriana FC: O/U 3.5": 0.00149,
     "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00032,
-    "FC Drita vs. Floriana FC: O/U 2.5": 0.00043,
+    "FC Drita vs. Floriana FC: O/U 2.5": 0.00042,
+    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00028,
     "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.0002,
-    "Zelenskyy meets with Netanyahu by Thursday?": 0.00015,
-    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 7e-05
+    "Zelenskyy meets with Netanyahu by Thursday?": 0.00015
   },
   "history": [
     {
@@ -914,6 +915,55 @@
       "equity": 0.995468,
       "risk": "quoting",
       "vol_scale": 0.491
+    },
+    {
+      "ts": "2026-07-28 18:31:24.840986+00:00",
+      "ret": 0.000511,
+      "equity": 0.995976,
+      "risk": "quoting",
+      "vol_scale": 0.491
+    },
+    {
+      "ts": "2026-07-28 18:31:36.150941+00:00",
+      "ret": 0.001366,
+      "equity": 0.997337,
+      "risk": "quoting",
+      "vol_scale": 0.504
+    },
+    {
+      "ts": "2026-07-28 18:31:56.261272+00:00",
+      "ret": 0.000366,
+      "equity": 0.997702,
+      "risk": "quoting",
+      "vol_scale": 0.504
+    },
+    {
+      "ts": "2026-07-28 18:32:15.892238+00:00",
+      "ret": 0.001061,
+      "equity": 0.998761,
+      "risk": "quoting",
+      "vol_scale": 0.517
+    },
+    {
+      "ts": "2026-07-28 18:32:35.939786+00:00",
+      "ret": 0.000162,
+      "equity": 0.998923,
+      "risk": "quoting",
+      "vol_scale": 0.517
+    },
+    {
+      "ts": "2026-07-28 18:32:55.966987+00:00",
+      "ret": -0.000229,
+      "equity": 0.998694,
+      "risk": "quoting",
+      "vol_scale": 0.517
+    },
+    {
+      "ts": "2026-07-28 18:33:15.864577+00:00",
+      "ret": 0.000395,
+      "equity": 0.999088,
+      "risk": "quoting",
+      "vol_scale": 0.517
     }
   ],
   "weekly": [],
@@ -950,54 +1000,10 @@
     "maker": {
       "quoting": true,
       "markets_quoted": 37,
-      "quotes_live": 46,
-      "fills_total": 283,
+      "quotes_live": 39,
+      "fills_total": 287,
       "halt": "",
       "recent_fills": [
-        {
-          "t": "2026-07-28 18:14:58.972667+00:00",
-          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
-          "side": "BUY",
-          "shares": 1.5,
-          "price": 0.73,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
-        },
-        {
-          "t": "2026-07-28 18:14:58.972714+00:00",
-          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
-          "side": "BUY",
-          "shares": 1.17,
-          "price": 0.73,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
-        },
-        {
-          "t": "2026-07-28 18:14:58.972737+00:00",
-          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
-          "side": "BUY",
-          "shares": 0.51,
-          "price": 0.73,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
-        },
-        {
-          "t": "2026-07-28 18:14:58.972757+00:00",
-          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
-          "side": "BUY",
-          "shares": 0.27,
-          "price": 0.73,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
-        },
         {
           "t": "2026-07-28 18:14:58.972781+00:00",
           "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
@@ -1041,6 +1047,50 @@
           "fee": 0.0,
           "rebate": 0.0,
           "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
+        },
+        {
+          "t": "2026-07-28 18:31:36.149338+00:00",
+          "token": "28063066249589971263634817107853124795866119528181760896958267404689010353328",
+          "side": "BUY",
+          "shares": 14.55,
+          "price": 0.6,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will FC Thun win on 2026-07-28?"
+        },
+        {
+          "t": "2026-07-28 18:31:36.149370+00:00",
+          "token": "28063066249589971263634817107853124795866119528181760896958267404689010353328",
+          "side": "BUY",
+          "shares": 185.45,
+          "price": 0.6,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will FC Thun win on 2026-07-28?"
+        },
+        {
+          "t": "2026-07-28 18:32:15.889801+00:00",
+          "token": "28063066249589971263634817107853124795866119528181760896958267404689010353328",
+          "side": "BUY",
+          "shares": 200.0,
+          "price": 0.61,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will FC Thun win on 2026-07-28?"
+        },
+        {
+          "t": "2026-07-28 18:32:55.962580+00:00",
+          "token": "13969203387153823146458665440104059267569949426722767089950295220087660621065",
+          "side": "BUY",
+          "shares": 8.89,
+          "price": 0.29,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng"
         }
       ]
     },
