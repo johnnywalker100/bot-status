@@ -1,42 +1,43 @@
 {
-  "generated": "2026-07-28 18:04:42.589055+00:00",
+  "generated": "2026-07-28 18:06:42.600978+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.987959,
+  "equity": 0.997229,
   "peak": 1.023777,
-  "drawdown": -0.034986,
+  "drawdown": -0.025931,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.3934,
+  "gross_lev": 0.4099,
   "last_tick": {
-    "ts": "2026-07-28 18:04:38.268588+00:00",
-    "tick_return": 0.002623,
-    "equity": 0.987959,
-    "vol_scale": 0.393,
+    "ts": "2026-07-28 18:06:21.934561+00:00",
+    "tick_return": 0.010084,
+    "equity": 0.997229,
+    "vol_scale": 0.41,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 18:04:38.268588+00:00"
+    "asof": "2026-07-28 18:06:21.934561+00:00"
   },
   "positions": {
     "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00063,
-    "Cleveland Guardians vs. Cincinnati Reds": 0.00055,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00299,
-    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.03138,
-    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02396,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.0061,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02013,
-    "Will the highest temperature in San Francisco be": 0.0146,
-    "Will R\u012bga FC win on 2026-07-28?": 0.01083,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01037,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00891,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00073,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00649,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00633,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.00576,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00527,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.00375,
-    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00348,
-    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00288,
+    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.0327,
+    "Cleveland Guardians vs. Cincinnati Reds": 0.00057,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00296,
+    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02374,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00605,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01995,
+    "Will the highest temperature in San Francisco be": 0.01446,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.01078,
+    "Will R\u012bga FC win on 2026-07-28?": 0.01073,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01028,
+    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.00953,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00916,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00079,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00643,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.00571,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00522,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.00371,
+    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00357,
+    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00345,
     "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.0021,
-    "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00031,
+    "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00028,
     "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.0002,
     "Zelenskyy meets with Netanyahu by Thursday?": 0.00015,
     "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00012
@@ -664,6 +665,41 @@
       "equity": 0.987959,
       "risk": "quoting",
       "vol_scale": 0.393
+    },
+    {
+      "ts": "2026-07-28 18:04:58.207822+00:00",
+      "ret": -0.011126,
+      "equity": 0.976967,
+      "risk": "quoting",
+      "vol_scale": 0.387
+    },
+    {
+      "ts": "2026-07-28 18:05:22.921985+00:00",
+      "ret": 0.009248,
+      "equity": 0.986002,
+      "risk": "quoting",
+      "vol_scale": 0.395
+    },
+    {
+      "ts": "2026-07-28 18:05:38.331413+00:00",
+      "ret": 0.000368,
+      "equity": 0.986364,
+      "risk": "quoting",
+      "vol_scale": 0.395
+    },
+    {
+      "ts": "2026-07-28 18:05:58.138271+00:00",
+      "ret": 0.000922,
+      "equity": 0.987274,
+      "risk": "quoting",
+      "vol_scale": 0.396
+    },
+    {
+      "ts": "2026-07-28 18:06:21.930068+00:00",
+      "ret": 0.010084,
+      "equity": 0.997229,
+      "risk": "quoting",
+      "vol_scale": 0.41
     }
   ],
   "weekly": [],
@@ -699,90 +735,24 @@
   "research": {
     "maker": {
       "quoting": true,
-      "markets_quoted": 40,
-      "quotes_live": 55,
-      "fills_total": 183,
+      "markets_quoted": 36,
+      "quotes_live": 57,
+      "fills_total": 191,
       "halt": "",
       "recent_fills": [
         {
-          "t": "2026-07-28 18:03:18.334195+00:00",
-          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
-          "side": "BUY",
-          "shares": 43.64,
-          "price": 0.64,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
-        },
-        {
-          "t": "2026-07-28 18:03:18.334264+00:00",
-          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
-          "side": "BUY",
-          "shares": 140.75,
-          "price": 0.64,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
-        },
-        {
-          "t": "2026-07-28 18:03:18.334292+00:00",
-          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
-          "side": "BUY",
-          "shares": 1.31,
-          "price": 0.64,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
-        },
-        {
-          "t": "2026-07-28 18:03:38.198041+00:00",
+          "t": "2026-07-28 18:04:58.203319+00:00",
           "token": "102901988879931465840384712263665756046040535693860131585853600211645153231048",
           "side": "BUY",
           "shares": 2.17,
-          "price": 0.81,
+          "price": 0.8,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
           "title": "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoom Streamers "
         },
         {
-          "t": "2026-07-28 18:04:01.165669+00:00",
-          "token": "102901988879931465840384712263665756046040535693860131585853600211645153231048",
-          "side": "BUY",
-          "shares": 2.17,
-          "price": 0.82,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoom Streamers "
-        },
-        {
-          "t": "2026-07-28 18:04:18.238220+00:00",
-          "token": "45428742532404323505581864884505243226668986569775736283918884250002727192182",
-          "side": "BUY",
-          "shares": 9.6,
-          "price": 0.41,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
-        },
-        {
-          "t": "2026-07-28 18:04:38.257718+00:00",
-          "token": "102901988879931465840384712263665756046040535693860131585853600211645153231048",
-          "side": "BUY",
-          "shares": 2.17,
-          "price": 0.81,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoom Streamers "
-        },
-        {
-          "t": "2026-07-28 18:04:38.257793+00:00",
+          "t": "2026-07-28 18:04:58.203441+00:00",
           "token": "108592552180142897709700312158029830050811670040035327450806912943580564230191",
           "side": "BUY",
           "shares": 7.69,
@@ -791,6 +761,72 @@
           "fee": 0.0,
           "rebate": 0.0,
           "title": "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5"
+        },
+        {
+          "t": "2026-07-28 18:05:22.917611+00:00",
+          "token": "25396098944767533776597454917277011984903919469071893029936307404194808670148",
+          "side": "BUY",
+          "shares": 22.77,
+          "price": 0.6,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
+        },
+        {
+          "t": "2026-07-28 18:05:22.917709+00:00",
+          "token": "25396098944767533776597454917277011984903919469071893029936307404194808670148",
+          "side": "BUY",
+          "shares": 8.0,
+          "price": 0.6,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
+        },
+        {
+          "t": "2026-07-28 18:05:38.327953+00:00",
+          "token": "25396098944767533776597454917277011984903919469071893029936307404194808670148",
+          "side": "BUY",
+          "shares": 0.77,
+          "price": 0.67,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
+        },
+        {
+          "t": "2026-07-28 18:06:21.928647+00:00",
+          "token": "25396098944767533776597454917277011984903919469071893029936307404194808670148",
+          "side": "BUY",
+          "shares": 22.77,
+          "price": 0.72,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
+        },
+        {
+          "t": "2026-07-28 18:06:21.928679+00:00",
+          "token": "25396098944767533776597454917277011984903919469071893029936307404194808670148",
+          "side": "BUY",
+          "shares": 8.0,
+          "price": 0.72,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (BO3) - VCT Ga"
+        },
+        {
+          "t": "2026-07-28 18:06:21.928695+00:00",
+          "token": "12689885984499110040200215697523416712269638607802597766977759538466855874520",
+          "side": "BUY",
+          "shares": 200.0,
+          "price": 0.29,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Regular Season"
         }
       ]
     },
@@ -800,18 +836,18 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 11.2,
-      "scorable_trades": 11822,
-      "fills": 1351,
+      "hours": 11.28,
+      "scorable_trades": 11969,
+      "fills": 1365,
       "fills_needed": 2000,
-      "markets": 495,
-      "bias": 1.64,
+      "markets": 502,
+      "bias": 1.675,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -1.3091,
+      "c_per_share": -1.3015,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
