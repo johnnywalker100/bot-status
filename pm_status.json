@@ -1,100 +1,58 @@
 {
-  "generated": "2026-07-28 20:21:20.350301+00:00",
+  "generated": "2026-07-28 20:23:20.357490+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.928641,
+  "equity": 0.934641,
   "peak": 1.028718,
-  "drawdown": -0.097284,
+  "drawdown": -0.091451,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.6226,
+  "gross_lev": 0.625,
   "last_tick": {
-    "ts": "2026-07-28 20:21:10.577489+00:00",
-    "tick_return": 0.000539,
-    "equity": 0.928641,
-    "vol_scale": 0.623,
+    "ts": "2026-07-28 20:23:10.252689+00:00",
+    "tick_return": 0.0,
+    "equity": 0.934641,
+    "vol_scale": 0.625,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 20:21:10.577489+00:00"
+    "asof": "2026-07-28 20:23:10.252689+00:00"
   },
   "positions": {
     "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00067,
-    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.0171,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.04454,
-    "LoL: ZennIT vs Dynasty - Game 2 Winner": 0.0444,
-    "Cleveland Guardians vs. Cincinnati Reds": 0.00069,
-    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03904,
-    "Will Trump say \"Hell\" 2+ times during tribute to": 0.03618,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.02711,
-    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02704,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00474,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00649,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02142,
+    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01699,
+    "Cleveland Guardians vs. Cincinnati Reds": 0.00038,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.04426,
+    "LoL: ZennIT vs Dynasty - Game 2 Winner": 0.04412,
+    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03878,
+    "Will Trump say \"Hell\" 2+ times during tribute to": 0.03595,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.02694,
+    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02687,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00471,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00645,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02128,
     "Will FC Thun win on 2026-07-28?": 0.00083,
-    "Will NK Celje win on 2026-07-28?": 0.00065,
-    "Will the highest temperature in San Francisco be": 0.01553,
-    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.01525,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01104,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.01036,
-    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00383,
-    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.0037,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.0035,
-    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: Both T": 0.00345,
-    "Dota 2: VooDooSh Team vs Daxak Team (BO3) - BetB": 0.00292,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00243,
-    "FC Drita vs. Floriana FC: O/U 3.5": 0.00191,
-    "Mubadala Citi DC Open: Arthur Fils vs Rafael Jod": 0.00184,
+    "Will NK Celje win on 2026-07-28?": 0.00064,
+    "Will the highest temperature in San Francisco be": 0.01543,
+    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.01515,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01097,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.0103,
+    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00381,
+    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00368,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00348,
+    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: Both T": 0.00342,
+    "Dota 2: VooDooSh Team vs Daxak Team (BO3) - BetB": 0.0029,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00241,
+    "FC Drita vs. Floriana FC: O/U 3.5": 0.00189,
+    "Mubadala Citi DC Open: Arthur Fils vs Rafael Jod": 0.00183,
     "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00034,
-    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00118,
-    "FC Drita vs. Floriana FC: O/U 2.5": 0.00074,
-    "Will R\u012bga FC win on 2026-07-28?": 0.00054,
+    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00117,
+    "FC Drita vs. Floriana FC: O/U 2.5": 0.00073,
+    "Will R\u012bga FC win on 2026-07-28?": 0.00053,
     "Mubadala Citi DC Open: Adrian Mannarino vs Learn": 0.00042,
     "Will R\u012bga FC vs. FK Vardar Skopje end in a draw?": 0.00023
   },
   "history": [
     {
-      "ts": "2026-07-28 17:48:52.937439+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:49:12.794935+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:49:32.831284+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:49:52.985333+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:50:15.058102+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:50:35.328924+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
       "ts": "2026-07-28 17:55:17.815274+00:00",
-      "ret": -0.000352,
+      "ret": 0.0,
       "equity": 1.023416,
       "risk": "quoting",
       "vol_scale": 0.242
@@ -2849,6 +2807,48 @@
       "equity": 0.928641,
       "risk": "quoting",
       "vol_scale": 0.623
+    },
+    {
+      "ts": "2026-07-28 20:21:39.373665+00:00",
+      "ret": 0.001615,
+      "equity": 0.930141,
+      "risk": "quoting",
+      "vol_scale": 0.623
+    },
+    {
+      "ts": "2026-07-28 20:21:50.177481+00:00",
+      "ret": 0.0043,
+      "equity": 0.934141,
+      "risk": "quoting",
+      "vol_scale": 0.625
+    },
+    {
+      "ts": "2026-07-28 20:22:10.296517+00:00",
+      "ret": 0.0,
+      "equity": 0.934141,
+      "risk": "quoting",
+      "vol_scale": 0.625
+    },
+    {
+      "ts": "2026-07-28 20:22:30.743956+00:00",
+      "ret": 0.000535,
+      "equity": 0.934641,
+      "risk": "quoting",
+      "vol_scale": 0.625
+    },
+    {
+      "ts": "2026-07-28 20:22:50.330610+00:00",
+      "ret": 0.0,
+      "equity": 0.934641,
+      "risk": "quoting",
+      "vol_scale": 0.625
+    },
+    {
+      "ts": "2026-07-28 20:23:10.236817+00:00",
+      "ret": 0.0,
+      "equity": 0.934641,
+      "risk": "quoting",
+      "vol_scale": 0.625
     }
   ],
   "weekly": [],
@@ -2987,16 +2987,16 @@
     "shadow": {
       "hours": 13.53,
       "scorable_trades": 15963,
-      "fills": 1701,
+      "fills": 1704,
       "fills_needed": 2000,
       "markets": 610,
-      "bias": 1.773,
+      "bias": 1.776,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.2561,
+      "c_per_share": -2.2477,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
