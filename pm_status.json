@@ -1,54 +1,54 @@
 {
-  "generated": "2026-07-28 18:39:19.759190+00:00",
+  "generated": "2026-07-28 18:41:19.897642+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.996918,
+  "equity": 0.988321,
   "peak": 1.028718,
-  "drawdown": -0.030913,
+  "drawdown": -0.03927,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.5758,
+  "gross_lev": 0.5812,
   "last_tick": {
-    "ts": "2026-07-28 18:39:15.898575+00:00",
-    "tick_return": 0.002473,
-    "equity": 0.996918,
-    "vol_scale": 0.576,
+    "ts": "2026-07-28 18:40:56.171882+00:00",
+    "tick_return": -6.6e-05,
+    "equity": 0.988321,
+    "vol_scale": 0.581,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 18:39:15.898575+00:00"
+    "asof": "2026-07-28 18:40:56.171882+00:00"
   },
   "positions": {
     "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00063,
-    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01593,
-    "Cleveland Guardians vs. Cincinnati Reds": 0.00035,
-    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03636,
-    "Will Trump say \"Hell\" 2+ times during tribute to": 0.0337,
-    "Will FC Thun win on 2026-07-28?": 0.0316,
-    "The Hundred: Sunrisers Leeds vs Manchester Super": 0.02643,
-    "LoL: ZennIT vs Dynasty - Game 2 Winner": 0.02641,
-    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02519,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00441,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00605,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01995,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.01569,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.01482,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00602,
-    "Will the highest temperature in San Francisco be": 0.01447,
-    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.01104,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01028,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00965,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00643,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.00571,
-    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: Both T": 0.00371,
-    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00357,
-    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00345,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00326,
-    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00209,
-    "FC Drita vs. Floriana FC: O/U 3.5": 0.00149,
+    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01607,
+    "Cleveland Guardians vs. Cincinnati Reds": 0.00045,
+    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03668,
+    "Will Trump say \"Hell\" 2+ times during tribute to": 0.03399,
+    "Will FC Thun win on 2026-07-28?": 0.03364,
+    "The Hundred: Sunrisers Leeds vs Manchester Super": 0.03314,
+    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02541,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00445,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.0061,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02013,
+    "LoL: ZennIT vs Dynasty - Game 2 Winner": 0.0193,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.01697,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00607,
+    "Will the highest temperature in San Francisco be": 0.01459,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.01381,
+    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.01128,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01037,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00974,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00649,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.00498,
+    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.0036,
+    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00348,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00329,
+    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: Both T": 0.00324,
+    "Dota 2: VooDooSh Team vs Daxak Team (BO3) - BetB": 0.00283,
+    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00211,
+    "FC Drita vs. Floriana FC: O/U 3.5": 0.00151,
     "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00032,
-    "Will R\u012bga FC win on 2026-07-28?": 0.0007,
+    "Will R\u012bga FC win on 2026-07-28?": 0.00051,
     "FC Drita vs. Floriana FC: O/U 2.5": 0.00043,
-    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00036,
-    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.0002,
-    "Zelenskyy meets with Netanyahu by Thursday?": 0.00015
+    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00038,
+    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.0002
   },
   "history": [
     {
@@ -1093,6 +1093,41 @@
       "equity": 0.996918,
       "risk": "quoting",
       "vol_scale": 0.576
+    },
+    {
+      "ts": "2026-07-28 18:39:36.140049+00:00",
+      "ret": -0.004292,
+      "equity": 0.992639,
+      "risk": "quoting",
+      "vol_scale": 0.574
+    },
+    {
+      "ts": "2026-07-28 18:39:56.089812+00:00",
+      "ret": -0.003717,
+      "equity": 0.988949,
+      "risk": "quoting",
+      "vol_scale": 0.578
+    },
+    {
+      "ts": "2026-07-28 18:40:19.174479+00:00",
+      "ret": -0.000477,
+      "equity": 0.988477,
+      "risk": "quoting",
+      "vol_scale": 0.578
+    },
+    {
+      "ts": "2026-07-28 18:40:36.104220+00:00",
+      "ret": -9.3e-05,
+      "equity": 0.988386,
+      "risk": "quoting",
+      "vol_scale": 0.581
+    },
+    {
+      "ts": "2026-07-28 18:40:56.162013+00:00",
+      "ret": -6.6e-05,
+      "equity": 0.988321,
+      "risk": "quoting",
+      "vol_scale": 0.581
     }
   ],
   "weekly": [],
@@ -1128,33 +1163,11 @@
   "research": {
     "maker": {
       "quoting": true,
-      "markets_quoted": 33,
-      "quotes_live": 29,
-      "fills_total": 309,
+      "markets_quoted": 34,
+      "quotes_live": 38,
+      "fills_total": 311,
       "halt": "",
       "recent_fills": [
-        {
-          "t": "2026-07-28 18:34:56.383504+00:00",
-          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
-          "side": "BUY",
-          "shares": 2.0,
-          "price": 0.849,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
-        },
-        {
-          "t": "2026-07-28 18:34:56.383584+00:00",
-          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
-          "side": "BUY",
-          "shares": 1.0,
-          "price": 0.849,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
-        },
         {
           "t": "2026-07-28 18:35:36.060388+00:00",
           "token": "28758805238962928458197028422752308474543952649249425716651322434074208398606",
@@ -1220,6 +1233,28 @@
           "fee": 0.0,
           "rebate": 0.0,
           "title": "The Hundred: Sunrisers Leeds vs Manchester Super Giants"
+        },
+        {
+          "t": "2026-07-28 18:39:56.086712+00:00",
+          "token": "28758805238962928458197028422752308474543952649249425716651322434074208398606",
+          "side": "BUY",
+          "shares": 85.0,
+          "price": 0.63,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "The Hundred: Sunrisers Leeds vs Manchester Super Giants"
+        },
+        {
+          "t": "2026-07-28 18:40:36.101514+00:00",
+          "token": "35569019116554440686871978475552812027989883921078073372503355692764971383071",
+          "side": "BUY",
+          "shares": 180.66,
+          "price": 0.2,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Dota 2: VooDooSh Team vs Daxak Team (BO3) - BetBoom Streamer"
         }
       ]
     },
@@ -1229,18 +1264,18 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 11.78,
-      "scorable_trades": 12460,
-      "fills": 1406,
+      "hours": 11.86,
+      "scorable_trades": 12598,
+      "fills": 1407,
       "fills_needed": 2000,
-      "markets": 521,
-      "bias": 1.686,
+      "markets": 530,
+      "bias": 1.681,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -1.4675,
+      "c_per_share": -1.4618,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
