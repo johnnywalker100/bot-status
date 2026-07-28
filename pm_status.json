@@ -1,54 +1,38 @@
 {
-  "generated": "2026-07-28 19:07:19.837739+00:00",
+  "generated": "2026-07-28 17:56:42.550986+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 1.013075,
-  "peak": 1.028718,
-  "drawdown": -0.015207,
+  "equity": 1.023702,
+  "peak": 1.023777,
+  "drawdown": -7.3e-05,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.6266,
+  "gross_lev": 0.2525,
   "last_tick": {
-    "ts": "2026-07-28 19:07:00.121594+00:00",
-    "tick_return": 7.5e-05,
-    "equity": 1.013075,
-    "vol_scale": 0.627,
+    "ts": "2026-07-28 17:56:11.929864+00:00",
+    "tick_return": 8.1e-05,
+    "equity": 1.023702,
+    "vol_scale": 0.253,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 19:07:00.121594+00:00"
+    "asof": "2026-07-28 17:56:11.929864+00:00"
   },
   "positions": {
-    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00062,
-    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.01567,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.04083,
-    "LoL: ZennIT vs Dynasty - Game 2 Winner": 0.0407,
-    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.03578,
-    "Will FC Thun win on 2026-07-28?": 0.0343,
-    "Will Trump say \"Hell\" 2+ times during tribute to": 0.03316,
-    "The Hundred: Sunrisers Leeds vs Manchester Super": 0.03307,
-    "Cleveland Guardians vs. Cincinnati Reds": 0.00092,
-    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02479,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00434,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00595,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01963,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.01958,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.01473,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00592,
-    "Will the highest temperature in San Francisco be": 0.01424,
-    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.01397,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01012,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.0095,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00633,
-    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00352,
-    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.00339,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00321,
-    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: Both T": 0.00316,
-    "Dota 2: VooDooSh Team vs Daxak Team (BO3) - BetB": 0.00268,
-    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00205,
-    "Mubadala Citi DC Open: Arthur Fils vs Rafael Jod": 0.00186,
-    "FC Drita vs. Floriana FC: O/U 3.5": 0.00161,
-    "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00031,
-    "Will R\u012bga FC win on 2026-07-28?": 0.00049,
-    "FC Drita vs. Floriana FC: O/U 2.5": 0.00039,
-    "Mubadala Citi DC Open: Adrian Mannarino vs Learn": 0.00037
+    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00061,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00011,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.03175,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00589,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01563,
+    "Will the highest temperature in San Francisco be": 0.01409,
+    "Will R\u012bga FC win on 2026-07-28?": 0.01045,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01001,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.0087,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00627,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00509,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.00361,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00244,
+    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00202,
+    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.00026,
+    "Zelenskyy meets with Netanyahu by Thursday?": 0.00015,
+    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00013
   },
   "history": [
     {
@@ -498,1182 +482,6 @@
       "equity": 1.023702,
       "risk": "quoting",
       "vol_scale": 0.253
-    },
-    {
-      "ts": "2026-07-28 17:56:50.149776+00:00",
-      "ret": -0.0174,
-      "equity": 1.00589,
-      "risk": "quoting",
-      "vol_scale": 0.239
-    },
-    {
-      "ts": "2026-07-28 17:56:58.078542+00:00",
-      "ret": 0.003696,
-      "equity": 1.009608,
-      "risk": "quoting",
-      "vol_scale": 0.252
-    },
-    {
-      "ts": "2026-07-28 17:57:18.151765+00:00",
-      "ret": 0.001944,
-      "equity": 1.011571,
-      "risk": "quoting",
-      "vol_scale": 0.28
-    },
-    {
-      "ts": "2026-07-28 17:57:38.201092+00:00",
-      "ret": -0.007386,
-      "equity": 1.004099,
-      "risk": "quoting",
-      "vol_scale": 0.275
-    },
-    {
-      "ts": "2026-07-28 17:57:57.999798+00:00",
-      "ret": -0.00147,
-      "equity": 1.002624,
-      "risk": "quoting",
-      "vol_scale": 0.292
-    },
-    {
-      "ts": "2026-07-28 17:58:18.233698+00:00",
-      "ret": -0.004824,
-      "equity": 0.997787,
-      "risk": "quoting",
-      "vol_scale": 0.305
-    },
-    {
-      "ts": "2026-07-28 17:58:38.132207+00:00",
-      "ret": 0.002714,
-      "equity": 1.000495,
-      "risk": "quoting",
-      "vol_scale": 0.307
-    },
-    {
-      "ts": "2026-07-28 17:58:58.049860+00:00",
-      "ret": 7.5e-05,
-      "equity": 1.00057,
-      "risk": "quoting",
-      "vol_scale": 0.308
-    },
-    {
-      "ts": "2026-07-28 17:59:18.035620+00:00",
-      "ret": 0.010282,
-      "equity": 1.010858,
-      "risk": "quoting",
-      "vol_scale": 0.315
-    },
-    {
-      "ts": "2026-07-28 17:59:38.087364+00:00",
-      "ret": -0.017534,
-      "equity": 0.993133,
-      "risk": "quoting",
-      "vol_scale": 0.304
-    },
-    {
-      "ts": "2026-07-28 17:59:58.154970+00:00",
-      "ret": 0.001498,
-      "equity": 0.994621,
-      "risk": "quoting",
-      "vol_scale": 0.307
-    },
-    {
-      "ts": "2026-07-28 18:00:24.575485+00:00",
-      "ret": 0.00246,
-      "equity": 0.997068,
-      "risk": "quoting",
-      "vol_scale": 0.317
-    },
-    {
-      "ts": "2026-07-28 18:00:38.057888+00:00",
-      "ret": 0.002239,
-      "equity": 0.999301,
-      "risk": "quoting",
-      "vol_scale": 0.329
-    },
-    {
-      "ts": "2026-07-28 18:00:58.390206+00:00",
-      "ret": 6e-05,
-      "equity": 0.999361,
-      "risk": "quoting",
-      "vol_scale": 0.338
-    },
-    {
-      "ts": "2026-07-28 18:01:18.421922+00:00",
-      "ret": -0.003121,
-      "equity": 0.996242,
-      "risk": "quoting",
-      "vol_scale": 0.343
-    },
-    {
-      "ts": "2026-07-28 18:01:38.030660+00:00",
-      "ret": -0.000924,
-      "equity": 0.995321,
-      "risk": "quoting",
-      "vol_scale": 0.343
-    },
-    {
-      "ts": "2026-07-28 18:01:58.097661+00:00",
-      "ret": 0.004787,
-      "equity": 1.000086,
-      "risk": "quoting",
-      "vol_scale": 0.348
-    },
-    {
-      "ts": "2026-07-28 18:02:18.262098+00:00",
-      "ret": 0.002963,
-      "equity": 1.00305,
-      "risk": "quoting",
-      "vol_scale": 0.362
-    },
-    {
-      "ts": "2026-07-28 18:02:38.155438+00:00",
-      "ret": 0.002563,
-      "equity": 1.005621,
-      "risk": "quoting",
-      "vol_scale": 0.379
-    },
-    {
-      "ts": "2026-07-28 18:02:58.132928+00:00",
-      "ret": -0.001487,
-      "equity": 1.004125,
-      "risk": "quoting",
-      "vol_scale": 0.39
-    },
-    {
-      "ts": "2026-07-28 18:03:18.337378+00:00",
-      "ret": -0.011632,
-      "equity": 0.992445,
-      "risk": "quoting",
-      "vol_scale": 0.395
-    },
-    {
-      "ts": "2026-07-28 18:03:38.202885+00:00",
-      "ret": -0.009094,
-      "equity": 0.98342,
-      "risk": "quoting",
-      "vol_scale": 0.389
-    },
-    {
-      "ts": "2026-07-28 18:04:01.173060+00:00",
-      "ret": 0.003397,
-      "equity": 0.98676,
-      "risk": "quoting",
-      "vol_scale": 0.391
-    },
-    {
-      "ts": "2026-07-28 18:04:18.241487+00:00",
-      "ret": -0.001405,
-      "equity": 0.985374,
-      "risk": "quoting",
-      "vol_scale": 0.391
-    },
-    {
-      "ts": "2026-07-28 18:04:38.260833+00:00",
-      "ret": 0.002623,
-      "equity": 0.987959,
-      "risk": "quoting",
-      "vol_scale": 0.393
-    },
-    {
-      "ts": "2026-07-28 18:04:58.207822+00:00",
-      "ret": -0.011126,
-      "equity": 0.976967,
-      "risk": "quoting",
-      "vol_scale": 0.387
-    },
-    {
-      "ts": "2026-07-28 18:05:22.921985+00:00",
-      "ret": 0.009248,
-      "equity": 0.986002,
-      "risk": "quoting",
-      "vol_scale": 0.395
-    },
-    {
-      "ts": "2026-07-28 18:05:38.331413+00:00",
-      "ret": 0.000368,
-      "equity": 0.986364,
-      "risk": "quoting",
-      "vol_scale": 0.395
-    },
-    {
-      "ts": "2026-07-28 18:05:58.138271+00:00",
-      "ret": 0.000922,
-      "equity": 0.987274,
-      "risk": "quoting",
-      "vol_scale": 0.396
-    },
-    {
-      "ts": "2026-07-28 18:06:21.930068+00:00",
-      "ret": 0.010084,
-      "equity": 0.997229,
-      "risk": "quoting",
-      "vol_scale": 0.41
-    },
-    {
-      "ts": "2026-07-28 18:06:44.813714+00:00",
-      "ret": 0.00411,
-      "equity": 1.001328,
-      "risk": "quoting",
-      "vol_scale": 0.421
-    },
-    {
-      "ts": "2026-07-28 18:06:58.200835+00:00",
-      "ret": 0.001323,
-      "equity": 1.002652,
-      "risk": "quoting",
-      "vol_scale": 0.428
-    },
-    {
-      "ts": "2026-07-28 18:07:18.149629+00:00",
-      "ret": 0.007009,
-      "equity": 1.00968,
-      "risk": "quoting",
-      "vol_scale": 0.432
-    },
-    {
-      "ts": "2026-07-28 18:07:38.293241+00:00",
-      "ret": 0.006347,
-      "equity": 1.016088,
-      "risk": "quoting",
-      "vol_scale": 0.436
-    },
-    {
-      "ts": "2026-07-28 18:07:58.177295+00:00",
-      "ret": 0.01243,
-      "equity": 1.028718,
-      "risk": "quoting",
-      "vol_scale": 0.458
-    },
-    {
-      "ts": "2026-07-28 18:08:18.292495+00:00",
-      "ret": -0.014778,
-      "equity": 1.013516,
-      "risk": "quoting",
-      "vol_scale": 0.453
-    },
-    {
-      "ts": "2026-07-28 18:08:41.762388+00:00",
-      "ret": -0.00174,
-      "equity": 1.011753,
-      "risk": "quoting",
-      "vol_scale": 0.453
-    },
-    {
-      "ts": "2026-07-28 18:08:58.272821+00:00",
-      "ret": -0.002833,
-      "equity": 1.008886,
-      "risk": "quoting",
-      "vol_scale": 0.455
-    },
-    {
-      "ts": "2026-07-28 18:09:18.091560+00:00",
-      "ret": -0.006814,
-      "equity": 1.002011,
-      "risk": "quoting",
-      "vol_scale": 0.454
-    },
-    {
-      "ts": "2026-07-28 18:09:38.359721+00:00",
-      "ret": -0.008132,
-      "equity": 0.993863,
-      "risk": "quoting",
-      "vol_scale": 0.451
-    },
-    {
-      "ts": "2026-07-28 18:09:58.274416+00:00",
-      "ret": -0.000635,
-      "equity": 0.993232,
-      "risk": "quoting",
-      "vol_scale": 0.454
-    },
-    {
-      "ts": "2026-07-28 18:10:23.776438+00:00",
-      "ret": -0.011951,
-      "equity": 0.981362,
-      "risk": "quoting",
-      "vol_scale": 0.447
-    },
-    {
-      "ts": "2026-07-28 18:10:40.430775+00:00",
-      "ret": -0.000108,
-      "equity": 0.981256,
-      "risk": "quoting",
-      "vol_scale": 0.458
-    },
-    {
-      "ts": "2026-07-28 18:11:17.462518+00:00",
-      "ret": 0.004359,
-      "equity": 0.985533,
-      "risk": "quoting",
-      "vol_scale": 0.471
-    },
-    {
-      "ts": "2026-07-28 18:11:18.850476+00:00",
-      "ret": -0.000149,
-      "equity": 0.985386,
-      "risk": "quoting",
-      "vol_scale": 0.481
-    },
-    {
-      "ts": "2026-07-28 18:11:38.884571+00:00",
-      "ret": -0.0037,
-      "equity": 0.98174,
-      "risk": "quoting",
-      "vol_scale": 0.479
-    },
-    {
-      "ts": "2026-07-28 18:11:58.807798+00:00",
-      "ret": 0.000278,
-      "equity": 0.982013,
-      "risk": "quoting",
-      "vol_scale": 0.48
-    },
-    {
-      "ts": "2026-07-28 18:12:18.734126+00:00",
-      "ret": -0.002095,
-      "equity": 0.979956,
-      "risk": "quoting",
-      "vol_scale": 0.479
-    },
-    {
-      "ts": "2026-07-28 18:12:38.720195+00:00",
-      "ret": 0.00205,
-      "equity": 0.981965,
-      "risk": "quoting",
-      "vol_scale": 0.48
-    },
-    {
-      "ts": "2026-07-28 18:12:58.870401+00:00",
-      "ret": 0.004026,
-      "equity": 0.985918,
-      "risk": "quoting",
-      "vol_scale": 0.482
-    },
-    {
-      "ts": "2026-07-28 18:13:18.911860+00:00",
-      "ret": 0.004592,
-      "equity": 0.990445,
-      "risk": "quoting",
-      "vol_scale": 0.485
-    },
-    {
-      "ts": "2026-07-28 18:13:39.134168+00:00",
-      "ret": -0.011187,
-      "equity": 0.979365,
-      "risk": "quoting",
-      "vol_scale": 0.48
-    },
-    {
-      "ts": "2026-07-28 18:13:59.066161+00:00",
-      "ret": -0.00495,
-      "equity": 0.974517,
-      "risk": "quoting",
-      "vol_scale": 0.478
-    },
-    {
-      "ts": "2026-07-28 18:14:18.868872+00:00",
-      "ret": -0.000933,
-      "equity": 0.973607,
-      "risk": "quoting",
-      "vol_scale": 0.478
-    },
-    {
-      "ts": "2026-07-28 18:14:39.248333+00:00",
-      "ret": -0.002118,
-      "equity": 0.971545,
-      "risk": "quoting",
-      "vol_scale": 0.478
-    },
-    {
-      "ts": "2026-07-28 18:14:58.974750+00:00",
-      "ret": 0.001445,
-      "equity": 0.972949,
-      "risk": "quoting",
-      "vol_scale": 0.479
-    },
-    {
-      "ts": "2026-07-28 18:29:59.890787+00:00",
-      "ret": 0.022582,
-      "equity": 0.99492,
-      "risk": "quoting",
-      "vol_scale": 0.49
-    },
-    {
-      "ts": "2026-07-28 18:30:25.888182+00:00",
-      "ret": -0.000398,
-      "equity": 0.994525,
-      "risk": "quoting",
-      "vol_scale": 0.49
-    },
-    {
-      "ts": "2026-07-28 18:30:36.591932+00:00",
-      "ret": 0.000356,
-      "equity": 0.994879,
-      "risk": "quoting",
-      "vol_scale": 0.49
-    },
-    {
-      "ts": "2026-07-28 18:30:56.082548+00:00",
-      "ret": 0.000592,
-      "equity": 0.995468,
-      "risk": "quoting",
-      "vol_scale": 0.491
-    },
-    {
-      "ts": "2026-07-28 18:31:24.840986+00:00",
-      "ret": 0.000511,
-      "equity": 0.995976,
-      "risk": "quoting",
-      "vol_scale": 0.491
-    },
-    {
-      "ts": "2026-07-28 18:31:36.150941+00:00",
-      "ret": 0.001366,
-      "equity": 0.997337,
-      "risk": "quoting",
-      "vol_scale": 0.504
-    },
-    {
-      "ts": "2026-07-28 18:31:56.261272+00:00",
-      "ret": 0.000366,
-      "equity": 0.997702,
-      "risk": "quoting",
-      "vol_scale": 0.504
-    },
-    {
-      "ts": "2026-07-28 18:32:15.892238+00:00",
-      "ret": 0.001061,
-      "equity": 0.998761,
-      "risk": "quoting",
-      "vol_scale": 0.517
-    },
-    {
-      "ts": "2026-07-28 18:32:35.939786+00:00",
-      "ret": 0.000162,
-      "equity": 0.998923,
-      "risk": "quoting",
-      "vol_scale": 0.517
-    },
-    {
-      "ts": "2026-07-28 18:32:55.966987+00:00",
-      "ret": -0.000229,
-      "equity": 0.998694,
-      "risk": "quoting",
-      "vol_scale": 0.517
-    },
-    {
-      "ts": "2026-07-28 18:33:15.864577+00:00",
-      "ret": 0.000395,
-      "equity": 0.999088,
-      "risk": "quoting",
-      "vol_scale": 0.517
-    },
-    {
-      "ts": "2026-07-28 18:33:35.966051+00:00",
-      "ret": 0.000157,
-      "equity": 0.999245,
-      "risk": "quoting",
-      "vol_scale": 0.518
-    },
-    {
-      "ts": "2026-07-28 18:33:55.961828+00:00",
-      "ret": -0.000157,
-      "equity": 0.999088,
-      "risk": "quoting",
-      "vol_scale": 0.519
-    },
-    {
-      "ts": "2026-07-28 18:34:16.390448+00:00",
-      "ret": 0.001725,
-      "equity": 1.000811,
-      "risk": "quoting",
-      "vol_scale": 0.53
-    },
-    {
-      "ts": "2026-07-28 18:34:36.346937+00:00",
-      "ret": -0.001518,
-      "equity": 0.999292,
-      "risk": "quoting",
-      "vol_scale": 0.547
-    },
-    {
-      "ts": "2026-07-28 18:34:56.387588+00:00",
-      "ret": 0.003524,
-      "equity": 1.002813,
-      "risk": "quoting",
-      "vol_scale": 0.549
-    },
-    {
-      "ts": "2026-07-28 18:35:18.071968+00:00",
-      "ret": -0.001472,
-      "equity": 1.001336,
-      "risk": "quoting",
-      "vol_scale": 0.548
-    },
-    {
-      "ts": "2026-07-28 18:35:36.063761+00:00",
-      "ret": -0.001546,
-      "equity": 0.999788,
-      "risk": "quoting",
-      "vol_scale": 0.561
-    },
-    {
-      "ts": "2026-07-28 18:35:56.276630+00:00",
-      "ret": -7e-05,
-      "equity": 0.999718,
-      "risk": "quoting",
-      "vol_scale": 0.562
-    },
-    {
-      "ts": "2026-07-28 18:36:19.236275+00:00",
-      "ret": -0.004481,
-      "equity": 0.995238,
-      "risk": "quoting",
-      "vol_scale": 0.562
-    },
-    {
-      "ts": "2026-07-28 18:36:35.926868+00:00",
-      "ret": -0.005076,
-      "equity": 0.990187,
-      "risk": "quoting",
-      "vol_scale": 0.56
-    },
-    {
-      "ts": "2026-07-28 18:36:56.053876+00:00",
-      "ret": 0.000898,
-      "equity": 0.991076,
-      "risk": "quoting",
-      "vol_scale": 0.561
-    },
-    {
-      "ts": "2026-07-28 18:37:15.918613+00:00",
-      "ret": 0.007692,
-      "equity": 0.998699,
-      "risk": "quoting",
-      "vol_scale": 0.577
-    },
-    {
-      "ts": "2026-07-28 18:37:35.865456+00:00",
-      "ret": -0.002403,
-      "equity": 0.996299,
-      "risk": "quoting",
-      "vol_scale": 0.576
-    },
-    {
-      "ts": "2026-07-28 18:37:55.919547+00:00",
-      "ret": -0.00275,
-      "equity": 0.993559,
-      "risk": "quoting",
-      "vol_scale": 0.574
-    },
-    {
-      "ts": "2026-07-28 18:38:16.946088+00:00",
-      "ret": 0.002413,
-      "equity": 0.995957,
-      "risk": "quoting",
-      "vol_scale": 0.575
-    },
-    {
-      "ts": "2026-07-28 18:38:35.906222+00:00",
-      "ret": -0.00164,
-      "equity": 0.994324,
-      "risk": "quoting",
-      "vol_scale": 0.575
-    },
-    {
-      "ts": "2026-07-28 18:38:55.951846+00:00",
-      "ret": 0.000136,
-      "equity": 0.994459,
-      "risk": "quoting",
-      "vol_scale": 0.575
-    },
-    {
-      "ts": "2026-07-28 18:39:15.890236+00:00",
-      "ret": 0.002473,
-      "equity": 0.996918,
-      "risk": "quoting",
-      "vol_scale": 0.576
-    },
-    {
-      "ts": "2026-07-28 18:39:36.140049+00:00",
-      "ret": -0.004292,
-      "equity": 0.992639,
-      "risk": "quoting",
-      "vol_scale": 0.574
-    },
-    {
-      "ts": "2026-07-28 18:39:56.089812+00:00",
-      "ret": -0.003717,
-      "equity": 0.988949,
-      "risk": "quoting",
-      "vol_scale": 0.578
-    },
-    {
-      "ts": "2026-07-28 18:40:19.174479+00:00",
-      "ret": -0.000477,
-      "equity": 0.988477,
-      "risk": "quoting",
-      "vol_scale": 0.578
-    },
-    {
-      "ts": "2026-07-28 18:40:36.104220+00:00",
-      "ret": -9.3e-05,
-      "equity": 0.988386,
-      "risk": "quoting",
-      "vol_scale": 0.581
-    },
-    {
-      "ts": "2026-07-28 18:40:56.162013+00:00",
-      "ret": -6.6e-05,
-      "equity": 0.988321,
-      "risk": "quoting",
-      "vol_scale": 0.581
-    },
-    {
-      "ts": "2026-07-28 18:41:25.223451+00:00",
-      "ret": 0.000412,
-      "equity": 0.988728,
-      "risk": "quoting",
-      "vol_scale": 0.581
-    },
-    {
-      "ts": "2026-07-28 18:41:36.136698+00:00",
-      "ret": -0.000124,
-      "equity": 0.988606,
-      "risk": "quoting",
-      "vol_scale": 0.581
-    },
-    {
-      "ts": "2026-07-28 18:41:56.211392+00:00",
-      "ret": -0.000704,
-      "equity": 0.987909,
-      "risk": "quoting",
-      "vol_scale": 0.588
-    },
-    {
-      "ts": "2026-07-28 18:42:16.808377+00:00",
-      "ret": 0.003211,
-      "equity": 0.991081,
-      "risk": "quoting",
-      "vol_scale": 0.597
-    },
-    {
-      "ts": "2026-07-28 18:42:36.280140+00:00",
-      "ret": -0.00024,
-      "equity": 0.990843,
-      "risk": "quoting",
-      "vol_scale": 0.597
-    },
-    {
-      "ts": "2026-07-28 18:42:56.202316+00:00",
-      "ret": 0.00365,
-      "equity": 0.994459,
-      "risk": "quoting",
-      "vol_scale": 0.604
-    },
-    {
-      "ts": "2026-07-28 18:43:16.388965+00:00",
-      "ret": -0.001063,
-      "equity": 0.993402,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:43:36.359295+00:00",
-      "ret": 0.000455,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:43:55.669621+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:44:15.681735+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:44:35.510225+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:44:55.679175+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:45:17.003240+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:45:35.531967+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:45:55.673283+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:46:15.516711+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:46:35.710873+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:46:55.591983+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:47:15.791890+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:47:35.672486+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:47:55.777266+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:48:15.579079+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:48:35.753040+00:00",
-      "ret": 0.0,
-      "equity": 0.993855,
-      "risk": "quoting",
-      "vol_scale": 0.603
-    },
-    {
-      "ts": "2026-07-28 18:48:58.659126+00:00",
-      "ret": -0.004114,
-      "equity": 0.989766,
-      "risk": "quoting",
-      "vol_scale": 0.602
-    },
-    {
-      "ts": "2026-07-28 18:49:21.448670+00:00",
-      "ret": -0.001073,
-      "equity": 0.988704,
-      "risk": "quoting",
-      "vol_scale": 0.601
-    },
-    {
-      "ts": "2026-07-28 18:49:36.104247+00:00",
-      "ret": -0.006168,
-      "equity": 0.982606,
-      "risk": "quoting",
-      "vol_scale": 0.599
-    },
-    {
-      "ts": "2026-07-28 18:49:56.228183+00:00",
-      "ret": 0.012131,
-      "equity": 0.994526,
-      "risk": "quoting",
-      "vol_scale": 0.62
-    },
-    {
-      "ts": "2026-07-28 18:50:17.490009+00:00",
-      "ret": -0.013396,
-      "equity": 0.981203,
-      "risk": "quoting",
-      "vol_scale": 0.614
-    },
-    {
-      "ts": "2026-07-28 18:50:36.058689+00:00",
-      "ret": -0.005193,
-      "equity": 0.976108,
-      "risk": "quoting",
-      "vol_scale": 0.612
-    },
-    {
-      "ts": "2026-07-28 18:50:56.003432+00:00",
-      "ret": -0.00027,
-      "equity": 0.975845,
-      "risk": "quoting",
-      "vol_scale": 0.612
-    },
-    {
-      "ts": "2026-07-28 18:51:25.130824+00:00",
-      "ret": 0.005132,
-      "equity": 0.980852,
-      "risk": "quoting",
-      "vol_scale": 0.614
-    },
-    {
-      "ts": "2026-07-28 18:51:36.158626+00:00",
-      "ret": 0.00255,
-      "equity": 0.983354,
-      "risk": "quoting",
-      "vol_scale": 0.615
-    },
-    {
-      "ts": "2026-07-28 18:51:56.146285+00:00",
-      "ret": 7.9e-05,
-      "equity": 0.983432,
-      "risk": "quoting",
-      "vol_scale": 0.615
-    },
-    {
-      "ts": "2026-07-28 18:52:15.936708+00:00",
-      "ret": 0.001459,
-      "equity": 0.984867,
-      "risk": "quoting",
-      "vol_scale": 0.616
-    },
-    {
-      "ts": "2026-07-28 18:52:36.188997+00:00",
-      "ret": 0.002531,
-      "equity": 0.987359,
-      "risk": "quoting",
-      "vol_scale": 0.617
-    },
-    {
-      "ts": "2026-07-28 18:52:56.245467+00:00",
-      "ret": 0.001826,
-      "equity": 0.989162,
-      "risk": "quoting",
-      "vol_scale": 0.618
-    },
-    {
-      "ts": "2026-07-28 18:53:16.059858+00:00",
-      "ret": 0.001526,
-      "equity": 0.990671,
-      "risk": "quoting",
-      "vol_scale": 0.618
-    },
-    {
-      "ts": "2026-07-28 18:53:36.194686+00:00",
-      "ret": 0.002304,
-      "equity": 0.992953,
-      "risk": "quoting",
-      "vol_scale": 0.619
-    },
-    {
-      "ts": "2026-07-28 18:53:56.153978+00:00",
-      "ret": -0.000221,
-      "equity": 0.992734,
-      "risk": "quoting",
-      "vol_scale": 0.619
-    },
-    {
-      "ts": "2026-07-28 18:54:16.192855+00:00",
-      "ret": 0.000332,
-      "equity": 0.993063,
-      "risk": "quoting",
-      "vol_scale": 0.619
-    },
-    {
-      "ts": "2026-07-28 18:54:36.171668+00:00",
-      "ret": 0.014375,
-      "equity": 1.007338,
-      "risk": "quoting",
-      "vol_scale": 0.624
-    },
-    {
-      "ts": "2026-07-28 18:54:56.048034+00:00",
-      "ret": 0.006228,
-      "equity": 1.013612,
-      "risk": "quoting",
-      "vol_scale": 0.627
-    },
-    {
-      "ts": "2026-07-28 18:55:20.489521+00:00",
-      "ret": -0.004589,
-      "equity": 1.00896,
-      "risk": "quoting",
-      "vol_scale": 0.625
-    },
-    {
-      "ts": "2026-07-28 18:55:36.784598+00:00",
-      "ret": -0.000326,
-      "equity": 1.008631,
-      "risk": "quoting",
-      "vol_scale": 0.625
-    },
-    {
-      "ts": "2026-07-28 18:55:56.621251+00:00",
-      "ret": -0.001396,
-      "equity": 1.007223,
-      "risk": "quoting",
-      "vol_scale": 0.624
-    },
-    {
-      "ts": "2026-07-28 18:56:17.305000+00:00",
-      "ret": 0.00077,
-      "equity": 1.007998,
-      "risk": "quoting",
-      "vol_scale": 0.625
-    },
-    {
-      "ts": "2026-07-28 18:56:36.975877+00:00",
-      "ret": 0.001945,
-      "equity": 1.009959,
-      "risk": "quoting",
-      "vol_scale": 0.625
-    },
-    {
-      "ts": "2026-07-28 18:56:56.893228+00:00",
-      "ret": 0.011895,
-      "equity": 1.021972,
-      "risk": "quoting",
-      "vol_scale": 0.63
-    },
-    {
-      "ts": "2026-07-28 18:57:16.598062+00:00",
-      "ret": -0.002828,
-      "equity": 1.019083,
-      "risk": "quoting",
-      "vol_scale": 0.629
-    },
-    {
-      "ts": "2026-07-28 18:57:38.527963+00:00",
-      "ret": -0.002331,
-      "equity": 1.016708,
-      "risk": "quoting",
-      "vol_scale": 0.628
-    },
-    {
-      "ts": "2026-07-28 18:57:56.675405+00:00",
-      "ret": -0.001994,
-      "equity": 1.014681,
-      "risk": "quoting",
-      "vol_scale": 0.627
-    },
-    {
-      "ts": "2026-07-28 18:58:16.572025+00:00",
-      "ret": -0.001609,
-      "equity": 1.013048,
-      "risk": "quoting",
-      "vol_scale": 0.627
-    },
-    {
-      "ts": "2026-07-28 18:58:55.803562+00:00",
-      "ret": -0.000266,
-      "equity": 1.012778,
-      "risk": "quoting",
-      "vol_scale": 0.627
-    },
-    {
-      "ts": "2026-07-28 18:58:57.210744+00:00",
-      "ret": 0.000717,
-      "equity": 1.013504,
-      "risk": "quoting",
-      "vol_scale": 0.627
-    },
-    {
-      "ts": "2026-07-28 18:59:17.070859+00:00",
-      "ret": -0.0011,
-      "equity": 1.012389,
-      "risk": "quoting",
-      "vol_scale": 0.626
-    },
-    {
-      "ts": "2026-07-28 18:59:37.004534+00:00",
-      "ret": 0.000675,
-      "equity": 1.013072,
-      "risk": "quoting",
-      "vol_scale": 0.627
-    },
-    {
-      "ts": "2026-07-28 18:59:57.137133+00:00",
-      "ret": 0.000841,
-      "equity": 1.013925,
-      "risk": "quoting",
-      "vol_scale": 0.627
-    },
-    {
-      "ts": "2026-07-28 19:00:20.366963+00:00",
-      "ret": 0.001739,
-      "equity": 1.015688,
-      "risk": "quoting",
-      "vol_scale": 0.628
-    },
-    {
-      "ts": "2026-07-28 19:00:37.144059+00:00",
-      "ret": -0.000959,
-      "equity": 1.014714,
-      "risk": "quoting",
-      "vol_scale": 0.627
-    },
-    {
-      "ts": "2026-07-28 19:00:57.192377+00:00",
-      "ret": -0.010007,
-      "equity": 1.00456,
-      "risk": "quoting",
-      "vol_scale": 0.623
-    },
-    {
-      "ts": "2026-07-28 19:01:26.310020+00:00",
-      "ret": -0.003567,
-      "equity": 1.000977,
-      "risk": "quoting",
-      "vol_scale": 0.622
-    },
-    {
-      "ts": "2026-07-28 19:01:37.118784+00:00",
-      "ret": 0.001134,
-      "equity": 1.002112,
-      "risk": "quoting",
-      "vol_scale": 0.623
-    },
-    {
-      "ts": "2026-07-28 19:01:57.263681+00:00",
-      "ret": -0.000246,
-      "equity": 1.001866,
-      "risk": "quoting",
-      "vol_scale": 0.622
-    },
-    {
-      "ts": "2026-07-28 19:02:38.486189+00:00",
-      "ret": 0.00178,
-      "equity": 1.003649,
-      "risk": "quoting",
-      "vol_scale": 0.623
-    },
-    {
-      "ts": "2026-07-28 19:02:39.869521+00:00",
-      "ret": -0.006501,
-      "equity": 0.997124,
-      "risk": "quoting",
-      "vol_scale": 0.621
-    },
-    {
-      "ts": "2026-07-28 19:02:59.591149+00:00",
-      "ret": 0.003098,
-      "equity": 1.000213,
-      "risk": "quoting",
-      "vol_scale": 0.622
-    },
-    {
-      "ts": "2026-07-28 19:03:19.581255+00:00",
-      "ret": 0.004592,
-      "equity": 1.004806,
-      "risk": "quoting",
-      "vol_scale": 0.624
-    },
-    {
-      "ts": "2026-07-28 19:03:39.651000+00:00",
-      "ret": 0.002415,
-      "equity": 1.007232,
-      "risk": "quoting",
-      "vol_scale": 0.624
-    },
-    {
-      "ts": "2026-07-28 19:03:59.990698+00:00",
-      "ret": -0.000966,
-      "equity": 1.006259,
-      "risk": "quoting",
-      "vol_scale": 0.624
-    },
-    {
-      "ts": "2026-07-28 19:04:19.872231+00:00",
-      "ret": 0.003925,
-      "equity": 1.010208,
-      "risk": "quoting",
-      "vol_scale": 0.626
-    },
-    {
-      "ts": "2026-07-28 19:04:39.850249+00:00",
-      "ret": -0.000816,
-      "equity": 1.009384,
-      "risk": "quoting",
-      "vol_scale": 0.625
-    },
-    {
-      "ts": "2026-07-28 19:04:59.684536+00:00",
-      "ret": 0.001681,
-      "equity": 1.011081,
-      "risk": "quoting",
-      "vol_scale": 0.626
-    },
-    {
-      "ts": "2026-07-28 19:05:24.400945+00:00",
-      "ret": 0.000523,
-      "equity": 1.01161,
-      "risk": "quoting",
-      "vol_scale": 0.626
-    },
-    {
-      "ts": "2026-07-28 19:05:40.035014+00:00",
-      "ret": 0.000936,
-      "equity": 1.012557,
-      "risk": "quoting",
-      "vol_scale": 0.626
-    },
-    {
-      "ts": "2026-07-28 19:06:00.086536+00:00",
-      "ret": -0.001248,
-      "equity": 1.011293,
-      "risk": "quoting",
-      "vol_scale": 0.626
-    },
-    {
-      "ts": "2026-07-28 19:06:20.270995+00:00",
-      "ret": 0.000571,
-      "equity": 1.011871,
-      "risk": "quoting",
-      "vol_scale": 0.626
-    },
-    {
-      "ts": "2026-07-28 19:06:39.874598+00:00",
-      "ret": 0.001115,
-      "equity": 1.012999,
-      "risk": "quoting",
-      "vol_scale": 0.627
-    },
-    {
-      "ts": "2026-07-28 19:07:00.108332+00:00",
-      "ret": 7.5e-05,
-      "equity": 1.013075,
-      "risk": "quoting",
-      "vol_scale": 0.627
     }
   ],
   "weekly": [],
@@ -1709,98 +517,98 @@
   "research": {
     "maker": {
       "quoting": true,
-      "markets_quoted": 40,
-      "quotes_live": 0,
-      "fills_total": 318,
+      "markets_quoted": 28,
+      "quotes_live": 40,
+      "fills_total": 121,
       "halt": "",
       "recent_fills": [
         {
-          "t": "2026-07-28 18:40:36.101514+00:00",
-          "token": "35569019116554440686871978475552812027989883921078073372503355692764971383071",
+          "t": "2026-07-28 17:48:52.935449+00:00",
+          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
           "side": "BUY",
-          "shares": 180.66,
+          "shares": 10.51,
+          "price": 0.57,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
+        },
+        {
+          "t": "2026-07-28 17:48:52.935507+00:00",
+          "token": "13969203387153823146458665440104059267569949426722767089950295220087660621065",
+          "side": "BUY",
+          "shares": 2.21,
+          "price": 0.61,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng"
+        },
+        {
+          "t": "2026-07-28 17:55:31.750635+00:00",
+          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
+          "side": "BUY",
+          "shares": 200.0,
           "price": 0.2,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "Dota 2: VooDooSh Team vs Daxak Team (BO3) - BetBoom Streamer"
+          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
         },
         {
-          "t": "2026-07-28 18:41:56.210314+00:00",
-          "token": "1169015711572471741974030317863715951791894129693868586324551917469039759622",
+          "t": "2026-07-28 17:55:31.750734+00:00",
+          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
           "side": "BUY",
-          "shares": 10.0,
-          "price": 0.14,
+          "shares": 1.8,
+          "price": 0.44,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "Will R\u012bga FC vs. FK Vardar Skopje end in a draw?"
+          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
         },
         {
-          "t": "2026-07-28 18:41:56.210346+00:00",
-          "token": "41746809444990826735813639543545663825937707338096415693150146909886338092937",
-          "side": "BUY",
-          "shares": 90.9,
-          "price": 0.8,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will FK Vardar Skopje win on 2026-07-28?"
-        },
-        {
-          "t": "2026-07-28 18:42:16.806142+00:00",
-          "token": "41746809444990826735813639543545663825937707338096415693150146909886338092937",
-          "side": "BUY",
-          "shares": 90.9,
-          "price": 0.81,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will FK Vardar Skopje win on 2026-07-28?"
-        },
-        {
-          "t": "2026-07-28 18:42:56.201194+00:00",
-          "token": "41746809444990826735813639543545663825937707338096415693150146909886338092937",
-          "side": "BUY",
-          "shares": 60.9,
-          "price": 0.83,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will FK Vardar Skopje win on 2026-07-28?"
-        },
-        {
-          "t": "2026-07-28 18:49:56.227162+00:00",
-          "token": "88024985944329268969555721980240635196116377296368002645869955887006972696905",
-          "side": "BUY",
-          "shares": 4.0,
-          "price": 0.67,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Mubadala Citi DC Open: Adrian Mannarino vs Learner Tien"
-        },
-        {
-          "t": "2026-07-28 18:49:56.227218+00:00",
-          "token": "49427055302400712856973348411941646551292706651653177094041206147408455631933",
-          "side": "BUY",
-          "shares": 20.0,
-          "price": 0.69,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Mubadala Citi DC Open: Arthur Fils vs Rafael Jodar"
-        },
-        {
-          "t": "2026-07-28 18:49:56.227255+00:00",
-          "token": "82581189369715406073711210928051284524707427324462855919169280248998276029033",
+          "t": "2026-07-28 17:55:52.044522+00:00",
+          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
           "side": "BUY",
           "shares": 200.0,
-          "price": 0.71,
+          "price": 0.2,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES Regular Seaso"
+          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
+        },
+        {
+          "t": "2026-07-28 17:55:52.044575+00:00",
+          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
+          "side": "BUY",
+          "shares": 1.8,
+          "price": 0.44,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
+        },
+        {
+          "t": "2026-07-28 17:56:11.919305+00:00",
+          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
+          "side": "BUY",
+          "shares": 100.0,
+          "price": 0.2,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
+        },
+        {
+          "t": "2026-07-28 17:56:11.919389+00:00",
+          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
+          "side": "BUY",
+          "shares": 1.8,
+          "price": 0.44,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
         }
       ]
     },
@@ -1810,18 +618,18 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 12.28,
-      "scorable_trades": 13380,
-      "fills": 1509,
+      "hours": 11.03,
+      "scorable_trades": 11720,
+      "fills": 1333,
       "fills_needed": 2000,
-      "markets": 551,
-      "bias": 1.623,
+      "markets": 490,
+      "bias": 1.646,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.1583,
+      "c_per_share": -1.208,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
