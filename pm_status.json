@@ -1,38 +1,49 @@
 {
-  "generated": "2026-07-28 17:56:42.550986+00:00",
+  "generated": "2026-07-28 18:10:42.607260+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 1.023702,
-  "peak": 1.023777,
-  "drawdown": -7.3e-05,
+  "equity": 0.981256,
+  "peak": 1.028718,
+  "drawdown": -0.046137,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.2525,
+  "gross_lev": 0.4578,
   "last_tick": {
-    "ts": "2026-07-28 17:56:11.929864+00:00",
-    "tick_return": 8.1e-05,
-    "equity": 1.023702,
-    "vol_scale": 0.253,
+    "ts": "2026-07-28 18:10:40.436226+00:00",
+    "tick_return": -0.000108,
+    "equity": 0.981256,
+    "vol_scale": 0.458,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 17:56:11.929864+00:00"
+    "asof": "2026-07-28 18:10:40.436226+00:00"
   },
   "positions": {
-    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00061,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00011,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.03175,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00589,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01563,
-    "Will the highest temperature in San Francisco be": 0.01409,
-    "Will R\u012bga FC win on 2026-07-28?": 0.01045,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01001,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.0087,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00627,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00509,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.00361,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00244,
-    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00202,
-    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.00026,
+    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00064,
+    "Valorant: Bar\u00e7a eSports GC vs Karmine Corp GC (B": 0.03528,
+    "Cleveland Guardians vs. Cincinnati Reds": 0.00046,
+    "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Re": 0.02573,
+    "Counter-Strike: CYBERSHOKE Prospects vs Lavked (": 0.02413,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00615,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02027,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00659,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00863,
+    "Will the highest temperature in San Francisco be": 0.0147,
+    "Will Trump say \"Hell\" 2+ times during tribute to": 0.01101,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01045,
+    "Will R\u012bga FC win on 2026-07-28?": 0.01029,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.0097,
+    "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5": 0.00919,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00654,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero (BO3) - LES R": 0.0058,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00545,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.00377,
+    "Cleveland Guardians vs. Cincinnati Reds: O/U 7.5": 0.00363,
+    "Will Trump say \"Air Force\" or \"Space Force\" duri": 0.0035,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.00331,
+    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00221,
+    "FC Drita vs. Floriana FC: O/U 3.5": 0.00152,
+    "Dota 2: Stray Team vs Rostik Team (BO3) - BetBoo": 0.00054,
+    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.0002,
     "Zelenskyy meets with Netanyahu by Thursday?": 0.00015,
-    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00013
+    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 9e-05
   },
   "history": [
     {
@@ -482,6 +493,307 @@
       "equity": 1.023702,
       "risk": "quoting",
       "vol_scale": 0.253
+    },
+    {
+      "ts": "2026-07-28 17:56:50.149776+00:00",
+      "ret": -0.0174,
+      "equity": 1.00589,
+      "risk": "quoting",
+      "vol_scale": 0.239
+    },
+    {
+      "ts": "2026-07-28 17:56:58.078542+00:00",
+      "ret": 0.003696,
+      "equity": 1.009608,
+      "risk": "quoting",
+      "vol_scale": 0.252
+    },
+    {
+      "ts": "2026-07-28 17:57:18.151765+00:00",
+      "ret": 0.001944,
+      "equity": 1.011571,
+      "risk": "quoting",
+      "vol_scale": 0.28
+    },
+    {
+      "ts": "2026-07-28 17:57:38.201092+00:00",
+      "ret": -0.007386,
+      "equity": 1.004099,
+      "risk": "quoting",
+      "vol_scale": 0.275
+    },
+    {
+      "ts": "2026-07-28 17:57:57.999798+00:00",
+      "ret": -0.00147,
+      "equity": 1.002624,
+      "risk": "quoting",
+      "vol_scale": 0.292
+    },
+    {
+      "ts": "2026-07-28 17:58:18.233698+00:00",
+      "ret": -0.004824,
+      "equity": 0.997787,
+      "risk": "quoting",
+      "vol_scale": 0.305
+    },
+    {
+      "ts": "2026-07-28 17:58:38.132207+00:00",
+      "ret": 0.002714,
+      "equity": 1.000495,
+      "risk": "quoting",
+      "vol_scale": 0.307
+    },
+    {
+      "ts": "2026-07-28 17:58:58.049860+00:00",
+      "ret": 7.5e-05,
+      "equity": 1.00057,
+      "risk": "quoting",
+      "vol_scale": 0.308
+    },
+    {
+      "ts": "2026-07-28 17:59:18.035620+00:00",
+      "ret": 0.010282,
+      "equity": 1.010858,
+      "risk": "quoting",
+      "vol_scale": 0.315
+    },
+    {
+      "ts": "2026-07-28 17:59:38.087364+00:00",
+      "ret": -0.017534,
+      "equity": 0.993133,
+      "risk": "quoting",
+      "vol_scale": 0.304
+    },
+    {
+      "ts": "2026-07-28 17:59:58.154970+00:00",
+      "ret": 0.001498,
+      "equity": 0.994621,
+      "risk": "quoting",
+      "vol_scale": 0.307
+    },
+    {
+      "ts": "2026-07-28 18:00:24.575485+00:00",
+      "ret": 0.00246,
+      "equity": 0.997068,
+      "risk": "quoting",
+      "vol_scale": 0.317
+    },
+    {
+      "ts": "2026-07-28 18:00:38.057888+00:00",
+      "ret": 0.002239,
+      "equity": 0.999301,
+      "risk": "quoting",
+      "vol_scale": 0.329
+    },
+    {
+      "ts": "2026-07-28 18:00:58.390206+00:00",
+      "ret": 6e-05,
+      "equity": 0.999361,
+      "risk": "quoting",
+      "vol_scale": 0.338
+    },
+    {
+      "ts": "2026-07-28 18:01:18.421922+00:00",
+      "ret": -0.003121,
+      "equity": 0.996242,
+      "risk": "quoting",
+      "vol_scale": 0.343
+    },
+    {
+      "ts": "2026-07-28 18:01:38.030660+00:00",
+      "ret": -0.000924,
+      "equity": 0.995321,
+      "risk": "quoting",
+      "vol_scale": 0.343
+    },
+    {
+      "ts": "2026-07-28 18:01:58.097661+00:00",
+      "ret": 0.004787,
+      "equity": 1.000086,
+      "risk": "quoting",
+      "vol_scale": 0.348
+    },
+    {
+      "ts": "2026-07-28 18:02:18.262098+00:00",
+      "ret": 0.002963,
+      "equity": 1.00305,
+      "risk": "quoting",
+      "vol_scale": 0.362
+    },
+    {
+      "ts": "2026-07-28 18:02:38.155438+00:00",
+      "ret": 0.002563,
+      "equity": 1.005621,
+      "risk": "quoting",
+      "vol_scale": 0.379
+    },
+    {
+      "ts": "2026-07-28 18:02:58.132928+00:00",
+      "ret": -0.001487,
+      "equity": 1.004125,
+      "risk": "quoting",
+      "vol_scale": 0.39
+    },
+    {
+      "ts": "2026-07-28 18:03:18.337378+00:00",
+      "ret": -0.011632,
+      "equity": 0.992445,
+      "risk": "quoting",
+      "vol_scale": 0.395
+    },
+    {
+      "ts": "2026-07-28 18:03:38.202885+00:00",
+      "ret": -0.009094,
+      "equity": 0.98342,
+      "risk": "quoting",
+      "vol_scale": 0.389
+    },
+    {
+      "ts": "2026-07-28 18:04:01.173060+00:00",
+      "ret": 0.003397,
+      "equity": 0.98676,
+      "risk": "quoting",
+      "vol_scale": 0.391
+    },
+    {
+      "ts": "2026-07-28 18:04:18.241487+00:00",
+      "ret": -0.001405,
+      "equity": 0.985374,
+      "risk": "quoting",
+      "vol_scale": 0.391
+    },
+    {
+      "ts": "2026-07-28 18:04:38.260833+00:00",
+      "ret": 0.002623,
+      "equity": 0.987959,
+      "risk": "quoting",
+      "vol_scale": 0.393
+    },
+    {
+      "ts": "2026-07-28 18:04:58.207822+00:00",
+      "ret": -0.011126,
+      "equity": 0.976967,
+      "risk": "quoting",
+      "vol_scale": 0.387
+    },
+    {
+      "ts": "2026-07-28 18:05:22.921985+00:00",
+      "ret": 0.009248,
+      "equity": 0.986002,
+      "risk": "quoting",
+      "vol_scale": 0.395
+    },
+    {
+      "ts": "2026-07-28 18:05:38.331413+00:00",
+      "ret": 0.000368,
+      "equity": 0.986364,
+      "risk": "quoting",
+      "vol_scale": 0.395
+    },
+    {
+      "ts": "2026-07-28 18:05:58.138271+00:00",
+      "ret": 0.000922,
+      "equity": 0.987274,
+      "risk": "quoting",
+      "vol_scale": 0.396
+    },
+    {
+      "ts": "2026-07-28 18:06:21.930068+00:00",
+      "ret": 0.010084,
+      "equity": 0.997229,
+      "risk": "quoting",
+      "vol_scale": 0.41
+    },
+    {
+      "ts": "2026-07-28 18:06:44.813714+00:00",
+      "ret": 0.00411,
+      "equity": 1.001328,
+      "risk": "quoting",
+      "vol_scale": 0.421
+    },
+    {
+      "ts": "2026-07-28 18:06:58.200835+00:00",
+      "ret": 0.001323,
+      "equity": 1.002652,
+      "risk": "quoting",
+      "vol_scale": 0.428
+    },
+    {
+      "ts": "2026-07-28 18:07:18.149629+00:00",
+      "ret": 0.007009,
+      "equity": 1.00968,
+      "risk": "quoting",
+      "vol_scale": 0.432
+    },
+    {
+      "ts": "2026-07-28 18:07:38.293241+00:00",
+      "ret": 0.006347,
+      "equity": 1.016088,
+      "risk": "quoting",
+      "vol_scale": 0.436
+    },
+    {
+      "ts": "2026-07-28 18:07:58.177295+00:00",
+      "ret": 0.01243,
+      "equity": 1.028718,
+      "risk": "quoting",
+      "vol_scale": 0.458
+    },
+    {
+      "ts": "2026-07-28 18:08:18.292495+00:00",
+      "ret": -0.014778,
+      "equity": 1.013516,
+      "risk": "quoting",
+      "vol_scale": 0.453
+    },
+    {
+      "ts": "2026-07-28 18:08:41.762388+00:00",
+      "ret": -0.00174,
+      "equity": 1.011753,
+      "risk": "quoting",
+      "vol_scale": 0.453
+    },
+    {
+      "ts": "2026-07-28 18:08:58.272821+00:00",
+      "ret": -0.002833,
+      "equity": 1.008886,
+      "risk": "quoting",
+      "vol_scale": 0.455
+    },
+    {
+      "ts": "2026-07-28 18:09:18.091560+00:00",
+      "ret": -0.006814,
+      "equity": 1.002011,
+      "risk": "quoting",
+      "vol_scale": 0.454
+    },
+    {
+      "ts": "2026-07-28 18:09:38.359721+00:00",
+      "ret": -0.008132,
+      "equity": 0.993863,
+      "risk": "quoting",
+      "vol_scale": 0.451
+    },
+    {
+      "ts": "2026-07-28 18:09:58.274416+00:00",
+      "ret": -0.000635,
+      "equity": 0.993232,
+      "risk": "quoting",
+      "vol_scale": 0.454
+    },
+    {
+      "ts": "2026-07-28 18:10:23.776438+00:00",
+      "ret": -0.011951,
+      "equity": 0.981362,
+      "risk": "quoting",
+      "vol_scale": 0.447
+    },
+    {
+      "ts": "2026-07-28 18:10:40.430775+00:00",
+      "ret": -0.000108,
+      "equity": 0.981256,
+      "risk": "quoting",
+      "vol_scale": 0.458
     }
   ],
   "weekly": [],
@@ -517,98 +829,98 @@
   "research": {
     "maker": {
       "quoting": true,
-      "markets_quoted": 28,
-      "quotes_live": 40,
-      "fills_total": 121,
+      "markets_quoted": 40,
+      "quotes_live": 59,
+      "fills_total": 232,
       "halt": "",
       "recent_fills": [
         {
-          "t": "2026-07-28 17:48:52.935449+00:00",
-          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
+          "t": "2026-07-28 18:09:58.270761+00:00",
+          "token": "113417667736311576157706169870072400342245896305384619018505001776784641143868",
           "side": "BUY",
-          "shares": 10.51,
-          "price": 0.57,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
-        },
-        {
-          "t": "2026-07-28 17:48:52.935507+00:00",
-          "token": "13969203387153823146458665440104059267569949426722767089950295220087660621065",
-          "side": "BUY",
-          "shares": 2.21,
+          "shares": 5.3,
           "price": 0.61,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng"
+          "title": "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5"
         },
         {
-          "t": "2026-07-28 17:55:31.750635+00:00",
-          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
+          "t": "2026-07-28 18:09:58.270784+00:00",
+          "token": "113417667736311576157706169870072400342245896305384619018505001776784641143868",
           "side": "BUY",
-          "shares": 200.0,
-          "price": 0.2,
+          "shares": 5.29,
+          "price": 0.61,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
+          "title": "R\u012bga FC vs. FK Vardar Skopje: O/U 3.5"
         },
         {
-          "t": "2026-07-28 17:55:31.750734+00:00",
-          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
+          "t": "2026-07-28 18:10:40.429267+00:00",
+          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
           "side": "BUY",
-          "shares": 1.8,
-          "price": 0.44,
+          "shares": 1.5,
+          "price": 0.74,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
+          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
         },
         {
-          "t": "2026-07-28 17:55:52.044522+00:00",
-          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
+          "t": "2026-07-28 18:10:40.429300+00:00",
+          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
           "side": "BUY",
-          "shares": 200.0,
-          "price": 0.2,
+          "shares": 1.17,
+          "price": 0.74,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
+          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
         },
         {
-          "t": "2026-07-28 17:55:52.044575+00:00",
-          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
+          "t": "2026-07-28 18:10:40.429312+00:00",
+          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
           "side": "BUY",
-          "shares": 1.8,
-          "price": 0.44,
+          "shares": 0.51,
+          "price": 0.74,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
+          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
         },
         {
-          "t": "2026-07-28 17:56:11.919305+00:00",
-          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
+          "t": "2026-07-28 18:10:40.429326+00:00",
+          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
           "side": "BUY",
-          "shares": 100.0,
-          "price": 0.2,
+          "shares": 0.27,
+          "price": 0.74,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
+          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
         },
         {
-          "t": "2026-07-28 17:56:11.919389+00:00",
-          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
+          "t": "2026-07-28 18:10:40.429344+00:00",
+          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
           "side": "BUY",
-          "shares": 1.8,
-          "price": 0.44,
+          "shares": 0.27,
+          "price": 0.74,
           "liq": "maker",
           "fee": 0.0,
           "rebate": 0.0,
-          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
+          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
+        },
+        {
+          "t": "2026-07-28 18:10:40.429352+00:00",
+          "token": "19002508080474203515920681850744138865389791105446749200972083565008630866718",
+          "side": "BUY",
+          "shares": 138.41,
+          "price": 0.74,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will Trump say \"Hell\" 2+ times during tribute to Lindsey Gra"
         }
       ]
     },
@@ -618,18 +930,18 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 11.03,
-      "scorable_trades": 11720,
-      "fills": 1333,
+      "hours": 11.36,
+      "scorable_trades": 12194,
+      "fills": 1370,
       "fills_needed": 2000,
-      "markets": 490,
-      "bias": 1.646,
+      "markets": 511,
+      "bias": 1.668,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -1.208,
+      "c_per_share": -1.2862,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
