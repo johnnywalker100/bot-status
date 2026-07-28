@@ -1,36 +1,38 @@
 {
-  "generated": "2026-07-28 17:55:06.520843+00:00",
+  "generated": "2026-07-28 17:56:42.550986+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.775442,
+  "equity": 1.023702,
   "peak": 1.023777,
-  "drawdown": -0.242567,
+  "drawdown": -7.3e-05,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.0,
+  "gross_lev": 0.2525,
   "last_tick": {
-    "ts": "2026-07-28 17:54:51.170819+00:00",
-    "tick_return": 0.0,
-    "equity": 0.775442,
-    "vol_scale": 0.0,
+    "ts": "2026-07-28 17:56:11.929864+00:00",
+    "tick_return": 8.1e-05,
+    "equity": 1.023702,
+    "vol_scale": 0.253,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 17:54:51.170819+00:00"
+    "asof": "2026-07-28 17:56:11.929864+00:00"
   },
   "positions": {
-    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00081,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00015,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.04191,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00778,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02063,
-    "Will the highest temperature in San Francisco be": 0.0186,
-    "Will R\u012bga FC win on 2026-07-28?": 0.01406,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.0117,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00827,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00672,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.00477,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00322,
-    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00267,
-    "Zelenskyy meets with Netanyahu by Thursday?": 0.00018,
-    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00017
+    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00061,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00011,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.03175,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00589,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01563,
+    "Will the highest temperature in San Francisco be": 0.01409,
+    "Will R\u012bga FC win on 2026-07-28?": 0.01045,
+    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01001,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.0087,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00627,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00509,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.00361,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00244,
+    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00202,
+    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.00026,
+    "Zelenskyy meets with Netanyahu by Thursday?": 0.00015,
+    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00013
   },
   "history": [
     {
@@ -452,6 +454,34 @@
       "equity": 1.023777,
       "risk": "quoting",
       "vol_scale": 0.243
+    },
+    {
+      "ts": "2026-07-28 17:55:17.815274+00:00",
+      "ret": -0.000352,
+      "equity": 1.023416,
+      "risk": "quoting",
+      "vol_scale": 0.242
+    },
+    {
+      "ts": "2026-07-28 17:55:31.753762+00:00",
+      "ret": 0.0001,
+      "equity": 1.023519,
+      "risk": "quoting",
+      "vol_scale": 0.246
+    },
+    {
+      "ts": "2026-07-28 17:55:52.046964+00:00",
+      "ret": 9.9e-05,
+      "equity": 1.02362,
+      "risk": "quoting",
+      "vol_scale": 0.25
+    },
+    {
+      "ts": "2026-07-28 17:56:11.922206+00:00",
+      "ret": 8.1e-05,
+      "equity": 1.023702,
+      "risk": "quoting",
+      "vol_scale": 0.253
     }
   ],
   "weekly": [],
@@ -487,77 +517,11 @@
   "research": {
     "maker": {
       "quoting": true,
-      "markets_quoted": 0,
-      "quotes_live": 0,
-      "fills_total": 115,
+      "markets_quoted": 28,
+      "quotes_live": 40,
+      "fills_total": 121,
       "halt": "",
       "recent_fills": [
-        {
-          "t": "2026-07-28 17:46:13.307072+00:00",
-          "token": "49124073420297964198535425306091167388806685065568768364287645382449492051672",
-          "side": "BUY",
-          "shares": 55.95,
-          "price": 0.2,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Europe Series "
-        },
-        {
-          "t": "2026-07-28 17:46:36.234610+00:00",
-          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
-          "side": "BUY",
-          "shares": 5.51,
-          "price": 0.55,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
-        },
-        {
-          "t": "2026-07-28 17:46:53.110964+00:00",
-          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
-          "side": "BUY",
-          "shares": 5.51,
-          "price": 0.55,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
-        },
-        {
-          "t": "2026-07-28 17:46:53.110999+00:00",
-          "token": "34808772720105276950046782887422880544669668374663929334218137810183400221089",
-          "side": "BUY",
-          "shares": 200.0,
-          "price": 0.81,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "San Marino: Thiago Monteiro vs David Jorda Sanchis"
-        },
-        {
-          "t": "2026-07-28 17:47:13.010593+00:00",
-          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
-          "side": "BUY",
-          "shares": 10.51,
-          "price": 0.54,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
-        },
-        {
-          "t": "2026-07-28 17:48:13.142325+00:00",
-          "token": "41746809444990826735813639543545663825937707338096415693150146909886338092937",
-          "side": "BUY",
-          "shares": 200.0,
-          "price": 0.16,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will FK Vardar Skopje win on 2026-07-28?"
-        },
         {
           "t": "2026-07-28 17:48:52.935449+00:00",
           "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
@@ -579,6 +543,72 @@
           "fee": 0.0,
           "rebate": 0.0,
           "title": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng"
+        },
+        {
+          "t": "2026-07-28 17:55:31.750635+00:00",
+          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
+          "side": "BUY",
+          "shares": 200.0,
+          "price": 0.2,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
+        },
+        {
+          "t": "2026-07-28 17:55:31.750734+00:00",
+          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
+          "side": "BUY",
+          "shares": 1.8,
+          "price": 0.44,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
+        },
+        {
+          "t": "2026-07-28 17:55:52.044522+00:00",
+          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
+          "side": "BUY",
+          "shares": 200.0,
+          "price": 0.2,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
+        },
+        {
+          "t": "2026-07-28 17:55:52.044575+00:00",
+          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
+          "side": "BUY",
+          "shares": 1.8,
+          "price": 0.44,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
+        },
+        {
+          "t": "2026-07-28 17:56:11.919305+00:00",
+          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
+          "side": "BUY",
+          "shares": 100.0,
+          "price": 0.2,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
+        },
+        {
+          "t": "2026-07-28 17:56:11.919389+00:00",
+          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
+          "side": "BUY",
+          "shares": 1.8,
+          "price": 0.44,
+          "liq": "maker",
+          "fee": 0.0,
+          "rebate": 0.0,
+          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
         }
       ]
     },
@@ -590,16 +620,16 @@
     "shadow": {
       "hours": 11.03,
       "scorable_trades": 11720,
-      "fills": 1318,
+      "fills": 1333,
       "fills_needed": 2000,
       "markets": 490,
-      "bias": 1.611,
+      "bias": 1.646,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -1.1746,
+      "c_per_share": -1.208,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
