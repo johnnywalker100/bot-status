@@ -1,36 +1,36 @@
 {
-  "generated": "2026-07-28 17:50:00.818951+00:00",
+  "generated": "2026-07-28 17:50:56.524890+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 1.023777,
+  "equity": 0.775442,
   "peak": 1.023777,
-  "drawdown": 0.0,
+  "drawdown": -0.242567,
   "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.2426,
+  "gross_lev": 0.0,
   "last_tick": {
-    "ts": "2026-07-28 17:49:52.989570+00:00",
+    "ts": "2026-07-28 17:50:55.064425+00:00",
     "tick_return": 0.0,
-    "equity": 1.023777,
-    "vol_scale": 0.243,
+    "equity": 0.775442,
+    "vol_scale": 0.0,
     "risk": "quoting",
     "provider": "polymarket",
-    "asof": "2026-07-28 17:49:52.989570+00:00"
+    "asof": "2026-07-28 17:50:55.064425+00:00"
   },
   "positions": {
-    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00061,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00011,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.03175,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00589,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01563,
-    "Will the highest temperature in San Francisco be": 0.01409,
-    "Will R\u012bga FC win on 2026-07-28?": 0.01065,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.00886,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00626,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00509,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.00361,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00244,
-    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00202,
-    "Zelenskyy meets with Netanyahu by Thursday?": 0.00014,
-    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00013
+    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00081,
+    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00015,
+    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.04191,
+    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00778,
+    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.02063,
+    "Will the highest temperature in San Francisco be": 0.0186,
+    "Will R\u012bga FC win on 2026-07-28?": 0.01406,
+    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.0117,
+    "Bonn: Max Dahlin vs Matteo Martineau": 0.00827,
+    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00672,
+    "Will FK Vardar Skopje win on 2026-07-28?": 0.00477,
+    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00322,
+    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00267,
+    "Zelenskyy meets with Netanyahu by Thursday?": 0.00018,
+    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00017
   },
   "history": [
     {
@@ -438,6 +438,20 @@
       "equity": 1.023777,
       "risk": "quoting",
       "vol_scale": 0.243
+    },
+    {
+      "ts": "2026-07-28 17:50:15.058102+00:00",
+      "ret": 0.0,
+      "equity": 1.023777,
+      "risk": "quoting",
+      "vol_scale": 0.243
+    },
+    {
+      "ts": "2026-07-28 17:50:35.328924+00:00",
+      "ret": 0.0,
+      "equity": 1.023777,
+      "risk": "quoting",
+      "vol_scale": 0.243
     }
   ],
   "weekly": [],
@@ -473,7 +487,7 @@
   "research": {
     "maker": {
       "quoting": true,
-      "markets_quoted": 23,
+      "markets_quoted": 0,
       "quotes_live": 0,
       "fills_total": 115,
       "halt": "",
@@ -574,11 +588,11 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 10.95,
-      "scorable_trades": 11571,
+      "hours": 11.03,
+      "scorable_trades": 11720,
       "fills": 1318,
       "fills_needed": 2000,
-      "markets": 485,
+      "markets": 490,
       "bias": 1.611,
       "breakeven": {
         "gross": 1.35,
