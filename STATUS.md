@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0198** (+1.98% since start) |
-| Peak / drawdown | 1.0294 / -0.93% |
-| Ticks recorded | 131 |
-| Last tick | 2026-07-28T22:08:22.369627+00:00 (-0.0488%) |
-| Risk rails | normal (dd -0.9%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-28 21:00:00+00:00) |
+| **Equity** | **1.0250** (+2.50% since start) |
+| Peak / drawdown | 1.0294 / -0.43% |
+| Ticks recorded | 132 |
+| Last tick | 2026-07-28T23:08:27.580242+00:00 (+0.5111%) |
+| Risk rails | normal (dd -0.4%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-07-28 22:00:00+00:00) |
 | Gross leverage | 2.00x |
 | Weeks tracked | 1 |
-| Average week | +2.13% |
+| Average week | +2.65% |
 | Weeks ≥ +3% | 0% |
-| Best / worst week | +2.13% / +2.13% |
+| Best / worst week | +2.65% / +2.65% |
 
 ## Positions (futures contracts, fraction of account)
 

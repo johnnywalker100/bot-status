@@ -9,40 +9,40 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9452** (-5.48% since start) |
-| Peak / drawdown | 1.0141 / -6.80% |
-| Ticks recorded | 115 |
-| Last tick | 2026-07-28T22:08:41.160593+00:00 (-0.3492%) |
-| Risk rails | normal (dd -6.8%) |
-| Data source | coinbase-cfm (bar 2026-07-28 21:00:00+00:00) |
-| Gross leverage | 2.96x |
+| **Equity** | **0.9595** (-4.05% since start) |
+| Peak / drawdown | 1.0141 / -5.39% |
+| Ticks recorded | 116 |
+| Last tick | 2026-07-28T23:08:46.026540+00:00 (+1.5170%) |
+| Risk rails | normal (dd -5.4%) |
+| Data source | coinbase-cfm (bar 2026-07-28 22:00:00+00:00) |
+| Gross leverage | 2.98x |
 | Weeks tracked | 1 |
-| Average week | +2.25% |
-| Weeks >= +3% | 0% |
-| Best / worst week | +2.25% / +2.25% |
+| Average week | +3.80% |
+| Weeks >= +3% | 100% |
+| Best / worst week | +3.80% / +3.80% |
 
 ## Positions (weight of account / whole contracts)
 
 | Long | Size | Contracts |
 |---|---|---|
-| AAVE perp | +26.6% | +5 |
-| ADA perp | +23.8% | +14 |
-| BCH perp | +13.6% | +6 |
-| ETH perp | +10.2% | +5 |
-| DOT perp | +7.3% | +9 |
+| AAVE perp | +31.1% | +6 |
+| ADA perp | +23.5% | +14 |
+| BCH perp | +13.3% | +6 |
+| ETH perp | +9.9% | +5 |
+| DOT perp | +7.1% | +9 |
 
 | Short | Size | Contracts |
 |---|---|---|
-| DOGE perp | -48.8% | -13 |
-| LTC perp | -34.3% | -14 |
-| LINK perp | -26.8% | -6 |
-| BNB perp | -24.2% | -4 |
-| BTC perp | -20.3% | -3 |
-| NEAR perp | -17.5% | -2 |
-| ZEC perp | -14.9% | -3 |
-| AVAX perp | -13.3% | -19 |
-| XLM perp | -9.2% | -1 |
-| XRP perp | -5.7% | -1 |
+| DOGE perp | -51.1% | -14 |
+| LTC perp | -33.5% | -14 |
+| LINK perp | -26.1% | -6 |
+| BNB perp | -23.7% | -4 |
+| BTC perp | -19.9% | -3 |
+| NEAR perp | -17.1% | -2 |
+| ZEC perp | -14.4% | -3 |
+| AVAX perp | -12.9% | -19 |
+| XLM perp | -9.0% | -1 |
+| XRP perp | -5.5% | -1 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
