@@ -1,616 +1,76 @@
 {
-  "generated": "2026-07-28 17:56:42.550986+00:00",
+  "generated": "2026-07-29 05:10:32.704354+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 1.023702,
-  "peak": 1.023777,
-  "drawdown": -7.3e-05,
-  "start": "2026-07-28 17:30:58.185107+00:00",
-  "gross_lev": 0.2525,
+  "equity": 1.0,
+  "peak": 1.0,
+  "drawdown": 0.0,
+  "start": "2026-07-29 03:03:35.246850+00:00",
+  "gross_lev": 0.1702,
   "last_tick": {
-    "ts": "2026-07-28 17:56:11.929864+00:00",
-    "tick_return": 8.1e-05,
-    "equity": 1.023702,
-    "vol_scale": 0.253,
-    "risk": "quoting",
-    "provider": "polymarket",
-    "asof": "2026-07-28 17:56:11.929864+00:00"
+    "ts": "2026-07-29 05:10:32.704724+00:00",
+    "tick_return": 0.0,
+    "equity": 1.0,
+    "vol_scale": 0.17,
+    "risk": "7 open, awaiting resolution",
+    "provider": "polymarket + open-meteo",
+    "asof": "2026-07-29 05:10:32.704747+00:00"
   },
   "positions": {
-    "Counter-Strike: Misa Esports vs Falcons Force - ": 0.00061,
-    "The Memphis Classic: Ekaterina Alexandrova vs Kr": 0.00011,
-    "LoL: Bar\u00e7a eSports vs GIANTX iTero - Game 2 Winn": 0.03175,
-    "LoL: ZYB Esport vs Esprit Sh\u014dnen (BO1) - LFL Reg": 0.00589,
-    "San Marino: Thiago Monteiro vs David Jorda Sanch": 0.01563,
-    "Will the highest temperature in San Francisco be": 0.01409,
-    "Will R\u012bga FC win on 2026-07-28?": 0.01045,
-    "Will Landskrona BoIS vs. IFK Norrkoping FK end i": 0.01001,
-    "Counter-Strike: Misa Esports vs Falcons Force (B": 0.0087,
-    "Bonn: Max Dahlin vs Matteo Martineau": 0.00627,
-    "Counter-Strike: SPARTA vs G2 Ares (BO3) - CCT Eu": 0.00509,
-    "Will FK Vardar Skopje win on 2026-07-28?": 0.00361,
-    "The Memphis Classic: Xiyu Wang vs Caty McNally": 0.00244,
-    "Mubadala Citi DC Open: Alex Michelsen vs Mackenz": 0.00202,
-    "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Ha": 0.00026,
-    "Zelenskyy meets with Netanyahu by Thursday?": 0.00015,
-    "Mubadala Citi DC Open: Alexandra Eala vs Qinwen ": 0.00013
+    "NO \u00b7 Will the highest temperature in New York Cit": 0.00405,
+    "YES \u00b7 Will the highest temperature in New York Cit": 0.00466,
+    "NO \u00b7 Will the highest temperature in Atlanta be b": 0.05083,
+    "YES \u00b7 Will the highest temperature in Atlanta be 9": 0.01785,
+    "YES \u00b7 Will the highest temperature in Miami be bet": 0.00026,
+    "NO \u00b7 Will the highest temperature in Miami be bet": 0.04206
   },
   "history": [
     {
-      "ts": "2026-07-28 17:30:58.185107+00:00",
+      "ts": "2026-07-29 03:03:35.246850+00:00",
       "ret": 0.0,
       "equity": 1.0,
-      "risk": "quoting",
+      "risk": "desk opened",
       "vol_scale": 0.0
-    },
-    {
-      "ts": "2026-07-28 17:31:12.654568+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "quoting",
-      "vol_scale": 0.0
-    },
-    {
-      "ts": "2026-07-28 17:31:32.633192+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "quoting",
-      "vol_scale": 0.0
-    },
-    {
-      "ts": "2026-07-28 17:31:52.431765+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "quoting",
-      "vol_scale": 0.0
-    },
-    {
-      "ts": "2026-07-28 17:32:12.430593+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "quoting",
-      "vol_scale": 0.0
-    },
-    {
-      "ts": "2026-07-28 17:32:32.519790+00:00",
-      "ret": -1.7e-05,
-      "equity": 0.999983,
-      "risk": "quoting",
-      "vol_scale": 0.003
-    },
-    {
-      "ts": "2026-07-28 17:32:52.442435+00:00",
-      "ret": 2e-05,
-      "equity": 1.000003,
-      "risk": "quoting",
-      "vol_scale": 0.006
-    },
-    {
-      "ts": "2026-07-28 17:33:12.538844+00:00",
-      "ret": -0.0001,
-      "equity": 0.999903,
-      "risk": "quoting",
-      "vol_scale": 0.022
-    },
-    {
-      "ts": "2026-07-28 17:33:32.502621+00:00",
-      "ret": 0.001847,
-      "equity": 1.001749,
-      "risk": "quoting",
-      "vol_scale": 0.04
-    },
-    {
-      "ts": "2026-07-28 17:33:52.453354+00:00",
-      "ret": 7.3e-05,
-      "equity": 1.001823,
-      "risk": "quoting",
-      "vol_scale": 0.04
-    },
-    {
-      "ts": "2026-07-28 17:34:12.486823+00:00",
-      "ret": -0.002246,
-      "equity": 0.999573,
-      "risk": "quoting",
-      "vol_scale": 0.046
-    },
-    {
-      "ts": "2026-07-28 17:34:32.549382+00:00",
-      "ret": -0.003135,
-      "equity": 0.996439,
-      "risk": "quoting",
-      "vol_scale": 0.043
-    },
-    {
-      "ts": "2026-07-28 17:34:52.494805+00:00",
-      "ret": -0.002302,
-      "equity": 0.994146,
-      "risk": "quoting",
-      "vol_scale": 0.041
-    },
-    {
-      "ts": "2026-07-28 17:35:19.288800+00:00",
-      "ret": 0.005311,
-      "equity": 0.999426,
-      "risk": "quoting",
-      "vol_scale": 0.046
-    },
-    {
-      "ts": "2026-07-28 17:35:32.802394+00:00",
-      "ret": -0.00119,
-      "equity": 0.998237,
-      "risk": "quoting",
-      "vol_scale": 0.046
-    },
-    {
-      "ts": "2026-07-28 17:35:55.362877+00:00",
-      "ret": -0.002329,
-      "equity": 0.995912,
-      "risk": "quoting",
-      "vol_scale": 0.044
-    },
-    {
-      "ts": "2026-07-28 17:36:13.101922+00:00",
-      "ret": -0.000502,
-      "equity": 0.995412,
-      "risk": "quoting",
-      "vol_scale": 0.044
-    },
-    {
-      "ts": "2026-07-28 17:36:32.848880+00:00",
-      "ret": -0.004507,
-      "equity": 0.990925,
-      "risk": "quoting",
-      "vol_scale": 0.039
-    },
-    {
-      "ts": "2026-07-28 17:37:11.989329+00:00",
-      "ret": -0.000114,
-      "equity": 0.990812,
-      "risk": "quoting",
-      "vol_scale": 0.041
-    },
-    {
-      "ts": "2026-07-28 17:37:13.251059+00:00",
-      "ret": 0.002121,
-      "equity": 0.992913,
-      "risk": "quoting",
-      "vol_scale": 0.045
-    },
-    {
-      "ts": "2026-07-28 17:37:33.406526+00:00",
-      "ret": 0.001361,
-      "equity": 0.994264,
-      "risk": "quoting",
-      "vol_scale": 0.047
-    },
-    {
-      "ts": "2026-07-28 17:37:53.544028+00:00",
-      "ret": 0.002331,
-      "equity": 0.996582,
-      "risk": "quoting",
-      "vol_scale": 0.057
-    },
-    {
-      "ts": "2026-07-28 17:38:13.956654+00:00",
-      "ret": -0.001628,
-      "equity": 0.99496,
-      "risk": "quoting",
-      "vol_scale": 0.066
-    },
-    {
-      "ts": "2026-07-28 17:38:33.367637+00:00",
-      "ret": 0.001185,
-      "equity": 0.996139,
-      "risk": "quoting",
-      "vol_scale": 0.079
-    },
-    {
-      "ts": "2026-07-28 17:38:53.488460+00:00",
-      "ret": 0.001597,
-      "equity": 0.99773,
-      "risk": "quoting",
-      "vol_scale": 0.081
-    },
-    {
-      "ts": "2026-07-28 17:39:13.508194+00:00",
-      "ret": -2.3e-05,
-      "equity": 0.997707,
-      "risk": "quoting",
-      "vol_scale": 0.081
-    },
-    {
-      "ts": "2026-07-28 17:39:33.727388+00:00",
-      "ret": 0.002557,
-      "equity": 1.000258,
-      "risk": "quoting",
-      "vol_scale": 0.084
-    },
-    {
-      "ts": "2026-07-28 17:39:53.285386+00:00",
-      "ret": 0.000436,
-      "equity": 1.000695,
-      "risk": "quoting",
-      "vol_scale": 0.084
-    },
-    {
-      "ts": "2026-07-28 17:40:17.848242+00:00",
-      "ret": 7.7e-05,
-      "equity": 1.000772,
-      "risk": "quoting",
-      "vol_scale": 0.102
-    },
-    {
-      "ts": "2026-07-28 17:40:33.353277+00:00",
-      "ret": -2.4e-05,
-      "equity": 1.000748,
-      "risk": "quoting",
-      "vol_scale": 0.103
-    },
-    {
-      "ts": "2026-07-28 17:41:00.755905+00:00",
-      "ret": -1.4e-05,
-      "equity": 1.000734,
-      "risk": "quoting",
-      "vol_scale": 0.105
-    },
-    {
-      "ts": "2026-07-28 17:41:13.766670+00:00",
-      "ret": 0.000937,
-      "equity": 1.001671,
-      "risk": "quoting",
-      "vol_scale": 0.126
-    },
-    {
-      "ts": "2026-07-28 17:41:33.873778+00:00",
-      "ret": 0.000948,
-      "equity": 1.002621,
-      "risk": "quoting",
-      "vol_scale": 0.146
-    },
-    {
-      "ts": "2026-07-28 17:41:54.146382+00:00",
-      "ret": -0.001512,
-      "equity": 1.001106,
-      "risk": "quoting",
-      "vol_scale": 0.159
-    },
-    {
-      "ts": "2026-07-28 17:42:13.408170+00:00",
-      "ret": -0.00018,
-      "equity": 1.000926,
-      "risk": "quoting",
-      "vol_scale": 0.16
-    },
-    {
-      "ts": "2026-07-28 17:42:40.184127+00:00",
-      "ret": -0.002677,
-      "equity": 0.998246,
-      "risk": "quoting",
-      "vol_scale": 0.159
-    },
-    {
-      "ts": "2026-07-28 17:42:53.779239+00:00",
-      "ret": 0.001541,
-      "equity": 0.999785,
-      "risk": "quoting",
-      "vol_scale": 0.161
-    },
-    {
-      "ts": "2026-07-28 17:43:13.664748+00:00",
-      "ret": -0.000104,
-      "equity": 0.999681,
-      "risk": "quoting",
-      "vol_scale": 0.167
-    },
-    {
-      "ts": "2026-07-28 17:43:33.831846+00:00",
-      "ret": 0.001993,
-      "equity": 1.001673,
-      "risk": "quoting",
-      "vol_scale": 0.175
-    },
-    {
-      "ts": "2026-07-28 17:43:53.764207+00:00",
-      "ret": -0.004193,
-      "equity": 0.997473,
-      "risk": "quoting",
-      "vol_scale": 0.173
-    },
-    {
-      "ts": "2026-07-28 17:44:14.261908+00:00",
-      "ret": -0.000868,
-      "equity": 0.996608,
-      "risk": "quoting",
-      "vol_scale": 0.173
-    },
-    {
-      "ts": "2026-07-28 17:44:33.657339+00:00",
-      "ret": 0.006554,
-      "equity": 1.003139,
-      "risk": "quoting",
-      "vol_scale": 0.179
-    },
-    {
-      "ts": "2026-07-28 17:44:53.787911+00:00",
-      "ret": -0.00026,
-      "equity": 1.002879,
-      "risk": "quoting",
-      "vol_scale": 0.179
-    },
-    {
-      "ts": "2026-07-28 17:45:15.101697+00:00",
-      "ret": -0.000976,
-      "equity": 1.0019,
-      "risk": "quoting",
-      "vol_scale": 0.194
-    },
-    {
-      "ts": "2026-07-28 17:45:33.123052+00:00",
-      "ret": 0.003088,
-      "equity": 1.004993,
-      "risk": "quoting",
-      "vol_scale": 0.202
-    },
-    {
-      "ts": "2026-07-28 17:45:53.139663+00:00",
-      "ret": 0.008927,
-      "equity": 1.013965,
-      "risk": "quoting",
-      "vol_scale": 0.213
-    },
-    {
-      "ts": "2026-07-28 17:46:13.309135+00:00",
-      "ret": 0.004272,
-      "equity": 1.018296,
-      "risk": "quoting",
-      "vol_scale": 0.218
-    },
-    {
-      "ts": "2026-07-28 17:46:36.237243+00:00",
-      "ret": 0.001834,
-      "equity": 1.020164,
-      "risk": "quoting",
-      "vol_scale": 0.219
-    },
-    {
-      "ts": "2026-07-28 17:46:53.112109+00:00",
-      "ret": -0.000505,
-      "equity": 1.019649,
-      "risk": "quoting",
-      "vol_scale": 0.235
-    },
-    {
-      "ts": "2026-07-28 17:47:13.012224+00:00",
-      "ret": 0.003056,
-      "equity": 1.022764,
-      "risk": "quoting",
-      "vol_scale": 0.238
-    },
-    {
-      "ts": "2026-07-28 17:47:33.064665+00:00",
-      "ret": 0.000784,
-      "equity": 1.023566,
-      "risk": "quoting",
-      "vol_scale": 0.239
-    },
-    {
-      "ts": "2026-07-28 17:47:53.256922+00:00",
-      "ret": -0.00271,
-      "equity": 1.020792,
-      "risk": "quoting",
-      "vol_scale": 0.236
-    },
-    {
-      "ts": "2026-07-28 17:48:13.145997+00:00",
-      "ret": 0.001795,
-      "equity": 1.022625,
-      "risk": "quoting",
-      "vol_scale": 0.241
-    },
-    {
-      "ts": "2026-07-28 17:48:35.808445+00:00",
-      "ret": 0.001126,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.242
-    },
-    {
-      "ts": "2026-07-28 17:48:52.937439+00:00",
-      "ret": -0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:49:12.794935+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:49:32.831284+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:49:52.985333+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:50:15.058102+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:50:35.328924+00:00",
-      "ret": 0.0,
-      "equity": 1.023777,
-      "risk": "quoting",
-      "vol_scale": 0.243
-    },
-    {
-      "ts": "2026-07-28 17:55:17.815274+00:00",
-      "ret": -0.000352,
-      "equity": 1.023416,
-      "risk": "quoting",
-      "vol_scale": 0.242
-    },
-    {
-      "ts": "2026-07-28 17:55:31.753762+00:00",
-      "ret": 0.0001,
-      "equity": 1.023519,
-      "risk": "quoting",
-      "vol_scale": 0.246
-    },
-    {
-      "ts": "2026-07-28 17:55:52.046964+00:00",
-      "ret": 9.9e-05,
-      "equity": 1.02362,
-      "risk": "quoting",
-      "vol_scale": 0.25
-    },
-    {
-      "ts": "2026-07-28 17:56:11.922206+00:00",
-      "ret": 8.1e-05,
-      "equity": 1.023702,
-      "risk": "quoting",
-      "vol_scale": 0.253
     }
   ],
   "weekly": [],
   "config": {
     "mode": "paper",
-    "fee_rate": 0.07,
-    "min_edge": 0.03,
-    "max_deploy": 0.6,
-    "brake_dd": -0.15,
-    "halt_dd": -0.3,
-    "daily_kill": -0.1,
-    "spread_model": "conservative",
-    "maker_rebate_theta": 0.0
+    "min_ev": 0.1,
+    "fee_rate": 0.05,
+    "window_local": "00:00-05:00",
+    "max_market_frac": 0.05,
+    "max_night_frac": 0.5
   },
   "backtest_ref": {
-    "mm/tape": {
-      "geo_wk": 0.01042,
-      "max_dd": -0.03473,
-      "sharpe": 3.58,
-      "mc_12m": {
-        "p_loss": 0.0
-      }
+    "wx/pool": {
+      "geo_wk": 0.123,
+      "max_dd": -0.018
     },
-    "calibration/oos": {
-      "geo_wk": 0.00693,
-      "max_dd": -0.0822,
-      "sharpe": 0.39,
+    "longshot/wf": {
+      "geo_wk": 0.00145,
+      "max_dd": -0.047,
       "mc_12m": {
-        "p_loss": 0.045
+        "p_loss": 0.004
       }
     }
   },
   "research": {
-    "maker": {
-      "quoting": true,
-      "markets_quoted": 28,
-      "quotes_live": 40,
-      "fills_total": 121,
-      "halt": "",
-      "recent_fills": [
-        {
-          "t": "2026-07-28 17:48:52.935449+00:00",
-          "token": "100481789618453390614986448597953601260180412353896687238835040063785685487813",
-          "side": "BUY",
-          "shares": 10.51,
-          "price": 0.57,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "The Memphis Classic: Xiyu Wang vs Caty McNally"
-        },
-        {
-          "t": "2026-07-28 17:48:52.935507+00:00",
-          "token": "13969203387153823146458665440104059267569949426722767089950295220087660621065",
-          "side": "BUY",
-          "shares": 2.21,
-          "price": 0.61,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng"
-        },
-        {
-          "t": "2026-07-28 17:55:31.750635+00:00",
-          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
-          "side": "BUY",
-          "shares": 200.0,
-          "price": 0.2,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
-        },
-        {
-          "t": "2026-07-28 17:55:31.750734+00:00",
-          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
-          "side": "BUY",
-          "shares": 1.8,
-          "price": 0.44,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
-        },
-        {
-          "t": "2026-07-28 17:55:52.044522+00:00",
-          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
-          "side": "BUY",
-          "shares": 200.0,
-          "price": 0.2,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
-        },
-        {
-          "t": "2026-07-28 17:55:52.044575+00:00",
-          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
-          "side": "BUY",
-          "shares": 1.8,
-          "price": 0.44,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
-        },
-        {
-          "t": "2026-07-28 17:56:11.919305+00:00",
-          "token": "29421296153054755164098470737241887010056065853392807218498610441722979267442",
-          "side": "BUY",
-          "shares": 100.0,
-          "price": 0.2,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "Will Landskrona BoIS vs. IFK Norrkoping FK end in a draw?"
-        },
-        {
-          "t": "2026-07-28 17:56:11.919389+00:00",
-          "token": "19443368233837151032339740710310463596735413193194191809085844295937559112428",
-          "side": "BUY",
-          "shares": 1.8,
-          "price": 0.44,
-          "liq": "maker",
-          "fee": 0.0,
-          "rebate": 0.0,
-          "title": "FK CSKA 1948 Sofia vs. FC Spartak Trnava: 1st Half O/U 0.5"
-        }
-      ]
+    "pool": {
+      "staked": 92596,
+      "profit": 35182,
+      "months": 3,
+      "positive_months": "3 of 3",
+      "worst_night": -180,
+      "capture_needed_for_5pct_month": 0.04
+    },
+    "engine": {
+      "fills": 56,
+      "settled": 0,
+      "won": 0,
+      "lost": 0,
+      "realised_pnl": 0,
+      "pace_per_month": null,
+      "goal_per_month": 0.05
     },
     "gate": {
       "open": false,
@@ -618,55 +78,70 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 11.03,
-      "scorable_trades": 11720,
-      "fills": 1333,
+      "hours": 22.21,
+      "scorable_trades": 20798,
+      "fills": 1747,
       "fills_needed": 2000,
-      "markets": 490,
-      "bias": 1.646,
+      "markets": 813,
+      "bias": 1.532,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -1.208,
+      "c_per_share": -2.3448,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
       {
-        "name": "market making",
+        "name": "overnight weather forecast-vs-market",
+        "verdict": "survived - capture unmeasured",
+        "detail": "venue-wide pool $35,182 profit on $92,596 staked May-Jul at model-EV>=10c; positive all 3 months, 11 cities, 96% of nights; error dist trained Feb-Apr only; entries = real same-side prints; largest print verified vs live API. Mid-morning version LOSES -40%/trade (market Brier 0.018 beats model 0.031 by 10am). Live capture share now being measured by pm_wxedge.py"
+      },
+      {
+        "name": "deep-longshot selling",
         "verdict": "survived",
-        "detail": "+$12,225 on $15,202 over 1.09y, Sharpe 3.58, 65% of 396 markets positive; break-even at 1.35x adverse selection (1.95x with the full maker rebate)"
+        "detail": "sell YES 1-5c on standalone binaries 30-250d out: +7.8%/yr walk-forward 2023-26, 526 trades, 4 losses, 3 losing months of 37; the only survivor of a 90-rule scan under a strict temporal split; sizing above 5%/pos inverts it"
       },
       {
-        "name": "recalibration, held to resolution",
-        "verdict": "dead",
-        "detail": "regime-unstable, sign-flipped in 2026, walk-forward Brier skill -0.05% OOS"
+        "name": "market making",
+        "verdict": "dead - reverses the earlier verdict",
+        "detail": "live shadow measurement: -2.68c/share after adverse selection on 1,836 clean fills; 0 of 56 category/price/spread segments positive; break-even quote width ~34c on a 1c-spread venue. The earlier +$12,225 / Sharpe 3.58 tape result was a fill-model artifact (fills at print price, quoted width cancels out, no queue) and its risk stats were hand-authored - retracted"
       },
       {
-        "name": "taker mean-reversion",
+        "name": "wallet copy-trading",
         "verdict": "dead",
-        "detail": "daily autocorrelation -0.19 but 80% is bid-ask bounce; residual 0.2-1.6c vs 2-11c round trip"
+        "detail": "36 temporal-split configs, none significant (p 0.10-0.997); top-decile wallets underperformed afterwards"
       },
       {
-        "name": "taker flow-following",
+        "name": "flow prediction",
         "verdict": "dead",
-        "detail": "correlation 0.002"
+        "detail": "signal real (OOS R^2 0.219) but half-life <30s vs measured 154s feed lag; the informed takers themselves net -0.48c after their own fee"
       },
       {
-        "name": "dutch-book arbitrage",
+        "name": "complement / dutch-book arb",
         "verdict": "dead",
-        "detail": "0 of 79 complete negRisk events executable after fees"
+        "detail": "min YES+NO 1.0010 across 8,190 live markets; dutch books 0 of 75 net of fees, best-candidate depth $1-$141"
       },
       {
-        "name": "complement arbitrage",
+        "name": "economics-release latency",
         "verdict": "dead",
-        "detail": "never exists; tightest of 6,894 live markets was 1.001"
+        "detail": "CPI completes 85% of its move in 60s (71% of lifetime volume in the first minute); FOMC is pre-priced"
+      },
+      {
+        "name": "weather resolution-latency (selling decided bands)",
+        "verdict": "dead",
+        "detail": "apparent $892/day was measurement error: wrong stations (Midway vs O'Hare, DEN vs Buckley) plus the hot 5-minute feed vs the METAR reports that settle the market; conditional on tradeable prices the false-positive rate was 39%"
       },
       {
         "name": "cross-venue vs Kalshi",
         "verdict": "dead",
-        "detail": "Kalshi half-spreads 2.5c, 5x Polymarket"
+        "detail": "113 matched pairs: median divergence 1.0c vs Kalshi's ~2c taker fee; apparent tail arbs were in-play snapshot skew"
+      },
+      {
+        "name": "calibration / forecasting sleeve",
+        "verdict": "dead",
+        "detail": "CI lower bound +0.07%, top-20 trades = 124% of profit; indistinguishable from luck"
       }
     ],
     "corpus": {
