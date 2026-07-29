@@ -9,41 +9,41 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9753** (-2.47% since start) |
-| Peak / drawdown | 1.0141 / -3.83% |
-| Ticks recorded | 139 |
-| Last tick | 2026-07-29T21:08:45.326315+00:00 (+0.4738%) |
-| Risk rails | normal (dd -3.8%) |
-| Data source | coinbase-cfm (bar 2026-07-29 20:00:00+00:00) |
+| **Equity** | **0.9605** (-3.95% since start) |
+| Peak / drawdown | 1.0141 / -5.28% |
+| Ticks recorded | 140 |
+| Last tick | 2026-07-29T22:08:25.440963+00:00 (-1.5124%) |
+| Risk rails | normal (dd -5.3%) |
+| Data source | coinbase-cfm (bar 2026-07-29 21:00:00+00:00) |
 | Gross leverage | 3.01x |
 | Weeks tracked | 1 |
-| Average week | +5.51% |
+| Average week | +3.91% |
 | Weeks >= +3% | 100% |
-| Best / worst week | +5.51% / +5.51% |
+| Best / worst week | +3.91% / +3.91% |
 
 ## Positions (weight of account / whole contracts)
 
 | Long | Size | Contracts |
 |---|---|---|
-| ADA perp | +19.8% | +12 |
-| AAVE perp | +19.5% | +4 |
-| XLM perp | +17.3% | +2 |
-| BCH perp | +14.7% | +7 |
-| DOT perp | +10.0% | +13 |
-| ETH perp | +9.6% | +5 |
-| SOL perp | +3.7% | +1 |
+| AAVE perp | +20.0% | +4 |
+| ADA perp | +18.7% | +11 |
+| XLM perp | +17.9% | +2 |
+| BCH perp | +15.2% | +7 |
+| ETH perp | +9.9% | +5 |
+| DOT perp | +9.5% | +12 |
+| SOL perp | +3.8% | +1 |
 
 | Short | Size | Contracts |
 |---|---|---|
-| DOGE perp | -46.1% | -13 |
-| LTC perp | -38.6% | -17 |
-| BNB perp | -29.0% | -5 |
-| NEAR perp | -24.3% | -3 |
-| BTC perp | -19.4% | -3 |
-| ZEC perp | -18.7% | -4 |
-| LINK perp | -16.8% | -4 |
-| AVAX perp | -8.4% | -13 |
-| XRP perp | -5.5% | -1 |
+| DOGE perp | -47.4% | -13 |
+| LTC perp | -37.5% | -16 |
+| BNB perp | -29.7% | -5 |
+| NEAR perp | -25.0% | -3 |
+| BTC perp | -20.0% | -3 |
+| LINK perp | -17.3% | -4 |
+| ZEC perp | -14.5% | -3 |
+| AVAX perp | -8.7% | -13 |
+| XRP perp | -5.6% | -1 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
