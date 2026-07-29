@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29 19:11:25.890894+00:00",
+  "generated": "2026-07-29 19:13:25.890128+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
@@ -7,44 +7,55 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.7455,
   "last_tick": {
-    "ts": "2026-07-29 19:11:25.890968+00:00",
+    "ts": "2026-07-29 19:13:25.890205+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
     "vol_scale": 0.745,
     "risk": "27 open, awaiting resolution",
     "provider": "polymarket + open-meteo",
-    "asof": "2026-07-29 19:11:25.890991+00:00"
+    "asof": "2026-07-29 19:13:25.890228+00:00"
   },
   "positions": {
-    "NO NYC 78-79\u00b0 \u00b7 0.78\u21920.91": 0.1691,
+    "NO NYC 78-79\u00b0 \u00b7 0.78\u21921.00": 0.2835,
     "YES NYC \u226584\u00b0 \u00b7 0.15\u21920.01": -0.931,
-    "NO ATL 90-91\u00b0 \u00b7 0.67\u21920.62": -0.071,
-    "NO ATL 92-93\u00b0 \u00b7 0.63\u21920.81": 0.2845,
+    "NO ATL 90-91\u00b0 \u00b7 0.67\u21920.55": -0.1759,
+    "NO ATL 92-93\u00b0 \u00b7 0.63\u21920.84": 0.3321,
     "YES ATL \u226596\u00b0 \u00b7 0.11\u21920.00": -0.9721,
-    "YES MIA 90-91\u00b0 \u00b7 0.06\u21920.56": 8.6257,
-    "NO MIA 94-95\u00b0 \u00b7 0.51\u21920.93": 0.84,
-    "NO NYC 80-81\u00b0 \u00b7 0.65\u21920.22": -0.6614,
-    "NO CHI 80-81\u00b0 \u00b7 0.56\u21920.66": 0.1885,
+    "YES MIA 90-91\u00b0 \u00b7 0.06\u21920.23": 2.9534,
+    "NO MIA 94-95\u00b0 \u00b7 0.51\u21920.94": 0.8598,
+    "NO NYC 80-81\u00b0 \u00b7 0.65\u21920.33": -0.4922,
+    "NO CHI 80-81\u00b0 \u00b7 0.56\u21920.57": 0.0264,
     "YES CHI 84-85\u00b0 \u00b7 0.05\u21920.02": -0.5969,
-    "NO DAL 98-99\u00b0 \u00b7 0.71\u21920.48": -0.3206,
-    "NO DAL 100-101\u00b0 \u00b7 0.59\u21920.81": 0.3765,
+    "NO DAL 98-99\u00b0 \u00b7 0.71\u21920.43": -0.3913,
+    "NO DAL 100-101\u00b0 \u00b7 0.59\u21920.82": 0.3935,
     "YES DAL 104-105\u00b0 \u00b7 0.07\u21920.01": -0.8509,
-    "NO MIA 92-93\u00b0 \u00b7 0.71\u21920.60": -0.1531,
+    "NO MIA 92-93\u00b0 \u00b7 0.71\u21920.35": -0.506,
     "YES MIA 96-97\u00b0 \u00b7 0.13\u21920.01": -0.9213,
     "YES MIA 98-99\u00b0 \u00b7 0.03\u21920.00": -0.9621,
-    "NO DEN 90-91\u00b0 \u00b7 0.62\u21920.54": -0.1354,
-    "YES DEN 94-95\u00b0 \u00b7 0.12\u21920.05": -0.5944,
-    "YES DEN \u226596\u00b0 \u00b7 0.04\u21920.03": -0.2696,
-    "NO HOU 94-95\u00b0 \u00b7 0.68\u21920.56": -0.174,
+    "NO DEN 90-91\u00b0 \u00b7 0.62\u21920.31": -0.5037,
+    "YES DEN 94-95\u00b0 \u00b7 0.12\u21920.04": -0.6755,
+    "YES DEN \u226596\u00b0 \u00b7 0.04\u21920.01": -0.6805,
+    "NO HOU 94-95\u00b0 \u00b7 0.68\u21920.57": -0.1593,
     "NO HOU 96-97\u00b0 \u00b7 0.55\u21920.60": 0.0923,
-    "YES HOU 100-101\u00b0 \u00b7 0.09\u21920.01": -0.8883,
+    "YES HOU 100-101\u00b0 \u00b7 0.09\u21920.00": -0.9888,
     "YES HOU 102-103\u00b0 \u00b7 0.03\u21920.00": -0.94,
-    "NO AUS 96-97\u00b0 \u00b7 0.78\u21920.70": -0.103,
-    "NO AUS 98-99\u00b0 \u00b7 0.45\u21920.31": -0.3034,
+    "NO AUS 96-97\u00b0 \u00b7 0.78\u21920.57": -0.2696,
+    "NO AUS 98-99\u00b0 \u00b7 0.45\u21920.48": 0.0786,
     "YES AUS 100-101\u00b0 \u00b7 0.13\u21920.06": -0.5461,
     "YES AUS 102-103\u00b0 \u00b7 0.08\u21920.01": -0.8748
   },
   "positions_detail": [
+    {
+      "side": "YES",
+      "city": "HOU",
+      "band": "100-101\u00b0",
+      "collat": 35.32,
+      "entry": 0.09,
+      "mark": 0.001,
+      "upnl": -0.9888,
+      "verdict": null,
+      "obs_max": 95
+    },
     {
       "side": "YES",
       "city": "ATL",
@@ -54,7 +65,7 @@
       "mark": 0.003,
       "upnl": -0.9721,
       "verdict": null,
-      "obs_max": 84
+      "obs_max": 85
     },
     {
       "side": "YES",
@@ -76,7 +87,7 @@
       "mark": 0.002,
       "upnl": -0.94,
       "verdict": null,
-      "obs_max": 89
+      "obs_max": 95
     },
     {
       "side": "YES",
@@ -102,17 +113,6 @@
     },
     {
       "side": "YES",
-      "city": "HOU",
-      "band": "100-101\u00b0",
-      "collat": 35.32,
-      "entry": 0.09,
-      "mark": 0.01,
-      "upnl": -0.8883,
-      "verdict": null,
-      "obs_max": 89
-    },
-    {
-      "side": "YES",
       "city": "AUS",
       "band": "102-103\u00b0",
       "collat": 5.07,
@@ -120,7 +120,7 @@
       "mark": 0.01,
       "upnl": -0.8748,
       "verdict": null,
-      "obs_max": 86
+      "obs_max": 93
     },
     {
       "side": "YES",
@@ -131,18 +131,29 @@
       "mark": 0.01,
       "upnl": -0.8509,
       "verdict": null,
-      "obs_max": 89
+      "obs_max": 95
     },
     {
-      "side": "NO",
-      "city": "NYC",
-      "band": "80-81\u00b0",
-      "collat": 508.03,
-      "entry": 0.65,
-      "mark": 0.22,
-      "upnl": -0.6614,
+      "side": "YES",
+      "city": "DEN",
+      "band": "\u226596\u00b0",
+      "collat": 8.38,
+      "entry": 0.044,
+      "mark": 0.014,
+      "upnl": -0.6805,
       "verdict": null,
-      "obs_max": 78
+      "obs_max": 88
+    },
+    {
+      "side": "YES",
+      "city": "DEN",
+      "band": "94-95\u00b0",
+      "collat": 49.66,
+      "entry": 0.123,
+      "mark": 0.04,
+      "upnl": -0.6755,
+      "verdict": null,
+      "obs_max": 88
     },
     {
       "side": "YES",
@@ -153,18 +164,7 @@
       "mark": 0.02,
       "upnl": -0.5969,
       "verdict": null,
-      "obs_max": 75
-    },
-    {
-      "side": "YES",
-      "city": "DEN",
-      "band": "94-95\u00b0",
-      "collat": 49.66,
-      "entry": 0.123,
-      "mark": 0.05,
-      "upnl": -0.5944,
-      "verdict": null,
-      "obs_max": 88
+      "obs_max": 78
     },
     {
       "side": "YES",
@@ -175,51 +175,7 @@
       "mark": 0.06,
       "upnl": -0.5461,
       "verdict": null,
-      "obs_max": 86
-    },
-    {
-      "side": "NO",
-      "city": "DAL",
-      "band": "98-99\u00b0",
-      "collat": 504.63,
-      "entry": 0.706,
-      "mark": 0.48,
-      "upnl": -0.3206,
-      "verdict": null,
-      "obs_max": 89
-    },
-    {
-      "side": "NO",
-      "city": "AUS",
-      "band": "98-99\u00b0",
-      "collat": 449.32,
-      "entry": 0.445,
-      "mark": 0.31,
-      "upnl": -0.3034,
-      "verdict": null,
-      "obs_max": 86
-    },
-    {
-      "side": "YES",
-      "city": "DEN",
-      "band": "\u226596\u00b0",
-      "collat": 8.38,
-      "entry": 0.044,
-      "mark": 0.032,
-      "upnl": -0.2696,
-      "verdict": null,
-      "obs_max": 88
-    },
-    {
-      "side": "NO",
-      "city": "HOU",
-      "band": "94-95\u00b0",
-      "collat": 505.67,
-      "entry": 0.678,
-      "mark": 0.56,
-      "upnl": -0.174,
-      "verdict": null,
-      "obs_max": 89
+      "obs_max": 93
     },
     {
       "side": "NO",
@@ -227,8 +183,8 @@
       "band": "92-93\u00b0",
       "collat": 500.33,
       "entry": 0.708,
-      "mark": 0.6,
-      "upnl": -0.1531,
+      "mark": 0.35,
+      "upnl": -0.506,
       "verdict": null,
       "obs_max": 90
     },
@@ -238,10 +194,32 @@
       "band": "90-91\u00b0",
       "collat": 411.09,
       "entry": 0.625,
-      "mark": 0.54,
-      "upnl": -0.1354,
+      "mark": 0.31,
+      "upnl": -0.5037,
       "verdict": null,
       "obs_max": 88
+    },
+    {
+      "side": "NO",
+      "city": "NYC",
+      "band": "80-81\u00b0",
+      "collat": 508.03,
+      "entry": 0.65,
+      "mark": 0.33,
+      "upnl": -0.4922,
+      "verdict": null,
+      "obs_max": 78
+    },
+    {
+      "side": "NO",
+      "city": "DAL",
+      "band": "98-99\u00b0",
+      "collat": 504.63,
+      "entry": 0.706,
+      "mark": 0.43,
+      "upnl": -0.3913,
+      "verdict": null,
+      "obs_max": 95
     },
     {
       "side": "NO",
@@ -249,10 +227,10 @@
       "band": "96-97\u00b0",
       "collat": 500.2,
       "entry": 0.78,
-      "mark": 0.7,
-      "upnl": -0.103,
+      "mark": 0.57,
+      "upnl": -0.2696,
       "verdict": null,
-      "obs_max": 86
+      "obs_max": 93
     },
     {
       "side": "NO",
@@ -260,10 +238,43 @@
       "band": "90-91\u00b0",
       "collat": 504.55,
       "entry": 0.667,
-      "mark": 0.62,
-      "upnl": -0.071,
+      "mark": 0.55,
+      "upnl": -0.1759,
       "verdict": null,
-      "obs_max": 84
+      "obs_max": 85
+    },
+    {
+      "side": "NO",
+      "city": "HOU",
+      "band": "94-95\u00b0",
+      "collat": 505.67,
+      "entry": 0.678,
+      "mark": 0.57,
+      "upnl": -0.1593,
+      "verdict": null,
+      "obs_max": 95
+    },
+    {
+      "side": "NO",
+      "city": "CHI",
+      "band": "80-81\u00b0",
+      "collat": 489.76,
+      "entry": 0.555,
+      "mark": 0.57,
+      "upnl": 0.0264,
+      "verdict": null,
+      "obs_max": 78
+    },
+    {
+      "side": "NO",
+      "city": "AUS",
+      "band": "98-99\u00b0",
+      "collat": 449.32,
+      "entry": 0.445,
+      "mark": 0.48,
+      "upnl": 0.0786,
+      "verdict": null,
+      "obs_max": 93
     },
     {
       "side": "NO",
@@ -274,7 +285,7 @@
       "mark": 0.6,
       "upnl": 0.0923,
       "verdict": null,
-      "obs_max": 89
+      "obs_max": 95
     },
     {
       "side": "NO",
@@ -282,21 +293,10 @@
       "band": "78-79\u00b0",
       "collat": 504.63,
       "entry": 0.778,
-      "mark": 0.91,
-      "upnl": 0.1691,
+      "mark": 0.999,
+      "upnl": 0.2835,
       "verdict": null,
       "obs_max": 78
-    },
-    {
-      "side": "NO",
-      "city": "CHI",
-      "band": "80-81\u00b0",
-      "collat": 489.76,
-      "entry": 0.555,
-      "mark": 0.66,
-      "upnl": 0.1885,
-      "verdict": null,
-      "obs_max": 75
     },
     {
       "side": "NO",
@@ -304,10 +304,10 @@
       "band": "92-93\u00b0",
       "collat": 508.35,
       "entry": 0.631,
-      "mark": 0.81,
-      "upnl": 0.2845,
+      "mark": 0.84,
+      "upnl": 0.3321,
       "verdict": null,
-      "obs_max": 84
+      "obs_max": 85
     },
     {
       "side": "NO",
@@ -315,10 +315,10 @@
       "band": "100-101\u00b0",
       "collat": 500.85,
       "entry": 0.588,
-      "mark": 0.81,
-      "upnl": 0.3765,
+      "mark": 0.82,
+      "upnl": 0.3935,
       "verdict": null,
-      "obs_max": 89
+      "obs_max": 95
     },
     {
       "side": "NO",
@@ -326,8 +326,8 @@
       "band": "94-95\u00b0",
       "collat": 502.06,
       "entry": 0.505,
-      "mark": 0.93,
-      "upnl": 0.84,
+      "mark": 0.94,
+      "upnl": 0.8598,
       "verdict": null,
       "obs_max": 90
     },
@@ -337,8 +337,8 @@
       "band": "90-91\u00b0",
       "collat": 2.62,
       "entry": 0.058,
-      "mark": 0.56,
-      "upnl": 8.6257,
+      "mark": 0.23,
+      "upnl": 2.9534,
       "verdict": null,
       "obs_max": 90
     }
@@ -393,7 +393,7 @@
       "pace_per_month": 0.0,
       "goal_per_month": 0.05,
       "open_collat": 7454.75,
-      "open_marked": 7036.08,
+      "open_marked": 6796.36,
       "open_marked_collat": 7454.75,
       "marks_done": 27,
       "open_count": 27,
@@ -408,16 +408,16 @@
     "shadow": {
       "hours": 36.39,
       "scorable_trades": 41470,
-      "fills": 3770,
+      "fills": 3776,
       "fills_needed": 2000,
       "markets": 1478,
-      "bias": 1.828,
+      "bias": 1.822,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.3757,
+      "c_per_share": -2.371,
       "verdict": "not viable at this quote policy"
     },
     "scorecard": [
