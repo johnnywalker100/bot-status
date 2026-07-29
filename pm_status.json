@@ -1,21 +1,28 @@
 {
-  "generated": "2026-07-29 04:14:32.538789+00:00",
+  "generated": "2026-07-29 04:16:32.542578+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
   "drawdown": 0.0,
   "start": "2026-07-29 03:03:35.246850+00:00",
-  "gross_lev": 0.0,
+  "gross_lev": 0.161,
   "last_tick": {
-    "ts": "2026-07-29 04:14:32.539078+00:00",
+    "ts": "2026-07-29 04:16:32.542821+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
-    "vol_scale": 0.0,
-    "risk": "flat - waiting for the overnight window",
+    "vol_scale": 0.161,
+    "risk": "7 open, awaiting resolution",
     "provider": "polymarket + open-meteo",
-    "asof": "2026-07-29 04:14:32.539131+00:00"
+    "asof": "2026-07-29 04:16:32.542883+00:00"
   },
-  "positions": {},
+  "positions": {
+    "NO \u00b7 Will the highest temperature in New York Cit": 0.00405,
+    "YES \u00b7 Will the highest temperature in New York Cit": 0.00466,
+    "NO \u00b7 Will the highest temperature in Atlanta be b": 0.05083,
+    "YES \u00b7 Will the highest temperature in Atlanta be 9": 0.00864,
+    "YES \u00b7 Will the highest temperature in Miami be bet": 0.00026,
+    "NO \u00b7 Will the highest temperature in Miami be bet": 0.04206
+  },
   "history": [
     {
       "ts": "2026-07-29 03:03:35.246850+00:00",
@@ -57,7 +64,7 @@
       "capture_needed_for_5pct_month": 0.04
     },
     "engine": {
-      "fills": 0,
+      "fills": 47,
       "settled": 0,
       "won": 0,
       "lost": 0,
@@ -71,11 +78,11 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 21.21,
-      "scorable_trades": 20325,
+      "hours": 21.46,
+      "scorable_trades": 20365,
       "fills": 1747,
       "fills_needed": 2000,
-      "markets": 800,
+      "markets": 802,
       "bias": 1.528,
       "breakeven": {
         "gross": 1.35,
