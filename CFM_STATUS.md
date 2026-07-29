@@ -9,41 +9,41 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9569** (-4.31% since start) |
-| Peak / drawdown | 1.0141 / -5.64% |
-| Ticks recorded | 120 |
-| Last tick | 2026-07-29T03:09:00.092201+00:00 (-0.0803%) |
-| Risk rails | normal (dd -5.6%) |
-| Data source | coinbase-cfm (bar 2026-07-29 02:00:00+00:00) |
-| Gross leverage | 3.03x |
+| **Equity** | **0.9714** (-2.86% since start) |
+| Peak / drawdown | 1.0141 / -4.21% |
+| Ticks recorded | 121 |
+| Last tick | 2026-07-29T04:08:50.711427+00:00 (+1.5146%) |
+| Risk rails | normal (dd -4.2%) |
+| Data source | coinbase-cfm (bar 2026-07-29 03:00:00+00:00) |
+| Gross leverage | 2.96x |
 | Weeks tracked | 1 |
-| Average week | +3.52% |
+| Average week | +5.09% |
 | Weeks >= +3% | 100% |
-| Best / worst week | +3.52% / +3.52% |
+| Best / worst week | +5.09% / +5.09% |
 
 ## Positions (weight of account / whole contracts)
 
 | Long | Size | Contracts |
 |---|---|---|
-| AAVE perp | +20.8% | +4 |
-| ADA perp | +19.0% | +11 |
-| XLM perp | +18.2% | +2 |
-| BCH perp | +13.4% | +6 |
-| ETH perp | +10.0% | +5 |
-| DOT perp | +9.6% | +12 |
+| AAVE perp | +20.1% | +4 |
+| ADA perp | +18.5% | +11 |
+| XLM perp | +17.7% | +2 |
+| BCH perp | +13.1% | +6 |
+| DOT perp | +10.1% | +13 |
+| ETH perp | +9.7% | +5 |
 | SOL perp | +3.8% | +1 |
 
 | Short | Size | Contracts |
 |---|---|---|
-| DOGE perp | -48.0% | -13 |
-| LTC perp | -38.5% | -16 |
-| BNB perp | -29.8% | -5 |
-| NEAR perp | -25.6% | -3 |
-| BTC perp | -20.0% | -3 |
-| LINK perp | -17.6% | -4 |
-| ZEC perp | -14.5% | -3 |
-| AVAX perp | -8.8% | -13 |
-| XRP perp | -5.6% | -1 |
+| DOGE perp | -46.9% | -13 |
+| LTC perp | -37.2% | -16 |
+| BNB perp | -29.2% | -5 |
+| NEAR perp | -24.7% | -3 |
+| BTC perp | -19.6% | -3 |
+| LINK perp | -17.1% | -4 |
+| ZEC perp | -14.0% | -3 |
+| AVAX perp | -8.5% | -13 |
+| XRP perp | -5.5% | -1 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
