@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29 03:24:00.251093+00:00",
+  "generated": "2026-07-29 03:26:00.257783+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
@@ -68,11 +68,11 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 20.54,
-      "scorable_trades": 19565,
+      "hours": 20.62,
+      "scorable_trades": 19662,
       "fills": 1684,
       "fills_needed": 2000,
-      "markets": 781,
+      "markets": 784,
       "bias": 1.565,
       "breakeven": {
         "gross": 1.35,
