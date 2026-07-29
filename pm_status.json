@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29 20:47:25.900535+00:00",
+  "generated": "2026-07-29 20:49:25.900569+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
@@ -7,13 +7,13 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.7455,
   "last_tick": {
-    "ts": "2026-07-29 20:47:25.900625+00:00",
+    "ts": "2026-07-29 20:49:25.900837+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
     "vol_scale": 0.745,
     "risk": "27 open, awaiting resolution",
     "provider": "polymarket + open-meteo",
-    "asof": "2026-07-29 20:47:25.900672+00:00"
+    "asof": "2026-07-29 20:49:25.900903+00:00"
   },
   "positions": {
     "NO NYC 78-79\u00b0 \u2713 0.78\u21921.00": 0.2835,
@@ -408,16 +408,16 @@
     "shadow": {
       "hours": 37.97,
       "scorable_trades": 43494,
-      "fills": 3955,
+      "fills": 3966,
       "fills_needed": 2000,
       "markets": 1553,
-      "bias": 1.796,
+      "bias": 1.805,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.3103,
+      "c_per_share": -2.3045,
       "verdict": "not viable at this quote policy"
     },
     "scorecard": [
