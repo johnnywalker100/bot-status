@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0230** (+2.30% since start) |
-| Peak / drawdown | 1.0294 / -0.63% |
-| Ticks recorded | 133 |
-| Last tick | 2026-07-29T00:08:28.464881+00:00 (-0.1999%) |
-| Risk rails | normal (dd -0.6%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-28 23:00:00+00:00) |
+| **Equity** | **1.0242** (+2.42% since start) |
+| Peak / drawdown | 1.0294 / -0.51% |
+| Ticks recorded | 134 |
+| Last tick | 2026-07-29T01:08:22.064732+00:00 (+0.1156%) |
+| Risk rails | normal (dd -0.5%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-07-29 00:00:00+00:00) |
 | Gross leverage | 2.00x |
 | Weeks tracked | 1 |
-| Average week | +2.44% |
+| Average week | +2.56% |
 | Weeks ≥ +3% | 0% |
-| Best / worst week | +2.44% / +2.44% |
+| Best / worst week | +2.56% / +2.56% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,30 +26,30 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +24.2% |
-| ADA perp | +18.4% |
-| DOT perp | +13.8% |
-| ALGO perp | +12.0% |
-| ATOM perp | +10.2% |
-| BCH perp | +6.6% |
-| ETH perp | +5.2% |
-| AAVE perp | +2.9% |
-| SOL perp | +2.4% |
-| UNI perp | +1.8% |
-| XRP perp | +0.5% |
+| TRX perp | +25.0% |
+| ADA perp | +15.4% |
+| DOT perp | +15.2% |
+| ALGO perp | +12.3% |
+| XLM perp | +8.3% |
+| ETH perp | +5.1% |
+| BCH perp | +4.8% |
+| SOL perp | +2.3% |
+| ETC perp | +2.1% |
+| UNI perp | +1.9% |
 
 | Contract | Size |
 |---|---|
-| DOGE perp | -21.8% |
-| LTC perp | -19.0% |
-| BNB perp | -13.2% |
-| SUSHI perp | -11.1% |
-| LINK perp | -8.6% |
-| BTC perp | -8.0% |
-| THETA perp | -8.0% |
-| FIL perp | -4.6% |
-| AVAX perp | -4.1% |
-| ETC perp | -3.5% |
+| LTC perp | -20.3% |
+| DOGE perp | -18.9% |
+| BNB perp | -14.8% |
+| SUSHI perp | -14.6% |
+| THETA perp | -11.2% |
+| LINK perp | -7.1% |
+| AVAX perp | -6.6% |
+| BTC perp | -6.4% |
+| ATOM perp | -3.0% |
+| FIL perp | -2.9% |
+| AAVE perp | -1.4% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
