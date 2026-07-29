@@ -1,27 +1,48 @@
 {
-  "generated": "2026-07-29 06:07:00.150545+00:00",
+  "generated": "2026-07-29 06:19:37.110655+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
   "drawdown": 0.0,
   "start": "2026-07-29 03:03:35.246850+00:00",
-  "gross_lev": 0.1702,
+  "gross_lev": 0.7455,
   "last_tick": {
-    "ts": "2026-07-29 06:07:00.150801+00:00",
+    "ts": "2026-07-29 06:19:37.110738+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
-    "vol_scale": 0.17,
-    "risk": "7 open, awaiting resolution",
+    "vol_scale": 0.745,
+    "risk": "27 open, awaiting resolution",
     "provider": "polymarket + open-meteo",
-    "asof": "2026-07-29 06:07:00.150824+00:00"
+    "asof": "2026-07-29 06:19:37.110766+00:00"
   },
   "positions": {
-    "NO \u00b7 Will the highest temperature in New York Cit": 0.00405,
-    "YES \u00b7 Will the highest temperature in New York Cit": 0.00466,
-    "NO \u00b7 Will the highest temperature in Atlanta be b": 0.05083,
-    "YES \u00b7 Will the highest temperature in Atlanta be 9": 0.01785,
-    "YES \u00b7 Will the highest temperature in Miami be bet": 0.00026,
-    "NO \u00b7 Will the highest temperature in Miami be bet": 0.04206
+    "NO \u00b7 Will the highest temperature in New York City be between 78-79\u00b0F": 0.05046,
+    "YES \u00b7 Will the highest temperature in New York City be 84\u00b0F or higher ": 0.01155,
+    "NO \u00b7 Will the highest temperature in Atlanta be between 90-91\u00b0F on Ju": 0.05045,
+    "NO \u00b7 Will the highest temperature in Atlanta be between 92-93\u00b0F on Ju": 0.05083,
+    "YES \u00b7 Will the highest temperature in Atlanta be 96\u00b0F or higher on Jul": 0.01785,
+    "YES \u00b7 Will the highest temperature in Miami be between 90-91\u00b0F on July": 0.00026,
+    "NO \u00b7 Will the highest temperature in Miami be between 94-95\u00b0F on July": 0.05021,
+    "NO \u00b7 Will the highest temperature in New York City be between 80-81\u00b0F": 0.0508,
+    "NO \u00b7 Will the highest temperature in Chicago be between 80-81\u00b0F on Ju": 0.04898,
+    "YES \u00b7 Will the highest temperature in Chicago be between 84-85\u00b0F on Ju": 0.0029,
+    "NO \u00b7 Will the highest temperature in Dallas be between 98-99\u00b0F on Jul": 0.05046,
+    "NO \u00b7 Will the highest temperature in Dallas be between 100-101\u00b0F on J": 0.05009,
+    "YES \u00b7 Will the highest temperature in Dallas be between 104-105\u00b0F on J": 0.00129,
+    "NO \u00b7 Will the highest temperature in Miami be between 92-93\u00b0F on July": 0.05003,
+    "YES \u00b7 Will the highest temperature in Miami be between 96-97\u00b0F on July": 0.00688,
+    "YES \u00b7 Will the highest temperature in Miami be between 98-99\u00b0F on July": 0.00199,
+    "NO \u00b7 Will the highest temperature in Denver be between 90-91\u00b0F on Jul": 0.04111,
+    "YES \u00b7 Will the highest temperature in Denver be between 94-95\u00b0F on Jul": 0.00497,
+    "YES \u00b7 Will the highest temperature in Denver be 96\u00b0F or higher on July": 0.00084,
+    "NO \u00b7 Will the highest temperature in Houston be between 94-95\u00b0F on Ju": 0.05057,
+    "NO \u00b7 Will the highest temperature in Houston be between 96-97\u00b0F on Ju": 0.05079,
+    "YES \u00b7 Will the highest temperature in Houston be between 100-101\u00b0F on ": 0.00353,
+    "YES \u00b7 Will the highest temperature in Houston be between 102-103\u00b0F on ": 0.00056,
+    "NO \u00b7 Will the highest temperature in Austin be between 96-97\u00b0F on Jul": 0.05002,
+    "NO \u00b7 Will the highest temperature in Austin be between 98-99\u00b0F on Jul": 0.04493,
+    "YES \u00b7 Will the highest temperature in Austin be between 100-101\u00b0F on J": 0.00262,
+    "YES \u00b7 Will the highest temperature in Austin be between 102-103\u00b0F on J": 0.00051
   },
   "history": [
     {
@@ -64,7 +85,7 @@
       "capture_needed_for_5pct_month": 0.04
     },
     "engine": {
-      "fills": 56,
+      "fills": 162,
       "settled": 0,
       "won": 0,
       "lost": 0,
@@ -78,18 +99,18 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 23.29,
-      "scorable_trades": 21403,
-      "fills": 1786,
+      "hours": 23.46,
+      "scorable_trades": 21542,
+      "fills": 1814,
       "fills_needed": 2000,
-      "markets": 833,
-      "bias": 1.542,
+      "markets": 842,
+      "bias": 1.533,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.3946,
+      "c_per_share": -2.3362,
       "verdict": "collecting - no verdict below 2,000 fills"
     },
     "scorecard": [
