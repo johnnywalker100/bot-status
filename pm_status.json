@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29 05:59:00.128511+00:00",
+  "generated": "2026-07-29 06:01:00.136696+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
@@ -7,13 +7,13 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.1702,
   "last_tick": {
-    "ts": "2026-07-29 05:59:00.128626+00:00",
+    "ts": "2026-07-29 06:01:00.136900+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
     "vol_scale": 0.17,
     "risk": "7 open, awaiting resolution",
     "provider": "polymarket + open-meteo",
-    "asof": "2026-07-29 05:59:00.128636+00:00"
+    "asof": "2026-07-29 06:01:00.136939+00:00"
   },
   "positions": {
     "NO \u00b7 Will the highest temperature in New York Cit": 0.00405,
@@ -78,11 +78,11 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 23.12,
-      "scorable_trades": 21266,
+      "hours": 23.21,
+      "scorable_trades": 21356,
       "fills": 1776,
       "fills_needed": 2000,
-      "markets": 829,
+      "markets": 832,
       "bias": 1.536,
       "breakeven": {
         "gross": 1.35,
