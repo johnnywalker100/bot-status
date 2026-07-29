@@ -1,0 +1,74 @@
+{
+  "generated": "2026-07-29 03:20:01.210516+00:00",
+  "note": "SIMULATED paper trading - no real funds",
+  "equity": 1.0,
+  "peak": 1.0,
+  "drawdown": 0.0,
+  "start": "2026-07-29 03:03:35.246850+00:00",
+  "gross_lev": 0.0,
+  "last_tick": {
+    "ts": "2026-07-29 03:20:01.210522+00:00",
+    "tick_return": 0.0,
+    "equity": 1.0,
+    "vol_scale": 0.0,
+    "risk": "flat - waiting for the overnight window",
+    "provider": "polymarket + open-meteo",
+    "asof": "2026-07-29 03:20:01.210524+00:00"
+  },
+  "positions": {},
+  "history": [
+    {
+      "ts": "2026-07-29 03:03:35.246850+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "desk opened",
+      "vol_scale": 0.0
+    }
+  ],
+  "weekly": [],
+  "config": {
+    "mode": "paper",
+    "min_ev": 0.1,
+    "fee_rate": 0.05,
+    "window_local": "00:00-05:00",
+    "max_market_frac": 0.05,
+    "max_night_frac": 0.5
+  },
+  "backtest_ref": {
+    "wx/pool": {
+      "geo_wk": 0.123,
+      "max_dd": -0.018
+    },
+    "longshot/wf": {
+      "geo_wk": 0.00145,
+      "max_dd": -0.047,
+      "mc_12m": {
+        "p_loss": 0.004
+      }
+    }
+  },
+  "research": {
+    "pool": {
+      "staked": 92596,
+      "profit": 35182,
+      "months": 3,
+      "positive_months": "3 of 3",
+      "worst_night": -180,
+      "capture_needed_for_5pct_month": 0.04
+    },
+    "engine": {
+      "fills": 0,
+      "settled": 0,
+      "won": 0,
+      "lost": 0,
+      "realised_pnl": 0,
+      "pace_per_month": null,
+      "goal_per_month": 0.05
+    },
+    "gate": {
+      "open": true,
+      "reason": "live capture measurement - paper takes standing asks only",
+      "n_markets": 0
+    }
+  }
+}
