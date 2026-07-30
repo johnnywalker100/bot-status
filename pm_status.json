@@ -1,19 +1,19 @@
 {
-  "generated": "2026-07-30 17:07:27.915762+00:00",
+  "generated": "2026-07-30 17:09:27.914459+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.893935,
   "peak": 1.028873,
   "drawdown": -0.131151,
   "start": "2026-07-29 03:03:35.246850+00:00",
-  "gross_lev": 0.3666,
+  "gross_lev": 0.389,
   "last_tick": {
-    "ts": "2026-07-30 17:07:27.915945+00:00",
+    "ts": "2026-07-30 17:09:27.914587+00:00",
     "tick_return": -0.000468,
     "equity": 0.893935,
-    "vol_scale": 0.367,
-    "risk": "15 wx + 9 crypto open, awaiting resolution",
+    "vol_scale": 0.389,
+    "risk": "15 wx + 10 crypto open, awaiting resolution",
     "provider": "polymarket + open-meteo + okx",
-    "asof": "2026-07-30 17:07:27.915979+00:00"
+    "asof": "2026-07-30 17:09:27.914615+00:00"
   },
   "positions": {
     "NO NYC 76-77\u00b0 \u00b7 0.59\u21920.45": -0.2353,
@@ -31,15 +31,16 @@
     "NO MIA 94-95\u00b0 \u00b7 0.51\u21920.25": -0.5099,
     "NO DEN 92-93\u00b0 \u00b7 0.41\u21920.25": -0.3949,
     "YES DAL 102-103\u00b0 \u00b7 0.16\u21920.04": -0.753,
-    "NO BTC touch\u2193$45,000 0.76\u21920.74": -0.0303,
-    "NO BTC touch\u2193$35,000 0.91\u21920.86": -0.056,
+    "NO BTC touch\u2193$45,000 0.76\u21920.75": -0.0172,
+    "NO BTC touch\u2193$35,000 0.91\u21920.87": -0.045,
     "NO BTC touch\u2193$50,000 0.66\u21920.65": -0.0225,
     "NO BTC touch\u2193$40,000 0.87\u21920.83": -0.0435,
     "NO SOL touch\u2193$40 0.76\u21920.73": -0.0409,
-    "NO BTC touch\u2191$75,000 0.51\u21920.46": -0.0982,
+    "NO BTC touch\u2191$75,000 0.51\u21920.44": -0.1374,
     "NO SOL touch\u2191$160 0.90\u21920.86": -0.0477,
     "NO BTC touch\u2191$90,000 0.84\u21920.82": -0.0237,
-    "NO SOL touch\u2193$70 0.84\u21920.95": 0.1311
+    "NO SOL touch\u2193$70 0.84\u21920.95": 0.1311,
+    "NO ETH touch\u2191$3,500 0.89\u21920.87": -0.0266
   },
   "positions_detail": [
     {
@@ -213,8 +214,8 @@
       "band": "touch\u2193$45,000",
       "collat": 400.0,
       "entry": 0.763,
-      "mark": 0.74,
-      "upnl": -0.0303,
+      "mark": 0.75,
+      "upnl": -0.0172,
       "verdict": null,
       "obs_max": null
     },
@@ -224,8 +225,8 @@
       "band": "touch\u2193$35,000",
       "collat": 400.0,
       "entry": 0.911,
-      "mark": 0.86,
-      "upnl": -0.056,
+      "mark": 0.87,
+      "upnl": -0.045,
       "verdict": null,
       "obs_max": null
     },
@@ -268,8 +269,8 @@
       "band": "touch\u2191$75,000",
       "collat": 192.5,
       "entry": 0.51,
-      "mark": 0.46,
-      "upnl": -0.0982,
+      "mark": 0.44,
+      "upnl": -0.1374,
       "verdict": null,
       "obs_max": null
     },
@@ -303,6 +304,17 @@
       "entry": 0.84,
       "mark": 0.95,
       "upnl": 0.1311,
+      "verdict": null,
+      "obs_max": null
+    },
+    {
+      "side": "NO",
+      "city": "ETH",
+      "band": "touch\u2191$3,500",
+      "collat": 400.0,
+      "entry": 0.894,
+      "mark": 0.87,
+      "upnl": -0.0266,
       "verdict": null,
       "obs_max": null
     }
@@ -556,9 +568,9 @@
   "research": {
     "quant": {
       "live": {
-        "fills": 23,
-        "open": 9,
-        "open_collat": 2614.28,
+        "fills": 25,
+        "open": 10,
+        "open_collat": 3014.28,
         "settled": 0,
         "won": 0,
         "realised_pnl": 0,
@@ -623,14 +635,14 @@
       "capture_needed_for_5pct_month": 0.04
     },
     "engine": {
-      "fills": 276,
+      "fills": 278,
       "settled": 27,
       "won": 7,
       "lost": 20,
       "realised_pnl": -2121.3,
-      "pace_per_month": -2.033,
+      "pace_per_month": -2.0312,
       "goal_per_month": 0.05,
-      "open_collat": 6555.06,
+      "open_collat": 6955.06,
       "books": {
         "wx": {
           "fills": 253,
@@ -639,16 +651,16 @@
           "pnl": -2121.3
         },
         "quant": {
-          "fills": 23,
-          "open": 9,
+          "fills": 25,
+          "open": 10,
           "settled": 0,
           "pnl": 0
         }
       },
-      "open_marked": 5554.89,
-      "open_marked_collat": 6555.06,
-      "marks_done": 24,
-      "open_count": 24,
+      "open_marked": 5946.33,
+      "open_marked_collat": 6955.06,
+      "marks_done": 25,
+      "open_count": 25,
       "decided_won": 0,
       "decided_lost": 0
     },
@@ -660,16 +672,16 @@
     "shadow": {
       "hours": 58.32,
       "scorable_trades": 69165,
-      "fills": 6389,
+      "fills": 6407,
       "fills_needed": 2000,
       "markets": 2392,
-      "bias": 1.769,
+      "bias": 1.757,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.393,
+      "c_per_share": -2.3648,
       "verdict": "not viable at this quote policy"
     },
     "scorecard": [
