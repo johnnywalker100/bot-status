@@ -1,19 +1,19 @@
 {
-  "generated": "2026-07-30 05:55:26.477467+00:00",
+  "generated": "2026-07-30 05:57:26.476144+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.950348,
   "peak": 1.057746,
   "drawdown": -0.101535,
   "start": "2026-07-29 03:03:35.246850+00:00",
-  "gross_lev": 0.4253,
+  "gross_lev": 0.5005,
   "last_tick": {
-    "ts": "2026-07-30 05:55:26.477966+00:00",
+    "ts": "2026-07-30 05:57:26.476279+00:00",
     "tick_return": -0.002085,
     "equity": 0.950348,
-    "vol_scale": 0.425,
-    "risk": "16 open, awaiting resolution",
+    "vol_scale": 0.5,
+    "risk": "18 open, awaiting resolution",
     "provider": "polymarket + open-meteo",
-    "asof": "2026-07-30 05:55:26.478016+00:00"
+    "asof": "2026-07-30 05:57:26.476304+00:00"
   },
   "positions": {
     "NO CHI 80-81\u00b0 \u00b7 0.56\u21920.00": -0.9982,
@@ -31,7 +31,9 @@
     "NO AUS 96-97\u00b0 \u2713 0.78\u21921.00": 0.2801,
     "NO AUS 98-99\u00b0 \u00b7 0.45\u21920.00": -0.9978,
     "YES AUS 100-101\u00b0 \u00b7 0.13\u21920.00": -0.9924,
-    "YES AUS 102-103\u00b0 \u00b7 0.08\u21920.00": -0.9875
+    "YES AUS 102-103\u00b0 \u00b7 0.08\u21920.00": -0.9875,
+    "NO NYC 76-77\u00b0 \u00b7 0.59\u21920.56": -0.0483,
+    "NO NYC 78-79\u00b0 \u00b7 0.63\u21920.61": -0.0345
   },
   "positions_detail": [
     {
@@ -176,6 +178,28 @@
       "upnl": -0.94,
       "verdict": null,
       "obs_max": 95
+    },
+    {
+      "side": "NO",
+      "city": "NYC",
+      "band": "76-77\u00b0",
+      "collat": 476.88,
+      "entry": 0.588,
+      "mark": 0.56,
+      "upnl": -0.0483,
+      "verdict": null,
+      "obs_max": 72
+    },
+    {
+      "side": "NO",
+      "city": "NYC",
+      "band": "78-79\u00b0",
+      "collat": 237.78,
+      "entry": 0.632,
+      "mark": 0.61,
+      "upnl": -0.0345,
+      "verdict": null,
+      "obs_max": 72
     },
     {
       "side": "NO",
@@ -335,18 +359,18 @@
       "capture_needed_for_5pct_month": 0.04
     },
     "engine": {
-      "fills": 162,
+      "fills": 166,
       "settled": 11,
       "won": 4,
       "lost": 7,
       "realised_pnl": -496.53,
-      "pace_per_month": -1.3485,
+      "pace_per_month": -1.3468,
       "goal_per_month": 0.05,
-      "open_collat": 4041.52,
-      "open_marked": 2420.89,
-      "open_marked_collat": 4041.52,
-      "marks_done": 16,
-      "open_count": 16,
+      "open_collat": 4756.17,
+      "open_marked": 3104.31,
+      "open_marked_collat": 4756.17,
+      "marks_done": 18,
+      "open_count": 18,
       "decided_won": 1,
       "decided_lost": 0
     },
@@ -356,11 +380,11 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 47.06,
-      "scorable_trades": 54453,
+      "hours": 47.15,
+      "scorable_trades": 54511,
       "fills": 5047,
       "fills_needed": 2000,
-      "markets": 1917,
+      "markets": 1918,
       "bias": 1.711,
       "breakeven": {
         "gross": 1.35,
