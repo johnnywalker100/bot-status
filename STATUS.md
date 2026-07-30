@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0315** (+3.15% since start) |
-| Peak / drawdown | 1.0407 / -0.88% |
-| Ticks recorded | 166 |
-| Last tick | 2026-07-30T08:08:35.748974+00:00 (+0.2809%) |
-| Risk rails | normal (dd -0.9%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-30 07:00:00+00:00) |
+| **Equity** | **1.0296** (+2.96% since start) |
+| Peak / drawdown | 1.0407 / -1.06% |
+| Ticks recorded | 167 |
+| Last tick | 2026-07-30T09:08:04.720103+00:00 (-0.1854%) |
+| Risk rails | normal (dd -1.0%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-07-30 08:00:00+00:00) |
 | Gross leverage | 2.00x |
 | Weeks tracked | 1 |
-| Average week | +3.30% |
+| Average week | +3.11% |
 | Weeks ≥ +3% | 100% |
-| Best / worst week | +3.30% / +3.30% |
+| Best / worst week | +3.11% / +3.11% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,30 +26,30 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| ALGO perp | +20.6% |
-| TRX perp | +17.7% |
-| DOT perp | +9.2% |
+| ALGO perp | +21.7% |
+| TRX perp | +17.4% |
+| XLM perp | +8.4% |
 | ADA perp | +8.1% |
-| XLM perp | +6.8% |
+| DOT perp | +7.9% |
 | ETH perp | +6.5% |
-| ETC perp | +3.7% |
-| SOL perp | +3.4% |
-| AAVE perp | +2.4% |
+| ETC perp | +4.8% |
+| AAVE perp | +2.9% |
+| SOL perp | +2.6% |
 | UNI perp | +1.6% |
 
 | Contract | Size |
 |---|---|
-| LTC perp | -21.2% |
-| SUSHI perp | -19.2% |
-| DOGE perp | -18.9% |
-| BNB perp | -15.8% |
-| THETA perp | -13.3% |
-| BTC perp | -9.6% |
-| BCH perp | -9.4% |
-| LINK perp | -6.8% |
+| LTC perp | -21.4% |
+| DOGE perp | -18.5% |
+| SUSHI perp | -16.3% |
+| BNB perp | -15.9% |
+| THETA perp | -14.5% |
+| BCH perp | -9.9% |
+| BTC perp | -9.5% |
+| LINK perp | -6.9% |
 | ATOM perp | -2.5% |
 | XRP perp | -1.7% |
-| FIL perp | -1.4% |
+| FIL perp | -0.9% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
