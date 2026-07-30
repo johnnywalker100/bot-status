@@ -1,37 +1,26 @@
 {
-  "generated": "2026-07-30 05:31:26.475192+00:00",
+  "generated": "2026-07-30 05:33:26.475162+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 1.0,
-  "peak": 1.0,
-  "drawdown": 0.0,
+  "equity": 0.950348,
+  "peak": 1.057746,
+  "drawdown": -0.101535,
   "start": "2026-07-29 03:03:35.246850+00:00",
-  "gross_lev": 0.7455,
+  "gross_lev": 0.4253,
   "last_tick": {
-    "ts": "2026-07-30 05:31:26.475673+00:00",
-    "tick_return": 0.0,
-    "equity": 1.0,
-    "vol_scale": 0.745,
-    "risk": "27 open, awaiting resolution",
+    "ts": "2026-07-30 05:33:26.475943+00:00",
+    "tick_return": -0.002085,
+    "equity": 0.950348,
+    "vol_scale": 0.425,
+    "risk": "16 open, awaiting resolution",
     "provider": "polymarket + open-meteo",
-    "asof": "2026-07-30 05:31:26.475709+00:00"
+    "asof": "2026-07-30 05:33:26.475985+00:00"
   },
   "positions": {
-    "NO NYC 78-79\u00b0 \u2713 0.78\u21921.00": 0.2835,
-    "YES NYC \u226584\u00b0 \u00b7 0.15\u21920.00": -0.9931,
-    "NO ATL 90-91\u00b0 \u00b7 0.67\u21921.00": 0.4969,
-    "NO ATL 92-93\u00b0 \u00b7 0.63\u21921.00": 0.5843,
-    "YES ATL \u226596\u00b0 \u00b7 0.11\u21920.00": -0.9907,
-    "YES MIA 90-91\u00b0 \u2717 0.06\u21920.06": 0.0313,
-    "NO MIA 94-95\u00b0 \u00b7 0.51\u21920.00": -0.998,
-    "NO NYC 80-81\u00b0 \u00b7 0.65\u21920.00": -0.9985,
     "NO CHI 80-81\u00b0 \u00b7 0.56\u21920.00": -0.9982,
     "YES CHI 84-85\u00b0 \u00b7 0.05\u21920.00": -0.9798,
     "NO DAL 98-99\u00b0 \u00b7 0.71\u21920.00": -0.9986,
     "NO DAL 100-101\u00b0 \u00b7 0.59\u21921.00": 0.6977,
     "YES DAL 104-105\u00b0 \u00b7 0.07\u21920.00": -0.9851,
-    "NO MIA 92-93\u00b0 \u2713 0.71\u21921.00": 0.4101,
-    "YES MIA 96-97\u00b0 \u00b7 0.13\u21920.00": -0.9921,
-    "YES MIA 98-99\u00b0 \u00b7 0.03\u21920.00": -0.9621,
     "NO DEN 90-91\u00b0 \u00b7 0.62\u21920.00": -0.9984,
     "YES DEN 94-95\u00b0 \u00b7 0.12\u21920.00": -0.9919,
     "YES DEN \u226596\u00b0 \u00b7 0.04\u21920.00": -0.9544,
@@ -55,17 +44,6 @@
       "upnl": -0.9986,
       "verdict": null,
       "obs_max": 98
-    },
-    {
-      "side": "NO",
-      "city": "NYC",
-      "band": "80-81\u00b0",
-      "collat": 508.03,
-      "entry": 0.65,
-      "mark": 0.001,
-      "upnl": -0.9985,
-      "verdict": null,
-      "obs_max": 81
     },
     {
       "side": "NO",
@@ -102,17 +80,6 @@
     },
     {
       "side": "NO",
-      "city": "MIA",
-      "band": "94-95\u00b0",
-      "collat": 502.06,
-      "entry": 0.505,
-      "mark": 0.001,
-      "upnl": -0.998,
-      "verdict": null,
-      "obs_max": 94
-    },
-    {
-      "side": "NO",
       "city": "AUS",
       "band": "98-99\u00b0",
       "collat": 449.32,
@@ -121,17 +88,6 @@
       "upnl": -0.9978,
       "verdict": null,
       "obs_max": 98
-    },
-    {
-      "side": "YES",
-      "city": "NYC",
-      "band": "\u226584\u00b0",
-      "collat": 115.5,
-      "entry": 0.145,
-      "mark": 0.001,
-      "upnl": -0.9931,
-      "verdict": null,
-      "obs_max": 81
     },
     {
       "side": "YES",
@@ -146,17 +102,6 @@
     },
     {
       "side": "YES",
-      "city": "MIA",
-      "band": "96-97\u00b0",
-      "collat": 68.79,
-      "entry": 0.127,
-      "mark": 0.001,
-      "upnl": -0.9921,
-      "verdict": null,
-      "obs_max": 94
-    },
-    {
-      "side": "YES",
       "city": "DEN",
       "band": "94-95\u00b0",
       "collat": 49.66,
@@ -165,17 +110,6 @@
       "upnl": -0.9919,
       "verdict": null,
       "obs_max": 90
-    },
-    {
-      "side": "YES",
-      "city": "ATL",
-      "band": "\u226596\u00b0",
-      "collat": 178.52,
-      "entry": 0.108,
-      "mark": 0.001,
-      "upnl": -0.9907,
-      "verdict": null,
-      "obs_max": 88
     },
     {
       "side": "YES",
@@ -223,17 +157,6 @@
     },
     {
       "side": "YES",
-      "city": "MIA",
-      "band": "98-99\u00b0",
-      "collat": 19.86,
-      "entry": 0.026,
-      "mark": 0.001,
-      "upnl": -0.9621,
-      "verdict": null,
-      "obs_max": 94
-    },
-    {
-      "side": "YES",
       "city": "DEN",
       "band": "\u226596\u00b0",
       "collat": 8.38,
@@ -255,17 +178,6 @@
       "obs_max": 95
     },
     {
-      "side": "YES",
-      "city": "MIA",
-      "band": "90-91\u00b0",
-      "collat": 2.62,
-      "entry": 0.058,
-      "mark": 0.06,
-      "upnl": 0.0313,
-      "verdict": "lost",
-      "obs_max": 94
-    },
-    {
       "side": "NO",
       "city": "AUS",
       "band": "96-97\u00b0",
@@ -275,50 +187,6 @@
       "upnl": 0.2801,
       "verdict": "won",
       "obs_max": 98
-    },
-    {
-      "side": "NO",
-      "city": "NYC",
-      "band": "78-79\u00b0",
-      "collat": 504.63,
-      "entry": 0.778,
-      "mark": 0.999,
-      "upnl": 0.2835,
-      "verdict": "won",
-      "obs_max": 81
-    },
-    {
-      "side": "NO",
-      "city": "MIA",
-      "band": "92-93\u00b0",
-      "collat": 500.33,
-      "entry": 0.708,
-      "mark": 0.999,
-      "upnl": 0.4101,
-      "verdict": "won",
-      "obs_max": 94
-    },
-    {
-      "side": "NO",
-      "city": "ATL",
-      "band": "90-91\u00b0",
-      "collat": 504.55,
-      "entry": 0.667,
-      "mark": 0.999,
-      "upnl": 0.4969,
-      "verdict": null,
-      "obs_max": 88
-    },
-    {
-      "side": "NO",
-      "city": "ATL",
-      "band": "92-93\u00b0",
-      "collat": 508.35,
-      "entry": 0.631,
-      "mark": 0.999,
-      "upnl": 0.5843,
-      "verdict": null,
-      "obs_max": 88
     },
     {
       "side": "NO",
@@ -343,7 +211,12 @@
       "obs_max": 95
     }
   ],
-  "daily": [],
+  "daily": [
+    {
+      "d": "2026-07-30",
+      "pnl": -496.53
+    }
+  ],
   "history": [
     {
       "ts": "2026-07-29 03:03:35.246850+00:00",
@@ -351,6 +224,83 @@
       "equity": 1.0,
       "risk": "desk opened",
       "vol_scale": 0.0
+    },
+    {
+      "ts": "2026-07-30 05:30:56.684786+00:00",
+      "ret": 0.01437,
+      "equity": 1.01437,
+      "risk": "won",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 05:30:59.140839+00:00",
+      "ret": -0.011386,
+      "equity": 1.00282,
+      "risk": "LOST full collateral",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 05:31:01.665635+00:00",
+      "ret": 0.025074,
+      "equity": 1.027965,
+      "risk": "won",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 05:31:04.163323+00:00",
+      "ret": 0.028971,
+      "equity": 1.057746,
+      "risk": "won",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 05:31:06.638263+00:00",
+      "ret": -0.016877,
+      "equity": 1.039894,
+      "risk": "LOST full collateral",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 05:31:09.153861+00:00",
+      "ret": -0.000252,
+      "equity": 1.039632,
+      "risk": "LOST full collateral",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 05:31:11.656573+00:00",
+      "ret": -0.048292,
+      "equity": 0.989426,
+      "risk": "LOST full collateral",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 05:31:14.142961+00:00",
+      "ret": -0.051346,
+      "equity": 0.938623,
+      "risk": "LOST full collateral",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 05:31:29.156756+00:00",
+      "ret": 0.021935,
+      "equity": 0.959212,
+      "risk": "won",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 05:31:31.659594+00:00",
+      "ret": -0.007172,
+      "equity": 0.952333,
+      "risk": "LOST full collateral",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 05:31:34.145171+00:00",
+      "ret": -0.002085,
+      "equity": 0.950347,
+      "risk": "LOST full collateral",
+      "vol_scale": null
     }
   ],
   "weekly": [],
@@ -386,19 +336,19 @@
     },
     "engine": {
       "fills": 162,
-      "settled": 0,
-      "won": 0,
-      "lost": 0,
-      "realised_pnl": 0,
-      "pace_per_month": 0.0,
+      "settled": 11,
+      "won": 4,
+      "lost": 7,
+      "realised_pnl": -496.53,
+      "pace_per_month": -1.3672,
       "goal_per_month": 0.05,
-      "open_collat": 7454.75,
-      "open_marked": 5342.91,
-      "open_marked_collat": 7454.75,
-      "marks_done": 27,
-      "open_count": 27,
-      "decided_won": 3,
-      "decided_lost": 1
+      "open_collat": 4041.52,
+      "open_marked": 2420.89,
+      "open_marked_collat": 4041.52,
+      "marks_done": 16,
+      "open_count": 16,
+      "decided_won": 1,
+      "decided_lost": 0
     },
     "gate": {
       "open": false,
