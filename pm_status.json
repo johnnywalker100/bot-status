@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30 22:40:03.884263+00:00",
+  "generated": "2026-07-30 22:42:03.884859+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
@@ -7,13 +7,13 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.3014,
   "last_tick": {
-    "ts": "2026-07-30 22:40:03.885005+00:00",
+    "ts": "2026-07-30 22:42:03.885736+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
     "vol_scale": 0.301,
     "risk": "10 open, hold to resolution \u00b7 dd -0.0% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-07-30 22:40:03.885064+00:00"
+    "asof": "2026-07-30 22:42:03.885894+00:00"
   },
   "positions": {
     "NO BTC touch\u2193$45,000 0.76\u21920.75": -0.0172,
@@ -24,7 +24,7 @@
     "NO BTC touch\u2191$75,000 0.51\u21920.43": -0.157,
     "NO SOL touch\u2191$160 0.90\u21920.87": -0.0367,
     "NO BTC touch\u2191$90,000 0.84\u21920.82": -0.0237,
-    "NO SOL touch\u2193$70 0.84\u21920.96": 0.143,
+    "NO SOL touch\u2193$70 0.84\u21920.94": 0.1216,
     "NO ETH touch\u2191$3,500 0.89\u21920.87": -0.0266
   },
   "positions_detail": [
@@ -122,8 +122,8 @@
       "band": "touch\u2193$70",
       "collat": 14.28,
       "entry": 0.84,
-      "mark": 0.96,
-      "upnl": 0.143,
+      "mark": 0.942,
+      "upnl": 0.1216,
       "verdict": null,
       "obs_max": null
     },
@@ -269,7 +269,7 @@
       "pace_per_month": -0.0,
       "goal_per_month": 0.034,
       "open_collat": 3014.28,
-      "open_marked": 2898.21,
+      "open_marked": 2897.91,
       "open_marked_collat": 3014.28,
       "marks_done": 10,
       "open_count": 10,
@@ -291,11 +291,11 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 63.82,
-      "scorable_trades": 78971,
+      "hours": 63.91,
+      "scorable_trades": 79114,
       "fills": 7322,
       "fills_needed": 2000,
-      "markets": 2739,
+      "markets": 2741,
       "bias": 1.69,
       "breakeven": {
         "gross": 1.35,
