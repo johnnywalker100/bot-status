@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30 15:49:36.491464+00:00",
+  "generated": "2026-07-30 15:49:41.847100+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.995565,
   "peak": 1.025652,
@@ -7,13 +7,13 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.3802,
   "last_tick": {
-    "ts": "2026-07-30 15:49:36.491494+00:00",
+    "ts": "2026-07-30 15:49:41.847461+00:00",
     "tick_return": -0.020687,
     "equity": 0.995565,
     "vol_scale": 0.38,
     "risk": "18 wx + 9 crypto open, awaiting resolution",
     "provider": "polymarket + open-meteo + okx",
-    "asof": "2026-07-30 15:49:36.491500+00:00"
+    "asof": "2026-07-30 15:49:41.847500+00:00"
   },
   "positions": {
     "NO NYC 76-77\u00b0 \u00b7 0.59\u21920.53": -0.0979,
@@ -419,13 +419,9 @@
     "quant": {
       "thr": 0.1,
       "fee_rate": 0.07,
-      "max_pos_frac": 0.04,
-      "max_cluster_frac": 0.18,
-      "max_sym_payout_frac": 1.8,
-      "reentry_days": 7,
-      "hedge": "cond mom20>10%, OKX perps",
-      "brake_dd": -0.12,
-      "halt_dd": -0.22
+      "max_pos_frac": 0.02,
+      "max_cluster_frac": 0.1,
+      "max_sym_payout_frac": 1.0
     }
   },
   "backtest_ref": {
@@ -450,66 +446,6 @@
     }
   },
   "research": {
-    "quant": {
-      "live": {
-        "fills": 23,
-        "open": 9,
-        "open_collat": 2614.28,
-        "settled": 0,
-        "won": 0,
-        "realised_pnl": 0,
-        "dd_now": -0.0,
-        "hedges": {}
-      },
-      "backtest": {
-        "is": {
-          "n": 259,
-          "roi_per_trade": 0.1055,
-          "roi_lo5": 0.0043,
-          "cagr": 0.2848,
-          "max_dd": -0.2958,
-          "cagr_mo_boot_lo5": -0.0012,
-          "cagr_mo_boot_hi95": 0.6731,
-          "worst_month": -0.145,
-          "losing_months": 9,
-          "months": 29,
-          "hedge_pnl": 1612.9,
-          "peak_hedge": 7937.0
-        },
-        "oos": {
-          "n": 71,
-          "roi_per_trade": 0.2657,
-          "roi_lo5": 0.0557,
-          "cagr": 0.6531,
-          "max_dd": -0.1613,
-          "cagr_mo_boot_lo5": -0.1564,
-          "cagr_mo_boot_hi95": 1.1497,
-          "worst_month": -0.1482,
-          "losing_months": 2,
-          "months": 10,
-          "hedge_pnl": -137.4,
-          "peak_hedge": 2123.0
-        },
-        "full": {
-          "n": 325,
-          "roi_per_trade": 0.123,
-          "roi_lo5": 0.0255,
-          "cagr": 0.3051,
-          "max_dd": -0.2958,
-          "cagr_mo_boot_lo5": 0.0319,
-          "cagr_mo_boot_hi95": 0.6351,
-          "worst_month": -0.145,
-          "losing_months": 9,
-          "months": 36,
-          "hedge_pnl": 1663.2,
-          "peak_hedge": 7840.0
-        },
-        "trailing_12m": {
-          "ret": 0.3914,
-          "max_dd": -0.1939
-        }
-      }
-    },
     "pool": {
       "staked": 92596,
       "profit": 35182,
