@@ -1,36 +1,39 @@
 {
-  "generated": "2026-07-30 15:55:27.904567+00:00",
+  "generated": "2026-07-30 15:57:41.868938+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.893935,
-  "peak": 1.028873,
-  "drawdown": -0.131151,
+  "equity": 0.995565,
+  "peak": 1.025652,
+  "drawdown": -0.029335,
   "start": "2026-07-29 03:03:35.246850+00:00",
-  "gross_lev": 0.3666,
+  "gross_lev": 0.3802,
   "last_tick": {
-    "ts": "2026-07-30 15:55:27.906342+00:00",
-    "tick_return": -0.000468,
-    "equity": 0.893935,
-    "vol_scale": 0.367,
-    "risk": "15 wx + 9 crypto open, awaiting resolution",
+    "ts": "2026-07-30 15:57:41.869036+00:00",
+    "tick_return": -0.020687,
+    "equity": 0.995565,
+    "vol_scale": 0.38,
+    "risk": "18 wx + 9 crypto open, awaiting resolution",
     "provider": "polymarket + open-meteo + okx",
-    "asof": "2026-07-30 15:55:27.906377+00:00"
+    "asof": "2026-07-30 15:57:41.869055+00:00"
   },
   "positions": {
-    "NO NYC 76-77\u00b0 \u00b7 0.59\u21920.53": -0.0993,
-    "NO NYC 78-79\u00b0 \u00b7 0.63\u21920.76": 0.203,
-    "YES NYC 82-83\u00b0 \u00b7 0.04\u21920.00": -0.9773,
-    "NO CHI 84-85\u00b0 \u00b7 0.78\u21920.81": 0.0369,
-    "NO CHI 86-87\u00b0 \u00b7 0.52\u21920.35": -0.3226,
-    "YES CHI 90-91\u00b0 \u00b7 0.09\u21920.05": -0.4511,
-    "YES CHI 92-93\u00b0 \u00b7 0.05\u21920.00": -0.9612,
-    "NO ATL 90-91\u00b0 \u00b7 0.57\u21920.40": -0.2941,
-    "YES ATL 94-95\u00b0 \u00b7 0.06\u21920.02": -0.6883,
-    "NO DAL 98-99\u00b0 \u00b7 0.75\u21920.56": -0.2549,
-    "NO DAL 100-101\u00b0 \u00b7 0.51\u21920.44": -0.1453,
-    "YES DAL 104-105\u00b0 \u00b7 0.06\u21920.01": -0.8305,
-    "NO MIA 94-95\u00b0 \u00b7 0.51\u21920.36": -0.2942,
-    "NO DEN 92-93\u00b0 \u00b7 0.41\u21920.25": -0.3949,
-    "YES DAL 102-103\u00b0 \u00b7 0.16\u21920.04": -0.753,
+    "NO NYC 76-77\u00b0 \u00b7 0.59\u21920.53": -0.0979,
+    "NO NYC 78-79\u00b0 \u00b7 0.60\u21920.79": 0.3229,
+    "NO CHI 84-85\u00b0 \u00b7 0.80\u21920.72": -0.0975,
+    "NO CHI 86-87\u00b0 \u00b7 0.54\u21920.39": -0.2722,
+    "YES CHI 90-91\u00b0 \u00b7 0.09\u21920.04": -0.5403,
+    "YES CHI 92-93\u00b0 \u00b7 0.05\u21920.00": -0.961,
+    "NO ATL 90-91\u00b0 \u00b7 0.57\u21920.37": -0.347,
+    "YES ATL 94-95\u00b0 \u00b7 0.06\u21920.02": -0.6745,
+    "NO DAL 98-99\u00b0 \u00b7 0.74\u21920.56": -0.2472,
+    "NO DAL 100-101\u00b0 \u00b7 0.51\u21920.43": -0.1649,
+    "YES DAL 102-103\u00b0 \u00b7 0.17\u21920.04": -0.7601,
+    "YES DAL 104-105\u00b0 \u00b7 0.06\u21920.01": -0.8384,
+    "NO MIA 94-95\u00b0 \u00b7 0.49\u21920.43": -0.1264,
+    "YES LA 74-75\u00b0 \u00b7 0.06\u21920.03": -0.5126,
+    "NO LA 78-79\u00b0 \u00b7 0.46\u21920.34": -0.2619,
+    "NO DEN 92-93\u00b0 \u00b7 0.50\u21920.25": -0.4971,
+    "YES DEN 96-97\u00b0 \u00b7 0.02\u21920.00": -0.9552,
+    "NO SEA 76-77\u00b0 \u00b7 0.58\u21920.44": -0.2443,
     "NO BTC touch\u2193$45,000 0.76\u21920.74": -0.0303,
     "NO BTC touch\u2193$35,000 0.91\u21920.89": -0.0231,
     "NO BTC touch\u2193$50,000 0.66\u21920.65": -0.0225,
@@ -44,34 +47,34 @@
   "positions_detail": [
     {
       "side": "YES",
-      "city": "NYC",
-      "band": "82-83\u00b0",
-      "collat": 5.98,
-      "entry": 0.044,
-      "mark": 0.001,
-      "upnl": -0.9773,
+      "city": "CHI",
+      "band": "92-93\u00b0",
+      "collat": 4.76,
+      "entry": 0.051,
+      "mark": 0.002,
+      "upnl": -0.961,
       "verdict": null,
-      "obs_max": 73
+      "obs_max": 79
     },
     {
       "side": "YES",
-      "city": "CHI",
-      "band": "92-93\u00b0",
-      "collat": 10.2,
-      "entry": 0.052,
-      "mark": 0.002,
-      "upnl": -0.9612,
+      "city": "DEN",
+      "band": "96-97\u00b0",
+      "collat": 2.39,
+      "entry": 0.022,
+      "mark": 0.001,
+      "upnl": -0.9552,
       "verdict": null,
-      "obs_max": 76
+      "obs_max": 82
     },
     {
       "side": "YES",
       "city": "DAL",
       "band": "104-105\u00b0",
-      "collat": 28.12,
-      "entry": 0.059,
+      "collat": 30.73,
+      "entry": 0.062,
       "mark": 0.01,
-      "upnl": -0.8305,
+      "upnl": -0.8384,
       "verdict": null,
       "obs_max": 88
     },
@@ -79,10 +82,10 @@
       "side": "YES",
       "city": "DAL",
       "band": "102-103\u00b0",
-      "collat": 91.24,
-      "entry": 0.162,
+      "collat": 36.18,
+      "entry": 0.167,
       "mark": 0.04,
-      "upnl": -0.753,
+      "upnl": -0.7601,
       "verdict": null,
       "obs_max": 88
     },
@@ -90,98 +93,131 @@
       "side": "YES",
       "city": "ATL",
       "band": "94-95\u00b0",
-      "collat": 14.56,
-      "entry": 0.064,
+      "collat": 10.5,
+      "entry": 0.061,
       "mark": 0.02,
-      "upnl": -0.6883,
+      "upnl": -0.6745,
       "verdict": null,
-      "obs_max": 80
+      "obs_max": 82
     },
     {
       "side": "YES",
       "city": "CHI",
       "band": "90-91\u00b0",
-      "collat": 135.86,
-      "entry": 0.091,
-      "mark": 0.05,
-      "upnl": -0.4511,
+      "collat": 158.38,
+      "entry": 0.087,
+      "mark": 0.04,
+      "upnl": -0.5403,
       "verdict": null,
-      "obs_max": 76
+      "obs_max": 79
+    },
+    {
+      "side": "YES",
+      "city": "LA",
+      "band": "74-75\u00b0",
+      "collat": 4.06,
+      "entry": 0.062,
+      "mark": 0.03,
+      "upnl": -0.5126,
+      "verdict": null,
+      "obs_max": 72
     },
     {
       "side": "NO",
       "city": "DEN",
       "band": "92-93\u00b0",
-      "collat": 156.75,
-      "entry": 0.413,
+      "collat": 150.2,
+      "entry": 0.497,
       "mark": 0.25,
-      "upnl": -0.3949,
+      "upnl": -0.4971,
       "verdict": null,
-      "obs_max": 75
-    },
-    {
-      "side": "NO",
-      "city": "CHI",
-      "band": "86-87\u00b0",
-      "collat": 415.68,
-      "entry": 0.517,
-      "mark": 0.35,
-      "upnl": -0.3226,
-      "verdict": null,
-      "obs_max": 76
-    },
-    {
-      "side": "NO",
-      "city": "MIA",
-      "band": "94-95\u00b0",
-      "collat": 380.02,
-      "entry": 0.51,
-      "mark": 0.36,
-      "upnl": -0.2942,
-      "verdict": null,
-      "obs_max": 88
+      "obs_max": 82
     },
     {
       "side": "NO",
       "city": "ATL",
       "band": "90-91\u00b0",
-      "collat": 446.95,
+      "collat": 495.78,
       "entry": 0.567,
-      "mark": 0.4,
-      "upnl": -0.2941,
+      "mark": 0.37,
+      "upnl": -0.347,
       "verdict": null,
-      "obs_max": 80
+      "obs_max": 82
+    },
+    {
+      "side": "NO",
+      "city": "CHI",
+      "band": "86-87\u00b0",
+      "collat": 504.57,
+      "entry": 0.536,
+      "mark": 0.39,
+      "upnl": -0.2722,
+      "verdict": null,
+      "obs_max": 79
+    },
+    {
+      "side": "NO",
+      "city": "LA",
+      "band": "78-79\u00b0",
+      "collat": 497.14,
+      "entry": 0.461,
+      "mark": 0.34,
+      "upnl": -0.2619,
+      "verdict": null,
+      "obs_max": 72
     },
     {
       "side": "NO",
       "city": "DAL",
       "band": "98-99\u00b0",
-      "collat": 442.96,
-      "entry": 0.752,
+      "collat": 502.66,
+      "entry": 0.744,
       "mark": 0.56,
-      "upnl": -0.2549,
+      "upnl": -0.2472,
       "verdict": null,
       "obs_max": 88
+    },
+    {
+      "side": "NO",
+      "city": "SEA",
+      "band": "76-77\u00b0",
+      "collat": 41.23,
+      "entry": 0.582,
+      "mark": 0.44,
+      "upnl": -0.2443,
+      "verdict": null,
+      "obs_max": 58
     },
     {
       "side": "NO",
       "city": "DAL",
       "band": "100-101\u00b0",
-      "collat": 442.51,
+      "collat": 502.93,
       "entry": 0.515,
-      "mark": 0.44,
-      "upnl": -0.1453,
+      "mark": 0.43,
+      "upnl": -0.1649,
       "verdict": null,
       "obs_max": 88
     },
     {
       "side": "NO",
+      "city": "MIA",
+      "band": "94-95\u00b0",
+      "collat": 498.89,
+      "entry": 0.492,
+      "mark": 0.43,
+      "upnl": -0.1264,
+      "verdict": null,
+      "obs_max": 90
+    },
+    {
+      "side": "NO",
       "city": "NYC",
       "band": "76-77\u00b0",
-      "collat": 476.88,
+      "collat": 505.55,
       "entry": 0.588,
       "mark": 0.53,
-      "upnl": -0.0993,
+      "upnl": -0.0979,
       "verdict": null,
       "obs_max": 73
     },
@@ -189,21 +225,21 @@
       "side": "NO",
       "city": "CHI",
       "band": "84-85\u00b0",
-      "collat": 444.14,
-      "entry": 0.781,
-      "mark": 0.81,
-      "upnl": 0.0369,
+      "collat": 505.08,
+      "entry": 0.798,
+      "mark": 0.72,
+      "upnl": -0.0975,
       "verdict": null,
-      "obs_max": 76
+      "obs_max": 79
     },
     {
       "side": "NO",
       "city": "NYC",
       "band": "78-79\u00b0",
-      "collat": 448.93,
-      "entry": 0.632,
-      "mark": 0.76,
-      "upnl": 0.203,
+      "collat": 505.48,
+      "entry": 0.597,
+      "mark": 0.79,
+      "upnl": 0.3229,
       "verdict": null,
       "obs_max": 73
     },
@@ -310,7 +346,7 @@
   "daily": [
     {
       "d": "2026-07-30",
-      "pnl": -2121.3
+      "pnl": -88.71
     }
   ],
   "history": [
@@ -322,191 +358,51 @@
       "vol_scale": 0.0
     },
     {
-      "ts": "2026-07-30 05:30:56.684786+00:00",
-      "ret": 0.007185,
-      "equity": 1.007185,
+      "ts": "2026-07-30 07:30:36.725060+00:00",
+      "ret": 0.000518,
+      "equity": 1.000518,
       "risk": "won (wx)",
       "vol_scale": null
     },
     {
-      "ts": "2026-07-30 05:30:59.140839+00:00",
-      "ret": -0.005734,
-      "equity": 1.00141,
+      "ts": "2026-07-30 07:30:39.349057+00:00",
+      "ret": -0.002328,
+      "equity": 0.998189,
       "risk": "LOST full collateral (wx)",
       "vol_scale": null
     },
     {
-      "ts": "2026-07-30 05:31:01.665635+00:00",
-      "ret": 0.012555,
-      "equity": 1.013983,
+      "ts": "2026-07-30 07:30:41.912818+00:00",
+      "ret": 0.012595,
+      "equity": 1.010761,
       "risk": "won (wx)",
       "vol_scale": null
     },
     {
-      "ts": "2026-07-30 05:31:04.163323+00:00",
-      "ret": 0.014685,
-      "equity": 1.028873,
+      "ts": "2026-07-30 07:30:44.333510+00:00",
+      "ret": 0.014732,
+      "equity": 1.025652,
       "risk": "won (wx)",
       "vol_scale": null
     },
     {
-      "ts": "2026-07-30 05:31:06.638263+00:00",
-      "ret": -0.008676,
-      "equity": 1.019947,
+      "ts": "2026-07-30 07:30:46.868816+00:00",
+      "ret": -0.008703,
+      "equity": 1.016726,
       "risk": "LOST full collateral (wx)",
       "vol_scale": null
     },
     {
-      "ts": "2026-07-30 05:31:09.153861+00:00",
-      "ret": -0.000128,
-      "equity": 1.019816,
+      "ts": "2026-07-30 07:30:49.327273+00:00",
+      "ret": -0.000129,
+      "equity": 1.016595,
       "risk": "LOST full collateral (wx)",
       "vol_scale": null
     },
     {
-      "ts": "2026-07-30 05:31:11.656573+00:00",
-      "ret": -0.024615,
-      "equity": 0.994713,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:14.142961+00:00",
-      "ret": -0.025537,
-      "equity": 0.969312,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:29.156756+00:00",
-      "ret": 0.01062,
-      "equity": 0.979606,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:31.659594+00:00",
-      "ret": -0.003511,
-      "equity": 0.976167,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:34.145171+00:00",
-      "ret": -0.001017,
-      "equity": 0.975174,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:19:14.992679+00:00",
-      "ret": -0.001489,
-      "equity": 0.973722,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:19:45.014748+00:00",
-      "ret": -0.023072,
-      "equity": 0.951256,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:19:47.504794+00:00",
-      "ret": -0.001375,
-      "equity": 0.949948,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:19:50.011061+00:00",
-      "ret": -0.000267,
-      "equity": 0.949694,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:15.496131+00:00",
-      "ret": -0.026568,
-      "equity": 0.924462,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:17.512236+00:00",
-      "ret": 0.018947,
-      "equity": 0.941978,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:20.231926+00:00",
-      "ret": -0.000684,
-      "equity": 0.941334,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:30.018849+00:00",
-      "ret": -0.026859,
-      "equity": 0.91605,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:32.526016+00:00",
-      "ret": 0.022745,
-      "equity": 0.936886,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:35.035602+00:00",
-      "ret": -0.001885,
-      "equity": 0.93512,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:37.523866+00:00",
-      "ret": -0.000298,
-      "equity": 0.934841,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:40.024990+00:00",
-      "ret": 0.007529,
-      "equity": 0.94188,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 07:29:38.651460+00:00",
-      "ret": -0.025999,
-      "equity": 0.917392,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 07:57:04.136721+00:00",
-      "ret": -0.022405,
-      "equity": 0.896837,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 07:57:06.572644+00:00",
-      "ret": -0.002769,
-      "equity": 0.894354,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 07:57:09.062663+00:00",
-      "ret": -0.000468,
-      "equity": 0.893935,
+      "ts": "2026-07-30 07:30:51.755306+00:00",
+      "ret": -0.020687,
+      "equity": 0.995565,
       "risk": "LOST full collateral (wx)",
       "vol_scale": null
     }
@@ -523,13 +419,9 @@
     "quant": {
       "thr": 0.1,
       "fee_rate": 0.07,
-      "max_pos_frac": 0.04,
-      "max_cluster_frac": 0.18,
-      "max_sym_payout_frac": 1.8,
-      "reentry_days": 7,
-      "hedge": "cond mom20>10%, OKX perps",
-      "brake_dd": -0.12,
-      "halt_dd": -0.22
+      "max_pos_frac": 0.02,
+      "max_cluster_frac": 0.1,
+      "max_sym_payout_frac": 1.0
     }
   },
   "backtest_ref": {
@@ -554,66 +446,6 @@
     }
   },
   "research": {
-    "quant": {
-      "live": {
-        "fills": 23,
-        "open": 9,
-        "open_collat": 2614.28,
-        "settled": 0,
-        "won": 0,
-        "realised_pnl": 0,
-        "dd_now": -0.0,
-        "hedges": {}
-      },
-      "backtest": {
-        "is": {
-          "n": 259,
-          "roi_per_trade": 0.1055,
-          "roi_lo5": 0.0043,
-          "cagr": 0.2848,
-          "max_dd": -0.2958,
-          "cagr_mo_boot_lo5": -0.0012,
-          "cagr_mo_boot_hi95": 0.6731,
-          "worst_month": -0.145,
-          "losing_months": 9,
-          "months": 29,
-          "hedge_pnl": 1612.9,
-          "peak_hedge": 7937.0
-        },
-        "oos": {
-          "n": 71,
-          "roi_per_trade": 0.2657,
-          "roi_lo5": 0.0557,
-          "cagr": 0.6531,
-          "max_dd": -0.1613,
-          "cagr_mo_boot_lo5": -0.1564,
-          "cagr_mo_boot_hi95": 1.1497,
-          "worst_month": -0.1482,
-          "losing_months": 2,
-          "months": 10,
-          "hedge_pnl": -137.4,
-          "peak_hedge": 2123.0
-        },
-        "full": {
-          "n": 325,
-          "roi_per_trade": 0.123,
-          "roi_lo5": 0.0255,
-          "cagr": 0.3051,
-          "max_dd": -0.2958,
-          "cagr_mo_boot_lo5": 0.0319,
-          "cagr_mo_boot_hi95": 0.6351,
-          "worst_month": -0.145,
-          "losing_months": 9,
-          "months": 36,
-          "hedge_pnl": 1663.2,
-          "peak_hedge": 7840.0
-        },
-        "trailing_12m": {
-          "ret": 0.3914,
-          "max_dd": -0.1939
-        }
-      }
-    },
     "pool": {
       "staked": 92596,
       "profit": 35182,
@@ -623,20 +455,20 @@
       "capture_needed_for_5pct_month": 0.04
     },
     "engine": {
-      "fills": 276,
-      "settled": 27,
-      "won": 7,
-      "lost": 20,
-      "realised_pnl": -2121.3,
-      "pace_per_month": -2.0992,
+      "fills": 159,
+      "settled": 7,
+      "won": 3,
+      "lost": 4,
+      "realised_pnl": -88.71,
+      "pace_per_month": -0.0877,
       "goal_per_month": 0.05,
-      "open_collat": 6555.06,
+      "open_collat": 7570.8,
       "books": {
         "wx": {
-          "fills": 253,
-          "open": 15,
-          "settled": 27,
-          "pnl": -2121.3
+          "fills": 136,
+          "open": 18,
+          "settled": 7,
+          "pnl": -88.71
         },
         "quant": {
           "fills": 23,
@@ -645,10 +477,10 @@
           "pnl": 0
         }
       },
-      "open_marked": 5721.66,
-      "open_marked_collat": 6555.06,
-      "marks_done": 24,
-      "open_count": 24,
+      "open_marked": 6587.74,
+      "open_marked_collat": 7570.8,
+      "marks_done": 27,
+      "open_count": 27,
       "decided_won": 0,
       "decided_lost": 0
     },
@@ -658,18 +490,18 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 57.07,
-      "scorable_trades": 67279,
-      "fills": 6290,
+      "hours": 57.15,
+      "scorable_trades": 33170,
+      "fills": 2995,
       "fills_needed": 2000,
-      "markets": 2306,
-      "bias": 1.778,
+      "markets": 1258,
+      "bias": 1.593,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.4175,
+      "c_per_share": -3.1976,
       "verdict": "not viable at this quote policy"
     },
     "scorecard": [
