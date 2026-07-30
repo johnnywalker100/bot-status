@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30 16:25:27.908773+00:00",
+  "generated": "2026-07-30 16:27:27.906311+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.893935,
   "peak": 1.028873,
@@ -7,13 +7,13 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.3666,
   "last_tick": {
-    "ts": "2026-07-30 16:25:27.908907+00:00",
+    "ts": "2026-07-30 16:27:27.906481+00:00",
     "tick_return": -0.000468,
     "equity": 0.893935,
     "vol_scale": 0.367,
     "risk": "15 wx + 9 crypto open, awaiting resolution",
     "provider": "polymarket + open-meteo + okx",
-    "asof": "2026-07-30 16:25:27.908937+00:00"
+    "asof": "2026-07-30 16:27:27.906519+00:00"
   },
   "positions": {
     "NO NYC 76-77\u00b0 \u00b7 0.59\u21920.51": -0.1333,
@@ -628,7 +628,7 @@
       "won": 7,
       "lost": 20,
       "realised_pnl": -2121.3,
-      "pace_per_month": -2.0711,
+      "pace_per_month": -2.0692,
       "goal_per_month": 0.05,
       "open_collat": 6555.06,
       "books": {
@@ -658,11 +658,11 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 57.57,
-      "scorable_trades": 67965,
+      "hours": 57.65,
+      "scorable_trades": 68103,
       "fills": 6321,
       "fills_needed": 2000,
-      "markets": 2327,
+      "markets": 2332,
       "bias": 1.785,
       "breakeven": {
         "gross": 1.35,
