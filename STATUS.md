@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0266** (+2.66% since start) |
-| Peak / drawdown | 1.0407 / -1.35% |
-| Ticks recorded | 173 |
-| Last tick | 2026-07-30T15:08:17.748297+00:00 (+0.3236%) |
-| Risk rails | normal (dd -1.3%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-30 14:00:00+00:00) |
+| **Equity** | **1.0263** (+2.63% since start) |
+| Peak / drawdown | 1.0407 / -1.38% |
+| Ticks recorded | 174 |
+| Last tick | 2026-07-30T16:08:15.258934+00:00 (-0.0294%) |
+| Risk rails | normal (dd -1.4%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-07-30 15:00:00+00:00) |
 | Gross leverage | 2.00x |
 | Weeks tracked | 1 |
-| Average week | +2.81% |
+| Average week | +2.78% |
 | Weeks ≥ +3% | 0% |
-| Best / worst week | +2.81% / +2.81% |
+| Best / worst week | +2.78% / +2.78% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -41,7 +41,7 @@ and 8h funding settlements.*
 |---|---|
 | LTC perp | -21.4% |
 | DOGE perp | -18.6% |
-| SUSHI perp | -16.3% |
+| SUSHI perp | -16.4% |
 | BNB perp | -15.9% |
 | THETA perp | -14.5% |
 | BCH perp | -9.9% |
@@ -49,7 +49,7 @@ and 8h funding settlements.*
 | LINK perp | -6.8% |
 | ATOM perp | -2.6% |
 | XRP perp | -1.8% |
-| FIL perp | -0.9% |
+| FIL perp | -0.8% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
