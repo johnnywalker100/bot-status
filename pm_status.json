@@ -1,36 +1,21 @@
 {
-  "generated": "2026-07-30 19:07:27.930054+00:00",
+  "generated": "2026-07-30 19:09:54.135021+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.893935,
-  "peak": 1.028873,
-  "drawdown": -0.131151,
+  "equity": 1.0,
+  "peak": 1.0,
+  "drawdown": 0.0,
   "start": "2026-07-29 03:03:35.246850+00:00",
-  "gross_lev": 0.389,
+  "gross_lev": 0.3014,
   "last_tick": {
-    "ts": "2026-07-30 19:07:27.930745+00:00",
-    "tick_return": -0.000468,
-    "equity": 0.893935,
-    "vol_scale": 0.389,
-    "risk": "15 wx + 10 crypto open, awaiting resolution",
-    "provider": "polymarket + open-meteo + okx",
-    "asof": "2026-07-30 19:07:27.930794+00:00"
+    "ts": "2026-07-30 19:09:54.135750+00:00",
+    "tick_return": 0.0,
+    "equity": 1.0,
+    "vol_scale": 0.301,
+    "risk": "10 open, hold to resolution \u00b7 dd -0.0% vs rolling 90d peak",
+    "provider": "polymarket + okx",
+    "asof": "2026-07-30 19:09:54.135818+00:00"
   },
   "positions": {
-    "NO NYC 76-77\u00b0 \u00b7 0.59\u21920.79": 0.3426,
-    "NO NYC 78-79\u00b0 \u00b7 0.63\u21920.96": 0.5195,
-    "YES NYC 82-83\u00b0 \u00b7 0.04\u21920.00": -0.9773,
-    "NO CHI 84-85\u00b0 \u00b7 0.78\u21920.95": 0.2161,
-    "NO CHI 86-87\u00b0 \u00b7 0.52\u21920.28": -0.4581,
-    "YES CHI 90-91\u00b0 \u00b7 0.09\u21920.01": -0.8902,
-    "YES CHI 92-93\u00b0 \u00b7 0.05\u21920.00": -0.9612,
-    "NO ATL 90-91\u00b0 \u00b7 0.57\u21920.39": -0.3118,
-    "YES ATL 94-95\u00b0 \u00b7 0.06\u21920.01": -0.8442,
-    "NO DAL 98-99\u00b0 \u00b7 0.75\u21920.64": -0.1484,
-    "NO DAL 100-101\u00b0 \u00b7 0.51\u21920.36": -0.3007,
-    "YES DAL 104-105\u00b0 \u00b7 0.06\u21920.01": -0.8305,
-    "NO MIA 94-95\u00b0 \u2713 0.51\u21921.00": 0.9586,
-    "NO DEN 92-93\u00b0 \u00b7 0.41\u21920.29": -0.2981,
-    "YES DAL 102-103\u00b0 \u00b7 0.16\u21920.02": -0.8765,
     "NO BTC touch\u2193$45,000 0.76\u21920.75": -0.0172,
     "NO BTC touch\u2193$35,000 0.91\u21920.87": -0.045,
     "NO BTC touch\u2193$50,000 0.66\u21920.65": -0.0225,
@@ -43,171 +28,6 @@
     "NO ETH touch\u2191$3,500 0.89\u21920.87": -0.0266
   },
   "positions_detail": [
-    {
-      "side": "YES",
-      "city": "NYC",
-      "band": "82-83\u00b0",
-      "collat": 5.98,
-      "entry": 0.044,
-      "mark": 0.001,
-      "upnl": -0.9773,
-      "verdict": null,
-      "obs_max": 73
-    },
-    {
-      "side": "YES",
-      "city": "CHI",
-      "band": "92-93\u00b0",
-      "collat": 10.2,
-      "entry": 0.052,
-      "mark": 0.002,
-      "upnl": -0.9612,
-      "verdict": null,
-      "obs_max": 85
-    },
-    {
-      "side": "YES",
-      "city": "CHI",
-      "band": "90-91\u00b0",
-      "collat": 135.86,
-      "entry": 0.091,
-      "mark": 0.01,
-      "upnl": -0.8902,
-      "verdict": null,
-      "obs_max": 85
-    },
-    {
-      "side": "YES",
-      "city": "DAL",
-      "band": "102-103\u00b0",
-      "collat": 91.24,
-      "entry": 0.162,
-      "mark": 0.02,
-      "upnl": -0.8765,
-      "verdict": null,
-      "obs_max": 95
-    },
-    {
-      "side": "YES",
-      "city": "ATL",
-      "band": "94-95\u00b0",
-      "collat": 14.56,
-      "entry": 0.064,
-      "mark": 0.01,
-      "upnl": -0.8442,
-      "verdict": null,
-      "obs_max": 87
-    },
-    {
-      "side": "YES",
-      "city": "DAL",
-      "band": "104-105\u00b0",
-      "collat": 28.12,
-      "entry": 0.059,
-      "mark": 0.01,
-      "upnl": -0.8305,
-      "verdict": null,
-      "obs_max": 95
-    },
-    {
-      "side": "NO",
-      "city": "CHI",
-      "band": "86-87\u00b0",
-      "collat": 415.68,
-      "entry": 0.517,
-      "mark": 0.28,
-      "upnl": -0.4581,
-      "verdict": null,
-      "obs_max": 85
-    },
-    {
-      "side": "NO",
-      "city": "ATL",
-      "band": "90-91\u00b0",
-      "collat": 446.95,
-      "entry": 0.567,
-      "mark": 0.39,
-      "upnl": -0.3118,
-      "verdict": null,
-      "obs_max": 87
-    },
-    {
-      "side": "NO",
-      "city": "DAL",
-      "band": "100-101\u00b0",
-      "collat": 442.51,
-      "entry": 0.515,
-      "mark": 0.36,
-      "upnl": -0.3007,
-      "verdict": null,
-      "obs_max": 95
-    },
-    {
-      "side": "NO",
-      "city": "DEN",
-      "band": "92-93\u00b0",
-      "collat": 156.75,
-      "entry": 0.413,
-      "mark": 0.29,
-      "upnl": -0.2981,
-      "verdict": null,
-      "obs_max": 91
-    },
-    {
-      "side": "NO",
-      "city": "DAL",
-      "band": "98-99\u00b0",
-      "collat": 442.96,
-      "entry": 0.752,
-      "mark": 0.64,
-      "upnl": -0.1484,
-      "verdict": null,
-      "obs_max": 95
-    },
-    {
-      "side": "NO",
-      "city": "CHI",
-      "band": "84-85\u00b0",
-      "collat": 444.14,
-      "entry": 0.781,
-      "mark": 0.95,
-      "upnl": 0.2161,
-      "verdict": null,
-      "obs_max": 85
-    },
-    {
-      "side": "NO",
-      "city": "NYC",
-      "band": "76-77\u00b0",
-      "collat": 476.88,
-      "entry": 0.588,
-      "mark": 0.79,
-      "upnl": 0.3426,
-      "verdict": null,
-      "obs_max": 73
-    },
-    {
-      "side": "NO",
-      "city": "NYC",
-      "band": "78-79\u00b0",
-      "collat": 448.93,
-      "entry": 0.632,
-      "mark": 0.96,
-      "upnl": 0.5195,
-      "verdict": null,
-      "obs_max": 73
-    },
-    {
-      "side": "NO",
-      "city": "MIA",
-      "band": "94-95\u00b0",
-      "collat": 380.02,
-      "entry": 0.51,
-      "mark": 0.999,
-      "upnl": 0.9586,
-      "verdict": "won",
-      "obs_max": 96
-    },
     {
       "side": "NO",
       "city": "BTC",
@@ -319,208 +139,14 @@
       "obs_max": null
     }
   ],
-  "daily": [
-    {
-      "d": "2026-07-30",
-      "pnl": -2121.3
-    }
-  ],
+  "daily": [],
   "history": [
     {
-      "ts": "2026-07-29 03:03:35.246850+00:00",
+      "ts": "2026-07-30 07:08:33.796300+00:00",
       "ret": 0.0,
       "equity": 1.0,
       "risk": "desk opened",
       "vol_scale": 0.0
-    },
-    {
-      "ts": "2026-07-30 05:30:56.684786+00:00",
-      "ret": 0.007185,
-      "equity": 1.007185,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:30:59.140839+00:00",
-      "ret": -0.005734,
-      "equity": 1.00141,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:01.665635+00:00",
-      "ret": 0.012555,
-      "equity": 1.013983,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:04.163323+00:00",
-      "ret": 0.014685,
-      "equity": 1.028873,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:06.638263+00:00",
-      "ret": -0.008676,
-      "equity": 1.019947,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:09.153861+00:00",
-      "ret": -0.000128,
-      "equity": 1.019816,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:11.656573+00:00",
-      "ret": -0.024615,
-      "equity": 0.994713,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:14.142961+00:00",
-      "ret": -0.025537,
-      "equity": 0.969312,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:29.156756+00:00",
-      "ret": 0.01062,
-      "equity": 0.979606,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:31.659594+00:00",
-      "ret": -0.003511,
-      "equity": 0.976167,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 05:31:34.145171+00:00",
-      "ret": -0.001017,
-      "equity": 0.975174,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:19:14.992679+00:00",
-      "ret": -0.001489,
-      "equity": 0.973722,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:19:45.014748+00:00",
-      "ret": -0.023072,
-      "equity": 0.951256,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:19:47.504794+00:00",
-      "ret": -0.001375,
-      "equity": 0.949948,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:19:50.011061+00:00",
-      "ret": -0.000267,
-      "equity": 0.949694,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:15.496131+00:00",
-      "ret": -0.026568,
-      "equity": 0.924462,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:17.512236+00:00",
-      "ret": 0.018947,
-      "equity": 0.941978,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:20.231926+00:00",
-      "ret": -0.000684,
-      "equity": 0.941334,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:30.018849+00:00",
-      "ret": -0.026859,
-      "equity": 0.91605,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:32.526016+00:00",
-      "ret": 0.022745,
-      "equity": 0.936886,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:35.035602+00:00",
-      "ret": -0.001885,
-      "equity": 0.93512,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:37.523866+00:00",
-      "ret": -0.000298,
-      "equity": 0.934841,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 06:37:40.024990+00:00",
-      "ret": 0.007529,
-      "equity": 0.94188,
-      "risk": "won (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 07:29:38.651460+00:00",
-      "ret": -0.025999,
-      "equity": 0.917392,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 07:57:04.136721+00:00",
-      "ret": -0.022405,
-      "equity": 0.896837,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 07:57:06.572644+00:00",
-      "ret": -0.002769,
-      "equity": 0.894354,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 07:57:09.062663+00:00",
-      "ret": -0.000468,
-      "equity": 0.893935,
-      "risk": "LOST full collateral (wx)",
-      "vol_scale": null
     }
   ],
   "weekly": [],
@@ -635,34 +261,29 @@
       "capture_needed_for_5pct_month": 0.04
     },
     "engine": {
-      "fills": 278,
+      "fills": 25,
+      "settled": 0,
+      "won": 0,
+      "lost": 0,
+      "realised_pnl": 0,
+      "pace_per_month": -0.0,
+      "goal_per_month": 0.034,
+      "open_collat": 3014.28,
+      "open_marked": 2892.13,
+      "open_marked_collat": 3014.28,
+      "marks_done": 10,
+      "open_count": 10,
+      "decided_won": 0,
+      "decided_lost": 0
+    },
+    "wx": {
+      "status": "entries halted 2026-07-30 (WX_NO_ENTRIES=1)",
+      "reason": "first full settlement night measured capture at -$2,121 on $7,455 staked (7 of 27 wins): overnight leftover asks are adversely selected",
+      "open": 15,
+      "open_collat": 3940.78,
       "settled": 27,
       "won": 7,
-      "lost": 20,
-      "realised_pnl": -2121.3,
-      "pace_per_month": -1.9315,
-      "goal_per_month": 0.05,
-      "open_collat": 6955.06,
-      "books": {
-        "wx": {
-          "fills": 253,
-          "open": 15,
-          "settled": 27,
-          "pnl": -2121.3
-        },
-        "quant": {
-          "fills": 25,
-          "open": 10,
-          "settled": 0,
-          "pnl": 0
-        }
-      },
-      "open_marked": 6862.26,
-      "open_marked_collat": 6955.06,
-      "marks_done": 25,
-      "open_count": 25,
-      "decided_won": 1,
-      "decided_lost": 0
+      "realised_pnl": -2121.3
     },
     "gate": {
       "open": false,
