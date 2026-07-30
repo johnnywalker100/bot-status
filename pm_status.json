@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30 20:25:54.147706+00:00",
+  "generated": "2026-07-30 20:27:54.141571+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
@@ -7,13 +7,13 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.3014,
   "last_tick": {
-    "ts": "2026-07-30 20:25:54.148246+00:00",
+    "ts": "2026-07-30 20:27:54.141715+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
     "vol_scale": 0.301,
     "risk": "10 open, hold to resolution \u00b7 dd -0.0% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-07-30 20:25:54.148297+00:00"
+    "asof": "2026-07-30 20:27:54.141752+00:00"
   },
   "positions": {
     "NO BTC touch\u2193$45,000 0.76\u21920.75": -0.0172,
@@ -21,7 +21,7 @@
     "NO BTC touch\u2193$50,000 0.66\u21920.65": -0.0225,
     "NO BTC touch\u2193$40,000 0.87\u21920.83": -0.0435,
     "NO SOL touch\u2193$40 0.76\u21920.74": -0.0278,
-    "NO BTC touch\u2191$75,000 0.51\u21920.45": -0.1178,
+    "NO BTC touch\u2191$75,000 0.51\u21920.43": -0.157,
     "NO SOL touch\u2191$160 0.90\u21920.87": -0.0367,
     "NO BTC touch\u2191$90,000 0.84\u21920.82": -0.0237,
     "NO SOL touch\u2193$70 0.84\u21920.96": 0.143,
@@ -89,8 +89,8 @@
       "band": "touch\u2191$75,000",
       "collat": 192.5,
       "entry": 0.51,
-      "mark": 0.45,
-      "upnl": -0.1178,
+      "mark": 0.43,
+      "upnl": -0.157,
       "verdict": null,
       "obs_max": null
     },
@@ -269,7 +269,7 @@
       "pace_per_month": -0.0,
       "goal_per_month": 0.034,
       "open_collat": 3014.28,
-      "open_marked": 2905.76,
+      "open_marked": 2898.21,
       "open_marked_collat": 3014.28,
       "marks_done": 10,
       "open_count": 10,
@@ -291,11 +291,11 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 61.57,
-      "scorable_trades": 74823,
+      "hours": 61.66,
+      "scorable_trades": 75011,
       "fills": 6866,
       "fills_needed": 2000,
-      "markets": 2639,
+      "markets": 2641,
       "bias": 1.753,
       "breakeven": {
         "gross": 1.35,
