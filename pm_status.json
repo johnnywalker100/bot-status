@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30 07:11:10.623321+00:00",
+  "generated": "2026-07-30 07:13:10.625338+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.883759,
   "peak": 1.057746,
@@ -7,13 +7,13 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.5001,
   "last_tick": {
-    "ts": "2026-07-30 07:11:10.623535+00:00",
+    "ts": "2026-07-30 07:13:10.625938+00:00",
     "tick_return": 0.016186,
     "equity": 0.883759,
     "vol_scale": 0.5,
     "risk": "18 open, awaiting resolution",
     "provider": "polymarket + open-meteo",
-    "asof": "2026-07-30 07:11:10.623568+00:00"
+    "asof": "2026-07-30 07:13:10.626014+00:00"
   },
   "positions": {
     "NO CHI 80-81\u00b0 \u00b7 0.56\u21920.00": -0.9982,
@@ -448,7 +448,7 @@
       "won": 7,
       "lost": 16,
       "realised_pnl": -1162.41,
-      "pace_per_month": -3.0153,
+      "pace_per_month": -3.0117,
       "goal_per_month": 0.05,
       "open_collat": 4419.69,
       "open_marked": 3125.59,
@@ -464,12 +464,12 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 48.31,
-      "scorable_trades": 55425,
+      "hours": 48.4,
+      "scorable_trades": 55506,
       "fills": 5184,
       "fills_needed": 2000,
-      "markets": 1957,
-      "bias": 1.719,
+      "markets": 1959,
+      "bias": 1.72,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
