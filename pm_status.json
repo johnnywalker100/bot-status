@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30 16:43:27.912665+00:00",
+  "generated": "2026-07-30 16:45:27.921291+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.893935,
   "peak": 1.028873,
@@ -7,28 +7,28 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.3666,
   "last_tick": {
-    "ts": "2026-07-30 16:43:27.912852+00:00",
+    "ts": "2026-07-30 16:45:27.921443+00:00",
     "tick_return": -0.000468,
     "equity": 0.893935,
     "vol_scale": 0.367,
     "risk": "15 wx + 9 crypto open, awaiting resolution",
     "provider": "polymarket + open-meteo + okx",
-    "asof": "2026-07-30 16:43:27.912906+00:00"
+    "asof": "2026-07-30 16:45:27.921483+00:00"
   },
   "positions": {
     "NO NYC 76-77\u00b0 \u00b7 0.59\u21920.50": -0.1503,
-    "NO NYC 78-79\u00b0 \u00b7 0.63\u21920.77": 0.2188,
+    "NO NYC 78-79\u00b0 \u00b7 0.63\u21920.82": 0.2979,
     "YES NYC 82-83\u00b0 \u00b7 0.04\u21920.00": -0.9773,
-    "NO CHI 84-85\u00b0 \u00b7 0.78\u21920.85": 0.0881,
-    "NO CHI 86-87\u00b0 \u00b7 0.52\u21920.37": -0.2839,
+    "NO CHI 84-85\u00b0 \u00b7 0.78\u21920.82": 0.0497,
+    "NO CHI 86-87\u00b0 \u00b7 0.52\u21920.39": -0.2452,
     "YES CHI 90-91\u00b0 \u00b7 0.09\u21920.04": -0.5609,
     "YES CHI 92-93\u00b0 \u00b7 0.05\u21920.00": -0.9612,
     "NO ATL 90-91\u00b0 \u00b7 0.57\u21920.38": -0.3294,
     "YES ATL 94-95\u00b0 \u00b7 0.06\u21920.01": -0.8442,
-    "NO DAL 98-99\u00b0 \u00b7 0.75\u21920.56": -0.2549,
+    "NO DAL 98-99\u00b0 \u00b7 0.75\u21920.58": -0.2282,
     "NO DAL 100-101\u00b0 \u00b7 0.51\u21920.46": -0.1064,
     "YES DAL 104-105\u00b0 \u00b7 0.06\u21920.01": -0.8305,
-    "NO MIA 94-95\u00b0 \u00b7 0.51\u21920.37": -0.2746,
+    "NO MIA 94-95\u00b0 \u00b7 0.51\u21920.33": -0.353,
     "NO DEN 92-93\u00b0 \u00b7 0.41\u21920.25": -0.3949,
     "YES DAL 102-103\u00b0 \u00b7 0.16\u21920.04": -0.753,
     "NO BTC touch\u2193$45,000 0.76\u21920.74": -0.0303,
@@ -117,7 +117,18 @@
       "mark": 0.25,
       "upnl": -0.3949,
       "verdict": null,
-      "obs_max": 75
+      "obs_max": 83
+    },
+    {
+      "side": "NO",
+      "city": "MIA",
+      "band": "94-95\u00b0",
+      "collat": 380.02,
+      "entry": 0.51,
+      "mark": 0.33,
+      "upnl": -0.353,
+      "verdict": null,
+      "obs_max": 92
     },
     {
       "side": "NO",
@@ -136,21 +147,10 @@
       "band": "86-87\u00b0",
       "collat": 415.68,
       "entry": 0.517,
-      "mark": 0.37,
-      "upnl": -0.2839,
+      "mark": 0.39,
+      "upnl": -0.2452,
       "verdict": null,
       "obs_max": 82
-    },
-    {
-      "side": "NO",
-      "city": "MIA",
-      "band": "94-95\u00b0",
-      "collat": 380.02,
-      "entry": 0.51,
-      "mark": 0.37,
-      "upnl": -0.2746,
-      "verdict": null,
-      "obs_max": 92
     },
     {
       "side": "NO",
@@ -158,8 +158,8 @@
       "band": "98-99\u00b0",
       "collat": 442.96,
       "entry": 0.752,
-      "mark": 0.56,
-      "upnl": -0.2549,
+      "mark": 0.58,
+      "upnl": -0.2282,
       "verdict": null,
       "obs_max": 91
     },
@@ -191,8 +191,8 @@
       "band": "84-85\u00b0",
       "collat": 444.14,
       "entry": 0.781,
-      "mark": 0.85,
-      "upnl": 0.0881,
+      "mark": 0.82,
+      "upnl": 0.0497,
       "verdict": null,
       "obs_max": 82
     },
@@ -202,8 +202,8 @@
       "band": "78-79\u00b0",
       "collat": 448.93,
       "entry": 0.632,
-      "mark": 0.77,
-      "upnl": 0.2188,
+      "mark": 0.82,
+      "upnl": 0.2979,
       "verdict": null,
       "obs_max": 73
     },
@@ -628,7 +628,7 @@
       "won": 7,
       "lost": 20,
       "realised_pnl": -2121.3,
-      "pace_per_month": -2.0546,
+      "pace_per_month": -2.0528,
       "goal_per_month": 0.05,
       "open_collat": 6555.06,
       "books": {
@@ -645,7 +645,7 @@
           "pnl": 0
         }
       },
-      "open_marked": 5719.46,
+      "open_marked": 5736.01,
       "open_marked_collat": 6555.06,
       "marks_done": 24,
       "open_count": 24,
@@ -660,16 +660,16 @@
     "shadow": {
       "hours": 57.9,
       "scorable_trades": 68419,
-      "fills": 6343,
+      "fills": 6345,
       "fills_needed": 2000,
       "markets": 2355,
-      "bias": 1.794,
+      "bias": 1.795,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.4253,
+      "c_per_share": -2.4226,
       "verdict": "not viable at this quote policy"
     },
     "scorecard": [
