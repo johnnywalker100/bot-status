@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31 08:42:11.962968+00:00",
+  "generated": "2026-07-31 08:45:12.051295+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
@@ -7,13 +7,13 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.3014,
   "last_tick": {
-    "ts": "2026-07-31 08:42:11.963742+00:00",
+    "ts": "2026-07-31 08:45:12.052255+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
     "vol_scale": 0.301,
     "risk": "10 open, hold to resolution \u00b7 dd -0.0% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-07-31 08:42:11.963908+00:00"
+    "asof": "2026-07-31 08:45:12.052317+00:00"
   },
   "positions": {
     "NO BTC touch\u2193$45,000 0.76\u21920.76": -0.0041,
@@ -279,11 +279,11 @@
     "wx": {
       "status": "entries halted 2026-07-30 (WX_NO_ENTRIES=1)",
       "reason": "first full settlement night measured capture at -$2,121 on $7,455 staked (7 of 27 wins): overnight leftover asks are adversely selected",
-      "open": 2,
-      "open_collat": 599.71,
-      "settled": 40,
-      "won": 12,
-      "realised_pnl": -1789.86
+      "open": 1,
+      "open_collat": 442.96,
+      "settled": 41,
+      "won": 13,
+      "realised_pnl": -1567.2
     },
     "gate": {
       "open": false,
@@ -293,16 +293,16 @@
     "shadow": {
       "hours": 73.91,
       "scorable_trades": 94368,
-      "fills": 8600,
+      "fills": 8613,
       "fills_needed": 2000,
       "markets": 3172,
-      "bias": 1.684,
+      "bias": 1.682,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.3777,
+      "c_per_share": -2.379,
       "verdict": "not viable at this quote policy"
     },
     "scorecard": [
