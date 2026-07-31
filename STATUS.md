@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0410** (+4.10% since start) |
-| Peak / drawdown | 1.0454 / -0.42% |
-| Ticks recorded | 199 |
-| Last tick | 2026-07-31T17:08:15.675203+00:00 (-0.4188%) |
-| Risk rails | normal (dd -0.4%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-31 16:00:00+00:00) |
+| **Equity** | **1.0384** (+3.84% since start) |
+| Peak / drawdown | 1.0454 / -0.67% |
+| Ticks recorded | 200 |
+| Last tick | 2026-07-31T18:08:16.180858+00:00 (-0.2469%) |
+| Risk rails | normal (dd -0.7%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-07-31 17:00:00+00:00) |
 | Gross leverage | 2.00x |
 | Weeks tracked | 1 |
-| Average week | +4.25% |
+| Average week | +3.99% |
 | Weeks ≥ +3% | 100% |
-| Best / worst week | +4.25% / +4.25% |
+| Best / worst week | +3.99% / +3.99% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -48,7 +48,7 @@ and 8h funding settlements.*
 | BTC perp | -10.9% |
 | SUSHI perp | -8.5% |
 | XRP perp | -3.4% |
-| ATOM perp | -2.9% |
+| ATOM perp | -3.0% |
 | AVAX perp | -1.2% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
