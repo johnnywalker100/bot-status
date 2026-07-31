@@ -9,41 +9,41 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9407** (-5.93% since start) |
-| Peak / drawdown | 1.0141 / -7.24% |
-| Ticks recorded | 168 |
-| Last tick | 2026-07-31T02:09:15.712856+00:00 (+0.8474%) |
-| Risk rails | normal (dd -7.2%) |
-| Data source | coinbase-cfm (bar 2026-07-31 01:00:00+00:00) |
-| Gross leverage | 3.04x |
+| **Equity** | **0.9523** (-4.77% since start) |
+| Peak / drawdown | 1.0141 / -6.09% |
+| Ticks recorded | 169 |
+| Last tick | 2026-07-31T03:08:39.504327+00:00 (+1.2417%) |
+| Risk rails | normal (dd -6.1%) |
+| Data source | coinbase-cfm (bar 2026-07-31 02:00:00+00:00) |
+| Gross leverage | 2.99x |
 | Weeks tracked | 1 |
-| Average week | +1.76% |
-| Weeks >= +3% | 0% |
-| Best / worst week | +1.76% / +1.76% |
+| Average week | +3.03% |
+| Weeks >= +3% | 100% |
+| Best / worst week | +3.03% / +3.03% |
 
 ## Positions (weight of account / whole contracts)
 
 | Long | Size | Contracts |
 |---|---|---|
-| ADA perp | +21.7% | +12 |
-| AAVE perp | +21.2% | +4 |
-| XLM perp | +18.2% | +2 |
-| DOT perp | +10.6% | +13 |
-| ETH perp | +10.2% | +5 |
-| SOL perp | +7.9% | +2 |
+| ADA perp | +21.4% | +12 |
+| AAVE perp | +20.8% | +4 |
+| XLM perp | +17.9% | +2 |
+| DOT perp | +11.2% | +14 |
+| ETH perp | +10.0% | +5 |
+| SOL perp | +7.8% | +2 |
 
 | Short | Size | Contracts |
 |---|---|---|
-| DOGE perp | -48.6% | -13 |
-| LTC perp | -38.7% | -16 |
-| BCH perp | -25.4% | -11 |
-| BNB perp | -25.1% | -4 |
-| ZEC perp | -19.8% | -4 |
-| LINK perp | -17.9% | -4 |
-| BTC perp | -13.7% | -2 |
-| AVAX perp | -10.3% | -15 |
-| NEAR perp | -8.9% | -1 |
-| XRP perp | -5.8% | -1 |
+| DOGE perp | -47.8% | -13 |
+| LTC perp | -38.0% | -16 |
+| BCH perp | -24.7% | -11 |
+| BNB perp | -24.7% | -4 |
+| ZEC perp | -19.3% | -4 |
+| LINK perp | -17.5% | -4 |
+| BTC perp | -13.5% | -2 |
+| AVAX perp | -10.1% | -15 |
+| NEAR perp | -8.6% | -1 |
+| XRP perp | -5.7% | -1 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
