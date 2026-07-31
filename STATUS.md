@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0306** (+3.06% since start) |
-| Peak / drawdown | 1.0407 / -0.97% |
-| Ticks recorded | 188 |
-| Last tick | 2026-07-31T06:08:24.209977+00:00 (-0.0855%) |
+| **Equity** | **1.0307** (+3.07% since start) |
+| Peak / drawdown | 1.0407 / -0.95% |
+| Ticks recorded | 189 |
+| Last tick | 2026-07-31T07:08:03.881862+00:00 (+0.0111%) |
 | Risk rails | normal (dd -1.0%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-31 05:00:00+00:00) |
+| Data source | okx (bar 2026-07-31 06:00:00+00:00) |
 | Gross leverage | 2.00x |
 | Weeks tracked | 1 |
-| Average week | +3.21% |
+| Average week | +3.22% |
 | Weeks ≥ +3% | 100% |
-| Best / worst week | +3.21% / +3.21% |
+| Best / worst week | +3.22% / +3.22% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -34,8 +34,8 @@ and 8h funding settlements.*
 | ETH perp | +3.7% |
 | ADA perp | +3.6% |
 | SOL perp | +2.3% |
-| UNI perp | +1.7% |
-| AAVE perp | +1.3% |
+| UNI perp | +1.6% |
+| AAVE perp | +1.2% |
 | FIL perp | +1.1% |
 
 | Contract | Size |
