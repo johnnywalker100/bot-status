@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31 00:54:05.030496+00:00",
+  "generated": "2026-07-31 00:56:05.026195+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
@@ -7,18 +7,18 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.3014,
   "last_tick": {
-    "ts": "2026-07-31 00:54:05.030628+00:00",
+    "ts": "2026-07-31 00:56:05.026621+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
     "vol_scale": 0.301,
     "risk": "10 open, hold to resolution \u00b7 dd -0.0% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-07-31 00:54:05.030671+00:00"
+    "asof": "2026-07-31 00:56:05.026666+00:00"
   },
   "positions": {
     "NO BTC touch\u2193$45,000 0.76\u21920.76": -0.0041,
     "NO BTC touch\u2193$35,000 0.91\u21920.88": -0.034,
-    "NO BTC touch\u2193$50,000 0.66\u21920.66": -0.0075,
+    "NO BTC touch\u2193$50,000 0.66\u21920.65": -0.0225,
     "NO BTC touch\u2193$40,000 0.87\u21920.83": -0.0435,
     "NO SOL touch\u2193$40 0.76\u21920.74": -0.0278,
     "NO BTC touch\u2191$75,000 0.51\u21920.43": -0.157,
@@ -56,8 +56,8 @@
       "band": "touch\u2193$50,000",
       "collat": 400.0,
       "entry": 0.665,
-      "mark": 0.66,
-      "upnl": -0.0075,
+      "mark": 0.65,
+      "upnl": -0.0225,
       "verdict": null,
       "obs_max": null
     },
@@ -269,7 +269,7 @@
       "pace_per_month": -0.0,
       "goal_per_month": 0.034,
       "open_collat": 3014.28,
-      "open_marked": 2922.46,
+      "open_marked": 2916.44,
       "open_marked_collat": 3014.28,
       "marks_done": 10,
       "open_count": 10,
@@ -293,7 +293,7 @@
     "shadow": {
       "hours": 66.07,
       "scorable_trades": 82942,
-      "fills": 7575,
+      "fills": 7579,
       "fills_needed": 2000,
       "markets": 2835,
       "bias": 1.679,
@@ -302,7 +302,7 @@
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.402,
+      "c_per_share": -2.4021,
       "verdict": "not viable at this quote policy"
     },
     "scorecard": [
