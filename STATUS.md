@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0394** (+3.94% since start) |
-| Peak / drawdown | 1.0407 / -0.12% |
-| Ticks recorded | 192 |
-| Last tick | 2026-07-31T10:08:08.984083+00:00 (+0.7653%) |
-| Risk rails | normal (dd -0.1%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-07-31 09:00:00+00:00) |
+| **Equity** | **1.0353** (+3.53% since start) |
+| Peak / drawdown | 1.0407 / -0.51% |
+| Ticks recorded | 193 |
+| Last tick | 2026-07-31T11:08:09.064284+00:00 (-0.3915%) |
+| Risk rails | normal (dd -0.5%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-07-31 10:00:00+00:00) |
 | Gross leverage | 2.00x |
 | Weeks tracked | 1 |
-| Average week | +4.09% |
+| Average week | +3.68% |
 | Weeks ≥ +3% | 100% |
-| Best / worst week | +4.09% / +4.09% |
+| Best / worst week | +3.68% / +3.68% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,7 +26,7 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +22.3% |
+| TRX perp | +22.2% |
 | ALGO perp | +17.7% |
 | XLM perp | +13.3% |
 | DOT perp | +7.6% |
@@ -48,7 +48,7 @@ and 8h funding settlements.*
 | BTC perp | -10.8% |
 | SUSHI perp | -8.0% |
 | XRP perp | -6.8% |
-| ATOM perp | -2.8% |
+| ATOM perp | -2.9% |
 | AVAX perp | -2.0% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
