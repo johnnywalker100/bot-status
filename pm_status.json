@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31 16:02:14.483986+00:00",
+  "generated": "2026-07-31 16:06:31.978605+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
@@ -7,18 +7,18 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.3014,
   "last_tick": {
-    "ts": "2026-07-31 16:02:14.484092+00:00",
+    "ts": "2026-07-31 16:06:31.978741+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
     "vol_scale": 0.301,
     "risk": "10 open, hold to resolution \u00b7 dd -0.0% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-07-31 16:02:14.484151+00:00"
+    "asof": "2026-07-31 16:06:31.978776+00:00"
   },
   "positions": {
     "NO BTC touch\u2193$45,000 0.76\u21920.76": -0.0041,
     "NO BTC touch\u2193$35,000 0.91\u21920.88": -0.034,
-    "NO BTC touch\u2193$50,000 0.66\u21920.64": -0.0376,
+    "NO BTC touch\u2193$50,000 0.66\u21920.62": -0.0676,
     "NO BTC touch\u2193$40,000 0.87\u21920.83": -0.0435,
     "NO SOL touch\u2193$40 0.76\u21920.74": -0.0278,
     "NO BTC touch\u2191$75,000 0.51\u21920.49": -0.0394,
@@ -56,8 +56,8 @@
       "band": "touch\u2193$50,000",
       "collat": 400.0,
       "entry": 0.665,
-      "mark": 0.64,
-      "upnl": -0.0376,
+      "mark": 0.62,
+      "upnl": -0.0676,
       "verdict": null,
       "obs_max": null
     },
@@ -269,7 +269,7 @@
       "pace_per_month": -0.0,
       "goal_per_month": 0.034,
       "open_collat": 3014.28,
-      "open_marked": 2933.3,
+      "open_marked": 2921.27,
       "open_marked_collat": 3014.28,
       "marks_done": 10,
       "open_count": 10,
@@ -291,18 +291,18 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 81.17,
-      "scorable_trades": 108226,
-      "fills": 10054,
+      "hours": 81.25,
+      "scorable_trades": 108298,
+      "fills": 10061,
       "fills_needed": 2000,
-      "markets": 3516,
+      "markets": 3518,
       "bias": 1.562,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.2692,
+      "c_per_share": -2.269,
       "verdict": "not viable at this quote policy"
     },
     "scorecard": [
