@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01 01:45:48.592097+00:00",
+  "generated": "2026-08-01 01:51:22.642710+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
@@ -7,16 +7,16 @@
   "start": "2026-07-29 03:03:35.246850+00:00",
   "gross_lev": 0.3014,
   "last_tick": {
-    "ts": "2026-08-01 01:45:48.592247+00:00",
+    "ts": "2026-08-01 01:51:22.642877+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
     "vol_scale": 0.301,
     "risk": "10 open, hold to resolution \u00b7 dd -0.0% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-08-01 01:45:48.592284+00:00"
+    "asof": "2026-08-01 01:51:22.642939+00:00"
   },
   "positions": {
-    "NO BTC touch\u2193$45,000 0.76\u21920.71": -0.0696,
+    "NO BTC touch\u2193$45,000 0.76\u21920.72": -0.0565,
     "NO BTC touch\u2193$35,000 0.91\u21920.89": -0.0231,
     "NO BTC touch\u2193$50,000 0.66\u21920.60": -0.0977,
     "NO BTC touch\u2193$40,000 0.87\u21920.80": -0.078,
@@ -34,8 +34,8 @@
       "band": "touch\u2193$45,000",
       "collat": 400.0,
       "entry": 0.763,
-      "mark": 0.71,
-      "upnl": -0.0696,
+      "mark": 0.72,
+      "upnl": -0.0565,
       "verdict": null,
       "obs_max": null
     },
@@ -269,7 +269,7 @@
       "pace_per_month": -0.0,
       "goal_per_month": 0.034,
       "open_collat": 3014.28,
-      "open_marked": 2865.91,
+      "open_marked": 2871.15,
       "open_marked_collat": 3014.28,
       "marks_done": 10,
       "open_count": 10,
@@ -291,18 +291,18 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 90.92,
-      "scorable_trades": 127593,
-      "fills": 11794,
+      "hours": 91.01,
+      "scorable_trades": 127740,
+      "fills": 11814,
       "fills_needed": 2000,
-      "markets": 3999,
-      "bias": 1.553,
+      "markets": 4006,
+      "bias": 1.554,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.3027,
+      "c_per_share": -2.3035,
       "verdict": "not viable at this quote policy"
     },
     "scorecard": [
