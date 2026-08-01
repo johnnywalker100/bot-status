@@ -1,19 +1,19 @@
 {
-  "generated": "2026-08-01 03:35:21.252712+00:00",
+  "generated": "2026-08-01 03:47:16.864790+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.0,
   "peak": 1.0,
   "drawdown": 0.0,
-  "start": "2026-07-29 03:03:35.246850+00:00",
+  "start": "2026-07-30 07:08:33.796300+00:00",
   "gross_lev": 0.3014,
   "last_tick": {
-    "ts": "2026-08-01 03:35:21.252848+00:00",
+    "ts": "2026-08-01 03:47:16.865406+00:00",
     "tick_return": 0.0,
     "equity": 1.0,
     "vol_scale": 0.301,
     "risk": "10 open, hold to resolution \u00b7 dd -0.0% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-08-01 03:35:21.252884+00:00"
+    "asof": "2026-08-01 03:47:16.865453+00:00"
   },
   "positions": {
     "NO BTC touch\u2193$45,000 0.76\u21920.72": -0.0565,
@@ -146,7 +146,294 @@
       "ret": 0.0,
       "equity": 1.0,
       "risk": "desk opened",
-      "vol_scale": 0.0
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 08:07:28.821995+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 08:14:27.257401+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 09:18:58.187439+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 10:25:37.354332+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 11:32:15.311695+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 12:38:51.697528+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 13:40:57.196021+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 14:47:33.246076+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 15:57:15.757765+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 17:03:48.868732+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 18:10:29.679761+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 19:16:22.379734+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 20:23:02.740593+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 21:29:41.284654+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 22:36:19.162887+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-30 23:42:59.472196+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 00:49:42.281306+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 01:56:26.027590+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 03:03:11.440641+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 04:09:59.242777+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 05:14:44.634367+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 06:16:37.255382+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 07:21:22.792392+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 08:26:10.614430+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 09:30:58.370678+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 10:35:48.780137+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 11:40:39.262314+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 12:45:26.975777+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 13:50:19.806184+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 14:55:10.129450+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 16:00:00.400588+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 17:04:50.841721+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 18:09:38.531218+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 19:14:26.527302+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 20:19:17.131594+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 21:24:07.409333+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 22:28:58.207903+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-07-31 23:33:50.967262+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-01 00:38:44.010740+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-01 01:43:36.729165+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-01 02:48:29.625159+00:00",
+      "ret": 0.0,
+      "equity": 1.0,
+      "risk": "hold to resolution",
+      "vol_scale": null
     }
   ],
   "weekly": [],
@@ -291,18 +578,18 @@
       "n_markets": 3
     },
     "shadow": {
-      "hours": 92.68,
-      "scorable_trades": 131349,
-      "fills": 11993,
+      "hours": 92.85,
+      "scorable_trades": 131761,
+      "fills": 12011,
       "fills_needed": 2000,
-      "markets": 4095,
+      "markets": 4100,
       "bias": 1.562,
       "breakeven": {
         "gross": 1.35,
         "rebate_25pct": 1.5,
         "rebate_full": 1.95
       },
-      "c_per_share": -2.3001,
+      "c_per_share": -2.3008,
       "verdict": "not viable at this quote policy"
     },
     "scorecard": [
