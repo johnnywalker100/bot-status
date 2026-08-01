@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0361** (+3.61% since start) |
-| Peak / drawdown | 1.0454 / -0.89% |
-| Ticks recorded | 208 |
-| Last tick | 2026-08-01T02:08:22.039804+00:00 (-0.1590%) |
-| Risk rails | normal (dd -0.9%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-01 01:00:00+00:00) |
+| **Equity** | **1.0343** (+3.43% since start) |
+| Peak / drawdown | 1.0454 / -1.06% |
+| Ticks recorded | 209 |
+| Last tick | 2026-08-01T03:08:23.330731+00:00 (-0.1681%) |
+| Risk rails | normal (dd -1.1%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-01 02:00:00+00:00) |
 | Gross leverage | 1.95x |
 | Weeks tracked | 1 |
-| Average week | +3.75% |
+| Average week | +3.58% |
 | Weeks ≥ +3% | 100% |
-| Best / worst week | +3.75% / +3.75% |
+| Best / worst week | +3.58% / +3.58% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -31,7 +31,7 @@ and 8h funding settlements.*
 | DOT perp | +10.7% |
 | ALGO perp | +10.5% |
 | ETH perp | +7.0% |
-| ETC perp | +4.3% |
+| ETC perp | +4.4% |
 | UNI perp | +1.6% |
 | AAVE perp | +1.1% |
 
@@ -46,7 +46,7 @@ and 8h funding settlements.*
 | SUSHI perp | -7.4% |
 | XRP perp | -7.2% |
 | THETA perp | -3.1% |
-| ATOM perp | -2.8% |
+| ATOM perp | -2.9% |
 | AVAX perp | -1.9% |
 | ADA perp | -0.9% |
 
