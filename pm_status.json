@@ -1,19 +1,19 @@
 {
-  "generated": "2026-08-01 22:56:33.981135+00:00",
+  "generated": "2026-08-01 22:58:33.983041+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 1.000272,
   "peak": 1.000272,
   "drawdown": 0.0,
   "start": "2026-07-30 07:08:33.796300+00:00",
-  "gross_lev": 0.2999,
+  "gross_lev": 0.3399,
   "last_tick": {
-    "ts": "2026-08-01 22:56:33.981197+00:00",
+    "ts": "2026-08-01 22:58:33.983153+00:00",
     "tick_return": 0.0,
     "equity": 1.000272,
-    "vol_scale": 0.3,
-    "risk": "9 open, hold to resolution \u00b7 dd +0.0% vs rolling 90d peak",
+    "vol_scale": 0.34,
+    "risk": "10 open, hold to resolution \u00b7 dd +0.0% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-08-01 22:56:33.981222+00:00"
+    "asof": "2026-08-01 22:58:33.983190+00:00"
   },
   "positions": {
     "NO BTC touch\u2193$45,000 0.76\u21920.73": -0.0434,
@@ -24,7 +24,8 @@
     "NO BTC touch\u2191$75,000 0.51\u21920.49": -0.0394,
     "NO SOL touch\u2191$160 0.90\u21920.87": -0.0367,
     "NO BTC touch\u2191$90,000 0.84\u21920.83": -0.0118,
-    "NO ETH touch\u2191$3,500 0.89\u21920.89": -0.0042
+    "NO ETH touch\u2191$3,500 0.89\u21920.89": -0.0042,
+    "NO ETH touch\u2193$1,000 0.88\u21920.86": -0.0254
   },
   "positions_detail": [
     {
@@ -123,6 +124,17 @@
       "entry": 0.894,
       "mark": 0.89,
       "upnl": -0.0042,
+      "verdict": null,
+      "obs_max": null
+    },
+    {
+      "side": "NO",
+      "city": "ETH",
+      "band": "touch\u2193$1,000",
+      "collat": 400.0,
+      "entry": 0.882,
+      "mark": 0.86,
+      "upnl": -0.0254,
       "verdict": null,
       "obs_max": null
     }
@@ -539,6 +551,13 @@
       "equity": 1.000272,
       "risk": "hold to resolution",
       "vol_scale": null
+    },
+    {
+      "ts": "2026-08-01 22:54:15.880813+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
     }
   ],
   "weekly": [],
@@ -586,9 +605,9 @@
   "research": {
     "quant": {
       "live": {
-        "fills": 25,
-        "open": 9,
-        "open_collat": 3000.0,
+        "fills": 28,
+        "open": 10,
+        "open_collat": 3400.0,
         "settled": 1,
         "won": 1,
         "realised_pnl": 2.72,
@@ -653,18 +672,18 @@
       "capture_needed_for_5pct_month": 0.04
     },
     "engine": {
-      "fills": 25,
+      "fills": 28,
       "settled": 1,
       "won": 1,
       "lost": 0,
       "realised_pnl": 2.72,
       "pace_per_month": 0.0031,
       "goal_per_month": 0.034,
-      "open_collat": 3000.0,
-      "open_marked": 2883.32,
-      "open_marked_collat": 3000.0,
-      "marks_done": 9,
-      "open_count": 9,
+      "open_collat": 3400.0,
+      "open_marked": 3273.17,
+      "open_marked_collat": 3400.0,
+      "marks_done": 10,
+      "open_count": 10,
       "decided_won": 0,
       "decided_lost": 0
     },
