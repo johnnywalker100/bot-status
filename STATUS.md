@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0331** (+3.31% since start) |
-| Peak / drawdown | 1.0572 / -2.29% |
-| Ticks recorded | 246 |
-| Last tick | 2026-08-02T16:08:10.533402+00:00 (-0.1638%) |
+| **Equity** | **1.0323** (+3.23% since start) |
+| Peak / drawdown | 1.0572 / -2.36% |
+| Ticks recorded | 247 |
+| Last tick | 2026-08-02T17:08:10.127642+00:00 (-0.0680%) |
 | Risk rails | normal (dd -2.3%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-02 15:00:00+00:00) |
-| Gross leverage | 1.57x |
+| Data source | okx (bar 2026-08-02 16:00:00+00:00) |
+| Gross leverage | 1.51x |
 | Weeks tracked | 1 |
-| Average week | +3.45% |
+| Average week | +3.38% |
 | Weeks ≥ +3% | 100% |
-| Best / worst week | +3.45% / +3.45% |
+| Best / worst week | +3.38% / +3.38% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,30 +26,31 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| XLM perp | +11.9% |
-| TRX perp | +10.5% |
-| ETH perp | +7.0% |
-| DOT perp | +6.7% |
-| ETC perp | +6.0% |
-| ALGO perp | +3.3% |
-| AVAX perp | +1.6% |
+| XLM perp | +11.0% |
+| TRX perp | +10.8% |
+| ETH perp | +7.1% |
+| ETC perp | +3.4% |
+| ALGO perp | +3.0% |
+| DOT perp | +2.4% |
 | SOL perp | +1.0% |
 
 | Contract | Size |
 |---|---|
-| BNB perp | -22.5% |
-| SUSHI perp | -14.7% |
-| DOGE perp | -12.9% |
-| LINK perp | -12.1% |
-| LTC perp | -10.7% |
-| BCH perp | -7.3% |
-| BTC perp | -7.2% |
-| THETA perp | -6.4% |
-| UNI perp | -5.8% |
-| FIL perp | -3.3% |
-| ADA perp | -2.2% |
+| BNB perp | -23.2% |
+| SUSHI perp | -15.9% |
+| LINK perp | -13.6% |
+| DOGE perp | -13.5% |
+| LTC perp | -9.2% |
+| BCH perp | -7.4% |
+| THETA perp | -6.3% |
+| UNI perp | -4.8% |
+| FIL perp | -4.6% |
+| BTC perp | -4.4% |
+| ADA perp | -3.1% |
 | ATOM perp | -2.1% |
+| XRP perp | -1.6% |
 | AAVE perp | -1.5% |
+| AVAX perp | -0.8% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
