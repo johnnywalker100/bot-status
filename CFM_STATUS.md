@@ -9,41 +9,41 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9332** (-6.68% since start) |
-| Peak / drawdown | 1.0141 / -7.98% |
-| Ticks recorded | 235 |
-| Last tick | 2026-08-02T22:08:50.349576+00:00 (-0.4239%) |
-| Risk rails | normal (dd -8.0%) |
-| Data source | coinbase-cfm (bar 2026-08-02 21:00:00+00:00) |
-| Gross leverage | 2.98x |
+| **Equity** | **0.9404** (-5.96% since start) |
+| Peak / drawdown | 1.0141 / -7.27% |
+| Ticks recorded | 236 |
+| Last tick | 2026-08-02T23:08:54.684765+00:00 (+0.7705%) |
+| Risk rails | normal (dd -7.3%) |
+| Data source | coinbase-cfm (bar 2026-08-02 22:00:00+00:00) |
+| Gross leverage | 2.97x |
 | Weeks tracked | 1 |
-| Average week | +0.96% |
+| Average week | +1.74% |
 | Weeks >= +3% | 0% |
-| Best / worst week | +0.96% / +0.96% |
+| Best / worst week | +1.74% / +1.74% |
 
 ## Positions (weight of account / whole contracts)
 
 | Long | Size | Contracts |
 |---|---|---|
-| XLM perp | +28.2% | +3 |
-| ETH perp | +16.2% | +8 |
-| ADA perp | +14.2% | +7 |
-| DOT perp | +11.9% | +14 |
-| AAVE perp | +5.0% | +1 |
+| XLM perp | +27.7% | +3 |
+| ETH perp | +16.0% | +8 |
+| ADA perp | +14.1% | +7 |
+| DOT perp | +11.8% | +14 |
+| AAVE perp | +4.9% | +1 |
 
 | Short | Size | Contracts |
 |---|---|---|
-| DOGE perp | -41.8% | -11 |
-| BNB perp | -37.9% | -6 |
-| LTC perp | -26.5% | -11 |
-| BCH perp | -25.3% | -11 |
-| LINK perp | -22.5% | -5 |
-| ZEC perp | -21.1% | -4 |
-| BTC perp | -13.6% | -2 |
-| XRP perp | -11.7% | -2 |
-| NEAR perp | -9.2% | -1 |
-| AVAX perp | -8.5% | -12 |
-| SOL perp | -4.0% | -1 |
+| DOGE perp | -45.0% | -12 |
+| BNB perp | -37.5% | -6 |
+| LTC perp | -26.1% | -11 |
+| BCH perp | -24.8% | -11 |
+| LINK perp | -22.2% | -5 |
+| ZEC perp | -20.8% | -4 |
+| BTC perp | -13.5% | -2 |
+| XRP perp | -11.5% | -2 |
+| NEAR perp | -9.1% | -1 |
+| AVAX perp | -8.4% | -12 |
+| SOL perp | -3.9% | -1 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
