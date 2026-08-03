@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0443** (+4.43% since start) |
-| Peak / drawdown | 1.0572 / -1.23% |
-| Ticks recorded | 259 |
-| Last tick | 2026-08-03T08:10:47.710159+00:00 (+0.3911%) |
-| Risk rails | normal (dd -1.2%); blind 2.2h -> 50% size on resume |
-| Data source | okx (bar 2026-08-03 07:00:00+00:00) |
-| Gross leverage | 1.77x |
+| **Equity** | **1.0430** (+4.30% since start) |
+| Peak / drawdown | 1.0572 / -1.35% |
+| Ticks recorded | 260 |
+| Last tick | 2026-08-03T09:12:48.987518+00:00 (-0.1239%) |
+| Risk rails | normal (dd -1.3%); blind 2.2h -> 50% size on resume |
+| Data source | okx (bar 2026-08-03 08:00:00+00:00) |
+| Gross leverage | 1.63x |
 | Weeks tracked | 2 |
-| Average week | +2.27% |
+| Average week | +2.20% |
 | Weeks ≥ +3% | 50% |
-| Best / worst week | +3.03% / +1.50% |
+| Best / worst week | +3.03% / +1.37% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,31 +26,30 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +12.7% |
-| XLM perp | +10.6% |
-| ETH perp | +8.4% |
-| ETC perp | +7.0% |
-| SOL perp | +5.2% |
-| ALGO perp | +3.1% |
-| AVAX perp | +0.8% |
+| TRX perp | +13.8% |
+| ETC perp | +8.2% |
+| ETH perp | +8.2% |
+| XLM perp | +7.8% |
+| SOL perp | +6.4% |
+| ALGO perp | +3.5% |
+| ADA perp | +2.9% |
 
 | Contract | Size |
 |---|---|
-| BNB perp | -22.4% |
-| UNI perp | -17.4% |
-| SUSHI perp | -15.7% |
-| LINK perp | -15.5% |
-| LTC perp | -11.7% |
-| DOGE perp | -10.5% |
+| BNB perp | -21.2% |
+| LINK perp | -15.1% |
+| SUSHI perp | -14.7% |
+| LTC perp | -11.8% |
+| UNI perp | -11.5% |
+| DOGE perp | -10.6% |
 | BCH perp | -7.7% |
 | THETA perp | -6.4% |
-| ADA perp | -4.9% |
 | BTC perp | -4.4% |
-| FIL perp | -3.8% |
 | XRP perp | -3.4% |
 | ATOM perp | -2.1% |
-| DOT perp | -1.9% |
-| AAVE perp | -0.9% |
+| DOT perp | -1.6% |
+| FIL perp | -0.9% |
+| AAVE perp | -0.6% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
