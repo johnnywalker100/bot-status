@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0404** (+4.04% since start) |
-| Peak / drawdown | 1.0572 / -1.59% |
-| Ticks recorded | 282 |
-| Last tick | 2026-08-04T07:08:40.721984+00:00 (-0.1467%) |
-| Risk rails | normal (dd -1.6%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-04 06:00:00+00:00) |
+| **Equity** | **1.0410** (+4.10% since start) |
+| Peak / drawdown | 1.0572 / -1.53% |
+| Ticks recorded | 283 |
+| Last tick | 2026-08-04T08:08:05.176642+00:00 (+0.0615%) |
+| Risk rails | normal (dd -1.5%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-04 07:00:00+00:00) |
 | Gross leverage | 1.61x |
 | Weeks tracked | 2 |
-| Average week | +2.08% |
+| Average week | +2.11% |
 | Weeks ≥ +3% | 50% |
-| Best / worst week | +3.03% / +1.12% |
+| Best / worst week | +3.03% / +1.18% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -49,7 +49,7 @@ and 8h funding settlements.*
 | ALGO perp | -2.4% |
 | XRP perp | -2.3% |
 | ATOM perp | -2.0% |
-| THETA perp | -1.1% |
+| THETA perp | -1.2% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
