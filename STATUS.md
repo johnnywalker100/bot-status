@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0413** (+4.13% since start) |
-| Peak / drawdown | 1.0572 / -1.51% |
-| Ticks recorded | 284 |
-| Last tick | 2026-08-04T09:08:02.329280+00:00 (+0.0250%) |
+| **Equity** | **1.0416** (+4.16% since start) |
+| Peak / drawdown | 1.0572 / -1.48% |
+| Ticks recorded | 285 |
+| Last tick | 2026-08-04T10:08:06.616057+00:00 (+0.0323%) |
 | Risk rails | normal (dd -1.5%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-04 08:00:00+00:00) |
+| Data source | okx (bar 2026-08-04 09:00:00+00:00) |
 | Gross leverage | 1.65x |
 | Weeks tracked | 2 |
-| Average week | +2.12% |
+| Average week | +2.14% |
 | Weeks ≥ +3% | 50% |
-| Best / worst week | +3.03% / +1.21% |
+| Best / worst week | +3.03% / +1.24% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -37,9 +37,9 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| BNB perp | -20.9% |
+| BNB perp | -21.0% |
 | SUSHI perp | -16.0% |
-| LINK perp | -14.4% |
+| LINK perp | -14.5% |
 | DOT perp | -11.2% |
 | BCH perp | -11.0% |
 | LTC perp | -10.6% |
