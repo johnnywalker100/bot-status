@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0263** (+2.63% since start) |
-| Peak / drawdown | 1.0572 / -2.93% |
-| Ticks recorded | 305 |
-| Last tick | 2026-08-05T06:10:31.423308+00:00 (-0.0965%) |
-| Risk rails | normal (dd -2.9%); blind 2.2h -> 50% size on resume |
-| Data source | okx (bar 2026-08-05 05:00:00+00:00) |
-| Gross leverage | 1.72x |
+| **Equity** | **1.0248** (+2.48% since start) |
+| Peak / drawdown | 1.0572 / -3.07% |
+| Ticks recorded | 306 |
+| Last tick | 2026-08-05T07:08:31.733528+00:00 (-0.1477%) |
+| Risk rails | normal (dd -3.1%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-05 06:00:00+00:00) |
+| Gross leverage | 1.73x |
 | Weeks tracked | 2 |
-| Average week | +1.39% |
+| Average week | +1.32% |
 | Weeks ≥ +3% | 50% |
-| Best / worst week | +3.03% / -0.25% |
+| Best / worst week | +3.03% / -0.40% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -44,7 +44,7 @@ and 8h funding settlements.*
 | DOT perp | -12.0% |
 | DOGE perp | -8.8% |
 | LTC perp | -7.2% |
-| LINK perp | -6.4% |
+| LINK perp | -6.5% |
 | XRP perp | -5.4% |
 | BTC perp | -3.2% |
 | ALGO perp | -3.0% |
