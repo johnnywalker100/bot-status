@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0277** (+2.77% since start) |
-| Peak / drawdown | 1.0572 / -2.80% |
-| Ticks recorded | 308 |
-| Last tick | 2026-08-05T09:09:24.555281+00:00 (+0.1739%) |
+| **Equity** | **1.0275** (+2.75% since start) |
+| Peak / drawdown | 1.0572 / -2.81% |
+| Ticks recorded | 309 |
+| Last tick | 2026-08-05T10:09:09.639142+00:00 (-0.0193%) |
 | Risk rails | normal (dd -2.8%); blind 2.2h -> 50% size on resume |
-| Data source | okx (bar 2026-08-05 08:00:00+00:00) |
+| Data source | okx (bar 2026-08-05 09:00:00+00:00) |
 | Gross leverage | 1.75x |
 | Weeks tracked | 2 |
-| Average week | +1.46% |
+| Average week | +1.45% |
 | Weeks ≥ +3% | 50% |
-| Best / worst week | +3.03% / -0.12% |
+| Best / worst week | +3.03% / -0.13% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,7 +26,7 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +15.4% |
+| TRX perp | +15.5% |
 | ATOM perp | +11.1% |
 | XLM perp | +10.7% |
 | ETH perp | +9.6% |
@@ -49,7 +49,7 @@ and 8h funding settlements.*
 | FIL perp | -4.0% |
 | BTC perp | -3.2% |
 | ALGO perp | -3.1% |
-| AVAX perp | -0.9% |
+| AVAX perp | -0.8% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
