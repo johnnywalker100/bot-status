@@ -9,41 +9,41 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9171** (-8.29% since start) |
-| Peak / drawdown | 1.0141 / -9.56% |
-| Ticks recorded | 318 |
-| Last tick | 2026-08-06T09:08:23.682947+00:00 (+0.4443%) |
-| Risk rails | normal (dd -9.6%) |
-| Data source | coinbase-cfm (bar 2026-08-06 08:00:00+00:00) |
-| Gross leverage | 2.82x |
+| **Equity** | **0.9226** (-7.74% since start) |
+| Peak / drawdown | 1.0141 / -9.03% |
+| Ticks recorded | 319 |
+| Last tick | 2026-08-06T10:09:13.237030+00:00 (+0.5910%) |
+| Risk rails | normal (dd -9.0%) |
+| Data source | coinbase-cfm (bar 2026-08-06 09:00:00+00:00) |
+| Gross leverage | 2.81x |
 | Weeks tracked | 2 |
-| Average week | -0.37% |
+| Average week | -0.08% |
 | Weeks >= +3% | 0% |
-| Best / worst week | +1.74% / -2.48% |
+| Best / worst week | +1.74% / -1.90% |
 
 ## Positions (weight of account / whole contracts)
 
 | Long | Size | Contracts |
 |---|---|---|
-| ETH perp | +35.4% | +17 |
-| XLM perp | +26.5% | +3 |
-| AAVE perp | +19.2% | +4 |
-| ADA perp | +10.3% | +5 |
-| SOL perp | +8.0% | +2 |
-| LTC perp | +7.4% | +3 |
-| BTC perp | +7.1% | +1 |
+| ETH perp | +35.1% | +17 |
+| XLM perp | +26.0% | +3 |
+| AAVE perp | +19.0% | +4 |
+| ADA perp | +10.2% | +5 |
+| SOL perp | +7.9% | +2 |
+| LTC perp | +7.3% | +3 |
+| BTC perp | +7.0% | +1 |
 
 | Short | Size | Contracts |
 |---|---|---|
-| DOGE perp | -38.0% | -10 |
-| BCH perp | -37.2% | -16 |
-| ZEC perp | -22.0% | -4 |
-| BNB perp | -19.4% | -3 |
-| NEAR perp | -18.6% | -2 |
-| DOT perp | -14.5% | -16 |
-| XRP perp | -11.5% | -2 |
+| DOGE perp | -37.4% | -10 |
+| BCH perp | -36.7% | -16 |
+| NEAR perp | -27.4% | -3 |
+| ZEC perp | -21.8% | -4 |
+| BNB perp | -19.3% | -3 |
+| DOT perp | -14.3% | -16 |
+| XRP perp | -5.7% | -1 |
 | LINK perp | -4.4% | -1 |
-| AVAX perp | -2.2% | -3 |
+| AVAX perp | -2.1% | -3 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
