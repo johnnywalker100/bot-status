@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0142** (+1.42% since start) |
-| Peak / drawdown | 1.0572 / -4.08% |
-| Ticks recorded | 390 |
-| Last tick | 2026-08-08T19:08:56.180177+00:00 (-0.0115%) |
+| **Equity** | **1.0136** (+1.36% since start) |
+| Peak / drawdown | 1.0572 / -4.13% |
+| Ticks recorded | 391 |
+| Last tick | 2026-08-08T20:08:26.067518+00:00 (-0.0572%) |
 | Risk rails | normal (dd -4.1%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-08 18:00:00+00:00) |
+| Data source | okx (bar 2026-08-08 19:00:00+00:00) |
 | Gross leverage | 1.69x |
 | Weeks tracked | 2 |
-| Average week | +0.80% |
+| Average week | +0.77% |
 | Weeks ≥ +3% | 50% |
-| Best / worst week | +3.03% / -1.43% |
+| Best / worst week | +3.03% / -1.49% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -42,13 +42,13 @@ and 8h funding settlements.*
 | UNI perp | -16.1% |
 | DOGE perp | -15.5% |
 | BCH perp | -14.2% |
-| BNB perp | -11.2% |
+| BNB perp | -11.3% |
 | ALGO perp | -8.1% |
 | LTC perp | -6.4% |
 | FIL perp | -6.2% |
 | LINK perp | -5.6% |
 | DOT perp | -5.2% |
-| BTC perp | -3.7% |
+| BTC perp | -3.8% |
 | ATOM perp | -1.0% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
