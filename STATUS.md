@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0128** (+1.28% since start) |
-| Peak / drawdown | 1.0572 / -4.20% |
-| Ticks recorded | 392 |
-| Last tick | 2026-08-08T21:08:23.330188+00:00 (-0.0743%) |
-| Risk rails | normal (dd -4.2%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-08 20:00:00+00:00) |
+| **Equity** | **1.0135** (+1.35% since start) |
+| Peak / drawdown | 1.0572 / -4.14% |
+| Ticks recorded | 393 |
+| Last tick | 2026-08-08T22:07:59.082615+00:00 (+0.0632%) |
+| Risk rails | normal (dd -4.1%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-08 21:00:00+00:00) |
 | Gross leverage | 1.69x |
 | Weeks tracked | 2 |
-| Average week | +0.74% |
+| Average week | +0.77% |
 | Weeks ≥ +3% | 50% |
-| Best / worst week | +3.03% / -1.56% |
+| Best / worst week | +3.03% / -1.50% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,7 +26,7 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +13.5% |
+| TRX perp | +13.6% |
 | XLM perp | +10.4% |
 | THETA perp | +9.0% |
 | XRP perp | +6.5% |
@@ -39,8 +39,8 @@ and 8h funding settlements.*
 | Contract | Size |
 |---|---|
 | SUSHI perp | -16.2% |
-| UNI perp | -16.1% |
-| DOGE perp | -15.5% |
+| UNI perp | -16.2% |
+| DOGE perp | -15.6% |
 | BCH perp | -14.2% |
 | BNB perp | -11.3% |
 | ALGO perp | -8.1% |
@@ -49,7 +49,7 @@ and 8h funding settlements.*
 | LINK perp | -5.6% |
 | DOT perp | -5.2% |
 | BTC perp | -3.8% |
-| ATOM perp | -1.0% |
+| ATOM perp | -0.9% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
