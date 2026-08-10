@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0205** (+2.05% since start) |
-| Peak / drawdown | 1.0572 / -3.47% |
-| Ticks recorded | 420 |
-| Last tick | 2026-08-10T01:08:02.625289+00:00 (-0.2549%) |
-| Risk rails | normal (dd -3.4%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-10 00:00:00+00:00) |
-| Gross leverage | 1.60x |
+| **Equity** | **1.0167** (+1.67% since start) |
+| Peak / drawdown | 1.0572 / -3.83% |
+| Ticks recorded | 421 |
+| Last tick | 2026-08-10T02:07:58.268478+00:00 (-0.3720%) |
+| Risk rails | normal (dd -3.8%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-10 01:00:00+00:00) |
+| Gross leverage | 1.59x |
 | Weeks tracked | 3 |
-| Average week | +0.74% |
+| Average week | +0.62% |
 | Weeks ≥ +3% | 33% |
 | Best / worst week | +3.03% / -1.35% |
 
@@ -39,8 +39,8 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| DOGE perp | -17.0% |
-| UNI perp | -15.6% |
+| DOGE perp | -16.9% |
+| UNI perp | -15.5% |
 | SUSHI perp | -15.3% |
 | BCH perp | -12.9% |
 | FIL perp | -11.3% |
@@ -48,7 +48,7 @@ and 8h funding settlements.*
 | BNB perp | -8.4% |
 | SOL perp | -4.7% |
 | ATOM perp | -3.0% |
-| ALGO perp | -2.1% |
+| ALGO perp | -2.2% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
