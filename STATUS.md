@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0192** (+1.92% since start) |
-| Peak / drawdown | 1.0572 / -3.60% |
-| Ticks recorded | 450 |
-| Last tick | 2026-08-11T07:08:39.402687+00:00 (+0.1842%) |
-| Risk rails | normal (dd -3.6%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-11 06:00:00+00:00) |
+| **Equity** | **1.0181** (+1.81% since start) |
+| Peak / drawdown | 1.0572 / -3.71% |
+| Ticks recorded | 451 |
+| Last tick | 2026-08-11T08:08:01.927245+00:00 (-0.1135%) |
+| Risk rails | normal (dd -3.7%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-11 07:00:00+00:00) |
 | Gross leverage | 1.69x |
 | Weeks tracked | 3 |
-| Average week | +0.70% |
+| Average week | +0.66% |
 | Weeks ≥ +3% | 33% |
 | Best / worst week | +3.03% / -1.35% |
 
@@ -26,16 +26,15 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +15.7% |
+| TRX perp | +15.8% |
 | ETH perp | +10.0% |
 | AAVE perp | +9.7% |
-| XLM perp | +9.0% |
+| XLM perp | +8.9% |
 | ETC perp | +8.4% |
 | THETA perp | +5.6% |
 | LTC perp | +2.0% |
 | XRP perp | +1.9% |
 | DOT perp | +1.3% |
-| AVAX perp | +0.5% |
 
 | Contract | Size |
 |---|---|
@@ -47,7 +46,7 @@ and 8h funding settlements.*
 | LINK perp | -8.6% |
 | SOL perp | -5.9% |
 | FIL perp | -4.8% |
-| ADA perp | -4.8% |
+| ADA perp | -4.7% |
 | ALGO perp | -3.5% |
 | ATOM perp | -2.9% |
 
