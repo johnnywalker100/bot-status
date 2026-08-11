@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0246** (+2.46% since start) |
-| Peak / drawdown | 1.0572 / -3.08% |
-| Ticks recorded | 458 |
-| Last tick | 2026-08-11T15:08:01.584296+00:00 (+0.5943%) |
-| Risk rails | normal (dd -3.1%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-11 14:00:00+00:00) |
-| Gross leverage | 1.74x |
+| **Equity** | **1.0241** (+2.41% since start) |
+| Peak / drawdown | 1.0572 / -3.14% |
+| Ticks recorded | 459 |
+| Last tick | 2026-08-11T17:08:01.601350+00:00 (-0.0564%) |
+| Risk rails | normal (dd -3.1%); blind 3.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-11 16:00:00+00:00) |
+| Gross leverage | 1.64x |
 | Weeks tracked | 3 |
-| Average week | +0.88% |
+| Average week | +0.86% |
 | Weeks ≥ +3% | 33% |
 | Best / worst week | +3.03% / -1.35% |
 
@@ -26,31 +26,31 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +15.5% |
-| AAVE perp | +10.3% |
-| ETH perp | +10.3% |
+| TRX perp | +15.1% |
+| AAVE perp | +9.4% |
 | XLM perp | +8.5% |
-| ETC perp | +5.7% |
-| THETA perp | +5.6% |
-| XRP perp | +4.8% |
-| AVAX perp | +3.4% |
+| ETH perp | +7.8% |
+| ETC perp | +7.7% |
+| XRP perp | +4.9% |
+| DOT perp | +2.1% |
 | LTC perp | +2.0% |
-| DOT perp | +1.7% |
+| THETA perp | +1.2% |
+| AVAX perp | +0.6% |
 
 | Contract | Size |
 |---|---|
-| SUSHI perp | -17.0% |
-| BNB perp | -15.2% |
-| DOGE perp | -14.3% |
-| BCH perp | -13.8% |
-| UNI perp | -13.7% |
-| LINK perp | -8.4% |
-| SOL perp | -5.7% |
-| ADA perp | -4.8% |
+| SUSHI perp | -17.5% |
+| BNB perp | -15.8% |
+| DOGE perp | -14.6% |
+| BCH perp | -14.4% |
+| UNI perp | -14.2% |
+| LINK perp | -8.9% |
+| ADA perp | -5.6% |
 | FIL perp | -4.8% |
-| ALGO perp | -3.6% |
-| ATOM perp | -2.6% |
+| ATOM perp | -3.1% |
 | BTC perp | -2.2% |
+| SOL perp | -1.7% |
+| ALGO perp | -1.4% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
