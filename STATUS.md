@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0162** (+1.62% since start) |
-| Peak / drawdown | 1.0572 / -3.89% |
-| Ticks recorded | 466 |
-| Last tick | 2026-08-12T00:08:11.420568+00:00 (+0.1614%) |
-| Risk rails | normal (dd -3.9%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-11 23:00:00+00:00) |
-| Gross leverage | 1.63x |
+| **Equity** | **1.0149** (+1.49% since start) |
+| Peak / drawdown | 1.0572 / -4.01% |
+| Ticks recorded | 467 |
+| Last tick | 2026-08-12T01:08:19.517303+00:00 (-0.1253%) |
+| Risk rails | normal (dd -4.0%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-12 00:00:00+00:00) |
+| Gross leverage | 1.61x |
 | Weeks tracked | 3 |
-| Average week | +0.60% |
+| Average week | +0.56% |
 | Weeks ≥ +3% | 33% |
 | Best / worst week | +3.03% / -1.35% |
 
@@ -26,31 +26,29 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +15.4% |
-| AAVE perp | +9.4% |
-| XLM perp | +8.5% |
-| ETH perp | +7.8% |
-| ETC perp | +7.6% |
-| XRP perp | +4.9% |
-| LTC perp | +2.1% |
-| DOT perp | +1.8% |
-| THETA perp | +1.3% |
-| AVAX perp | +0.6% |
+| TRX perp | +16.3% |
+| AAVE perp | +9.9% |
+| ETH perp | +9.0% |
+| ETC perp | +5.5% |
+| XRP perp | +5.2% |
+| AVAX perp | +3.1% |
+| SOL perp | +0.6% |
 
 | Contract | Size |
 |---|---|
-| SUSHI perp | -17.5% |
-| BNB perp | -15.8% |
-| DOGE perp | -14.4% |
-| BCH perp | -14.4% |
-| UNI perp | -14.2% |
-| LINK perp | -8.9% |
-| ADA perp | -5.6% |
-| FIL perp | -4.9% |
-| ATOM perp | -3.1% |
-| BTC perp | -2.1% |
-| SOL perp | -1.7% |
-| ALGO perp | -1.5% |
+| SUSHI perp | -17.9% |
+| BCH perp | -16.1% |
+| DOGE perp | -13.8% |
+| BNB perp | -12.2% |
+| LINK perp | -10.5% |
+| UNI perp | -9.5% |
+| ATOM perp | -8.2% |
+| FIL perp | -6.1% |
+| ADA perp | -5.3% |
+| DOT perp | -5.1% |
+| BTC perp | -3.8% |
+| THETA perp | -1.6% |
+| XLM perp | -1.0% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
