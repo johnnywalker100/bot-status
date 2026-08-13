@@ -9,15 +9,15 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9178** (-8.22% since start) |
-| Peak / drawdown | 1.0141 / -9.49% |
-| Ticks recorded | 491 |
-| Last tick | 2026-08-13T15:08:51.815273+00:00 (+0.1314%) |
-| Risk rails | normal (dd -9.5%) |
-| Data source | coinbase-cfm (bar 2026-08-13 14:00:00+00:00) |
-| Gross leverage | 2.99x |
+| **Equity** | **0.9302** (-6.98% since start) |
+| Peak / drawdown | 1.0141 / -8.27% |
+| Ticks recorded | 492 |
+| Last tick | 2026-08-13T16:13:49.652942+00:00 (+1.3512%) |
+| Risk rails | normal (dd -8.3%) |
+| Data source | coinbase-cfm (bar 2026-08-13 15:00:00+00:00) |
+| Gross leverage | 3.12x |
 | Weeks tracked | 3 |
-| Average week | -0.23% |
+| Average week | +0.22% |
 | Weeks >= +3% | 0% |
 | Best / worst week | +1.74% / -1.24% |
 
@@ -25,25 +25,25 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | Long | Size | Contracts |
 |---|---|---|
-| ETH perp | +28.8% | +14 |
-| AAVE perp | +24.1% | +5 |
-| LTC perp | +22.0% | +9 |
-| SOL perp | +12.5% | +3 |
-| XLM perp | +8.8% | +1 |
-| AVAX perp | +7.1% | +10 |
+| ETH perp | +30.3% | +15 |
+| AAVE perp | +23.4% | +5 |
+| LTC perp | +21.6% | +9 |
+| XLM perp | +17.1% | +2 |
+| SOL perp | +16.3% | +4 |
+| AVAX perp | +6.9% | +10 |
 
 | Short | Size | Contracts |
 |---|---|---|
-| DOGE perp | -38.1% | -10 |
-| BCH perp | -32.5% | -14 |
-| BTC perp | -20.8% | -3 |
-| BNB perp | -19.9% | -3 |
-| LINK perp | -19.2% | -4 |
-| NEAR perp | -18.0% | -2 |
-| DOT perp | -16.9% | -20 |
-| ADA perp | -14.0% | -7 |
-| XRP perp | -11.0% | -2 |
-| ZEC perp | -5.4% | -1 |
+| DOGE perp | -37.4% | -10 |
+| BCH perp | -31.0% | -14 |
+| LINK perp | -23.4% | -5 |
+| BTC perp | -20.4% | -3 |
+| BNB perp | -19.6% | -3 |
+| NEAR perp | -17.6% | -2 |
+| DOT perp | -17.4% | -21 |
+| ADA perp | -13.7% | -7 |
+| XRP perp | -10.8% | -2 |
+| ZEC perp | -5.2% | -1 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
