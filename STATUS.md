@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0332** (+3.32% since start) |
-| Peak / drawdown | 1.0572 / -2.28% |
-| Ticks recorded | 502 |
-| Last tick | 2026-08-13T12:08:17.387235+00:00 (-0.0000%) |
+| **Equity** | **1.0325** (+3.25% since start) |
+| Peak / drawdown | 1.0572 / -2.34% |
+| Ticks recorded | 503 |
+| Last tick | 2026-08-13T13:08:02.508561+00:00 (-0.0623%) |
 | Risk rails | normal (dd -2.3%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-13 11:00:00+00:00) |
+| Data source | okx (bar 2026-08-13 12:00:00+00:00) |
 | Gross leverage | 1.63x |
 | Weeks tracked | 3 |
-| Average week | +1.16% |
+| Average week | +1.14% |
 | Weeks ≥ +3% | 33% |
 | Best / worst week | +3.03% / -1.35% |
 
@@ -31,7 +31,7 @@ and 8h funding settlements.*
 | XLM perp | +8.2% |
 | ETH perp | +6.7% |
 | ETC perp | +5.3% |
-| ALGO perp | +5.2% |
+| ALGO perp | +5.3% |
 | AVAX perp | +3.9% |
 | SOL perp | +3.5% |
 | THETA perp | +0.9% |
@@ -45,10 +45,10 @@ and 8h funding settlements.*
 | ATOM perp | -10.3% |
 | BCH perp | -8.8% |
 | UNI perp | -8.5% |
-| FIL perp | -8.4% |
-| BTC perp | -8.0% |
+| FIL perp | -8.3% |
+| BTC perp | -7.9% |
 | ADA perp | -4.4% |
-| DOT perp | -3.2% |
+| DOT perp | -3.3% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
