@@ -9,15 +9,15 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9333** (-6.67% since start) |
-| Peak / drawdown | 1.0141 / -7.97% |
-| Ticks recorded | 520 |
-| Last tick | 2026-08-14T20:09:09.332129+00:00 (-0.8924%) |
-| Risk rails | normal (dd -8.0%) |
-| Data source | coinbase-cfm (bar 2026-08-14 19:00:00+00:00) |
-| Gross leverage | 3.05x |
+| **Equity** | **0.9298** (-7.02% since start) |
+| Peak / drawdown | 1.0141 / -8.31% |
+| Ticks recorded | 521 |
+| Last tick | 2026-08-14T22:10:01.992205+00:00 (-0.3742%) |
+| Risk rails | normal (dd -8.2%); blind 2.0h -> 50% size on resume |
+| Data source | coinbase-cfm (bar 2026-08-14 21:00:00+00:00) |
+| Gross leverage | 1.44x |
 | Weeks tracked | 3 |
-| Average week | +0.33% |
+| Average week | +0.20% |
 | Weeks >= +3% | 0% |
 | Best / worst week | +1.74% / -1.24% |
 
@@ -25,25 +25,24 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | Long | Size | Contracts |
 |---|---|---|
-| XLM perp | +25.6% | +3 |
-| AAVE perp | +23.0% | +5 |
-| ETH perp | +10.1% | +5 |
-| AVAX perp | +9.6% | +14 |
+| AAVE perp | +9.2% | +2 |
+| XLM perp | +8.5% | +1 |
+| ETH perp | +6.0% | +3 |
+| AVAX perp | +4.8% | +7 |
 
 | Short | Size | Contracts |
 |---|---|---|
-| BTC perp | -33.7% | -5 |
-| DOGE perp | -33.6% | -9 |
-| BNB perp | -32.5% | -5 |
-| NEAR perp | -25.9% | -3 |
-| LINK perp | -24.0% | -5 |
-| BCH perp | -21.8% | -10 |
-| ADA perp | -17.3% | -9 |
-| ZEC perp | -15.8% | -3 |
-| LTC perp | -14.0% | -6 |
-| DOT perp | -8.1% | -10 |
+| NEAR perp | -17.4% | -2 |
+| DOGE perp | -15.0% | -4 |
+| LINK perp | -14.4% | -3 |
+| BTC perp | -13.5% | -2 |
+| BNB perp | -13.0% | -2 |
+| BCH perp | -10.9% | -5 |
+| ADA perp | -9.6% | -5 |
+| LTC perp | -7.0% | -3 |
 | XRP perp | -5.3% | -1 |
-| SOL perp | -4.0% | -1 |
+| ZEC perp | -5.3% | -1 |
+| DOT perp | -4.1% | -5 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
