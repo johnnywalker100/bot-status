@@ -9,15 +9,15 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.9278** (-7.22% since start) |
-| Peak / drawdown | 1.0141 / -8.51% |
-| Ticks recorded | 500 |
-| Last tick | 2026-08-14T00:08:36.825891+00:00 (-0.0774%) |
-| Risk rails | normal (dd -8.5%) |
-| Data source | coinbase-cfm (bar 2026-08-13 23:00:00+00:00) |
-| Gross leverage | 3.00x |
+| **Equity** | **0.9258** (-7.42% since start) |
+| Peak / drawdown | 1.0141 / -8.71% |
+| Ticks recorded | 501 |
+| Last tick | 2026-08-14T01:10:16.583739+00:00 (-0.2173%) |
+| Risk rails | normal (dd -8.6%) |
+| Data source | coinbase-cfm (bar 2026-08-14 00:00:00+00:00) |
+| Gross leverage | 3.09x |
 | Weeks tracked | 3 |
-| Average week | +0.13% |
+| Average week | +0.06% |
 | Weeks >= +3% | 0% |
 | Best / worst week | +1.74% / -1.24% |
 
@@ -25,25 +25,25 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | Long | Size | Contracts |
 |---|---|---|
-| ETH perp | +28.4% | +14 |
+| XLM perp | +25.8% | +3 |
 | AAVE perp | +23.8% | +5 |
-| LTC perp | +21.7% | +9 |
-| SOL perp | +12.3% | +3 |
-| XLM perp | +8.6% | +1 |
-| AVAX perp | +7.0% | +10 |
+| ETH perp | +10.2% | +5 |
+| AVAX perp | +9.8% | +14 |
 
 | Short | Size | Contracts |
 |---|---|---|
-| DOGE perp | -37.8% | -10 |
-| BCH perp | -31.1% | -14 |
+| BTC perp | -34.2% | -5 |
+| DOGE perp | -34.1% | -9 |
+| BNB perp | -32.9% | -5 |
+| NEAR perp | -26.3% | -3 |
 | LINK perp | -23.9% | -5 |
-| BTC perp | -20.5% | -3 |
-| BNB perp | -19.7% | -3 |
-| NEAR perp | -17.7% | -2 |
-| DOT perp | -17.5% | -21 |
-| ADA perp | -13.8% | -7 |
-| XRP perp | -10.9% | -2 |
-| ZEC perp | -5.3% | -1 |
+| BCH perp | -22.3% | -10 |
+| ADA perp | -17.8% | -9 |
+| ZEC perp | -15.8% | -3 |
+| LTC perp | -14.5% | -6 |
+| DOT perp | -8.3% | -10 |
+| XRP perp | -5.5% | -1 |
+| SOL perp | -4.1% | -1 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
