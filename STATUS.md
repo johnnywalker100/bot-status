@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0251** (+2.51% since start) |
-| Peak / drawdown | 1.0572 / -3.04% |
-| Ticks recorded | 566 |
-| Last tick | 2026-08-16T06:07:57.191702+00:00 (+0.0549%) |
-| Risk rails | normal (dd -3.0%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-16 05:00:00+00:00) |
+| **Equity** | **1.0247** (+2.47% since start) |
+| Peak / drawdown | 1.0572 / -3.08% |
+| Ticks recorded | 567 |
+| Last tick | 2026-08-16T07:08:45.519154+00:00 (-0.0402%) |
+| Risk rails | normal (dd -3.1%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-16 06:00:00+00:00) |
 | Gross leverage | 1.81x |
 | Weeks tracked | 3 |
-| Average week | +0.89% |
+| Average week | +0.88% |
 | Weeks ≥ +3% | 33% |
 | Best / worst week | +3.03% / -1.35% |
 
@@ -42,11 +42,11 @@ and 8h funding settlements.*
 |---|---|
 | SUSHI perp | -16.9% |
 | DOGE perp | -16.3% |
-| BTC perp | -14.0% |
 | LINK perp | -14.0% |
+| BTC perp | -14.0% |
 | ATOM perp | -13.5% |
 | UNI perp | -11.3% |
-| FIL perp | -8.0% |
+| FIL perp | -7.9% |
 | LTC perp | -7.1% |
 | BNB perp | -5.3% |
 | THETA perp | -3.9% |
