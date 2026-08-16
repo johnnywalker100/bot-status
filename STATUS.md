@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0206** (+2.06% since start) |
-| Peak / drawdown | 1.0572 / -3.47% |
-| Ticks recorded | 579 |
-| Last tick | 2026-08-16T19:08:37.275966+00:00 (-0.0020%) |
-| Risk rails | normal (dd -3.5%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-16 18:00:00+00:00) |
+| **Equity** | **1.0203** (+2.03% since start) |
+| Peak / drawdown | 1.0572 / -3.50% |
+| Ticks recorded | 580 |
+| Last tick | 2026-08-16T20:09:28.811091+00:00 (-0.0322%) |
+| Risk rails | normal (dd -3.5%); blind 2.2h -> 50% size on resume |
+| Data source | okx (bar 2026-08-16 19:00:00+00:00) |
 | Gross leverage | 1.74x |
 | Weeks tracked | 3 |
-| Average week | +0.75% |
+| Average week | +0.73% |
 | Weeks ≥ +3% | 33% |
 | Best / worst week | +3.03% / -1.35% |
 
@@ -48,7 +48,7 @@ and 8h funding settlements.*
 | ATOM perp | -9.7% |
 | LTC perp | -7.0% |
 | THETA perp | -4.9% |
-| DOT perp | -3.1% |
+| DOT perp | -3.0% |
 | BNB perp | -1.9% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
