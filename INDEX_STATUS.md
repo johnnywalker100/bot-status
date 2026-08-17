@@ -9,26 +9,26 @@ turnover cost and T-bill financing.*
 
 | | |
 |---|---|
-| **Equity** | **1.0525** (+5.25% since start) |
-| Peak / drawdown | 1.0546 / -0.20% |
-| Fills recorded | 17 |
-| Last fill | 2026-08-14 (+0.1864%) |
-| Pending order | 2026-08-14 |
-| Risk rails | normal (dd -0.4%) |
+| **Equity** | **1.0511** (+5.11% since start) |
+| Peak / drawdown | 1.0546 / -0.33% |
+| Fills recorded | 18 |
+| Last fill | 2026-08-17 (-0.1358%) |
+| Pending order | none |
+| Risk rails | normal (dd -0.2%) |
 | Gross leverage | 0.65x |
-| Weeks tracked | 3 |
-| Average week | +1.70% |
-| Weeks ≥ +3% | 33% |
-| Best / worst week | +3.12% / +0.52% |
+| Weeks tracked | 4 |
+| Average week | +1.24% |
+| Weeks ≥ +3% | 25% |
+| Best / worst week | +3.12% / -0.14% |
 
 ## Positions (fraction of account, futures-notional)
 
 | Long | Size |
 |---|---|
-| MES (SPY) | +24.0% |
+| MES (SPY) | +24.2% |
 | MYM (DIA) | +13.9% |
-| MNQ (QQQ) | +13.4% |
-| M2K (IWM) | +13.4% |
+| MNQ (QQQ) | +13.5% |
+| M2K (IWM) | +13.3% |
 
 | Short | Size |
 |---|---|
