@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0290** (+2.90% since start) |
-| Peak / drawdown | 1.0572 / -2.67% |
-| Ticks recorded | 624 |
-| Last tick | 2026-08-18T16:07:58.564925+00:00 (-0.1167%) |
-| Risk rails | normal (dd -2.7%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-18 15:00:00+00:00) |
-| Gross leverage | 1.72x |
+| **Equity** | **1.0297** (+2.97% since start) |
+| Peak / drawdown | 1.0572 / -2.61% |
+| Ticks recorded | 625 |
+| Last tick | 2026-08-18T17:10:41.317269+00:00 (+0.0673%) |
+| Risk rails | normal (dd -2.6%); blind 2.2h -> 50% size on resume |
+| Data source | okx (bar 2026-08-18 16:00:00+00:00) |
+| Gross leverage | 1.77x |
 | Weeks tracked | 4 |
-| Average week | +0.76% |
+| Average week | +0.78% |
 | Weeks ≥ +3% | 25% |
 | Best / worst week | +3.03% / -1.35% |
 
@@ -26,30 +26,31 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +13.8% |
-| AAVE perp | +13.3% |
-| ALGO perp | +12.1% |
-| THETA perp | +7.2% |
-| BCH perp | +6.2% |
-| ADA perp | +6.0% |
+| ALGO perp | +14.4% |
+| TRX perp | +14.1% |
+| AAVE perp | +13.2% |
+| XLM perp | +7.0% |
+| ADA perp | +5.9% |
+| BCH perp | +5.8% |
+| THETA perp | +5.1% |
 | AVAX perp | +3.7% |
-| XLM perp | +3.2% |
-| ETC perp | +2.5% |
+| ETC perp | +3.0% |
 | SOL perp | +1.0% |
+| DOT perp | +0.9% |
 
 | Contract | Size |
 |---|---|
-| SUSHI perp | -19.5% |
-| DOGE perp | -19.0% |
-| FIL perp | -13.3% |
-| LINK perp | -11.9% |
-| LTC perp | -8.8% |
-| UNI perp | -8.5% |
-| BTC perp | -8.2% |
-| ATOM perp | -5.5% |
-| XRP perp | -3.9% |
-| ETH perp | -2.4% |
-| DOT perp | -2.4% |
+| DOGE perp | -19.1% |
+| SUSHI perp | -18.4% |
+| BTC perp | -11.2% |
+| LINK perp | -10.7% |
+| UNI perp | -9.7% |
+| FIL perp | -9.0% |
+| LTC perp | -8.7% |
+| ATOM perp | -6.7% |
+| XRP perp | -4.0% |
+| ETH perp | -2.9% |
+| BNB perp | -2.7% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
