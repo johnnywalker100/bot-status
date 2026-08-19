@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0234** (+2.34% since start) |
-| Peak / drawdown | 1.0572 / -3.20% |
-| Ticks recorded | 634 |
-| Last tick | 2026-08-19T02:10:23.776905+00:00 (-0.0114%) |
-| Risk rails | normal (dd -3.2%); blind 2.2h -> 50% size on resume |
-| Data source | okx (bar 2026-08-19 01:00:00+00:00) |
+| **Equity** | **1.0263** (+2.63% since start) |
+| Peak / drawdown | 1.0572 / -2.93% |
+| Ticks recorded | 635 |
+| Last tick | 2026-08-19T03:10:54.457449+00:00 (+0.2738%) |
+| Risk rails | normal (dd -2.9%); blind 2.2h -> 50% size on resume |
+| Data source | okx (bar 2026-08-19 02:00:00+00:00) |
 | Gross leverage | 1.68x |
 | Weeks tracked | 4 |
-| Average week | +0.63% |
+| Average week | +0.70% |
 | Weeks ≥ +3% | 25% |
 | Best / worst week | +3.03% / -1.35% |
 
@@ -26,8 +26,8 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| ALGO perp | +17.5% |
-| TRX perp | +14.1% |
+| ALGO perp | +17.6% |
+| TRX perp | +14.0% |
 | AAVE perp | +9.3% |
 | XLM perp | +7.7% |
 | BCH perp | +5.8% |
