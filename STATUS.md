@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9856** (-1.44% since start) |
-| Peak / drawdown | 1.0572 / -6.78% |
-| Ticks recorded | 664 |
-| Last tick | 2026-08-20T08:09:09.938004+00:00 (+0.1218%) |
-| Risk rails | normal (dd -6.8%); blind 2.2h -> 50% size on resume |
-| Data source | okx (bar 2026-08-20 07:00:00+00:00) |
-| Gross leverage | 1.53x |
+| **Equity** | **0.9795** (-2.05% since start) |
+| Peak / drawdown | 1.0572 / -7.35% |
+| Ticks recorded | 665 |
+| Last tick | 2026-08-20T09:08:24.368896+00:00 (-0.6128%) |
+| Risk rails | normal (dd -7.3%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-20 08:00:00+00:00) |
+| Gross leverage | 1.48x |
 | Weeks tracked | 4 |
-| Average week | -0.29% |
+| Average week | -0.44% |
 | Weeks ≥ +3% | 25% |
-| Best / worst week | +3.03% / -3.98% |
+| Best / worst week | +3.03% / -4.57% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,29 +26,30 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +15.6% |
-| ALGO perp | +10.4% |
-| AAVE perp | +9.9% |
-| XLM perp | +6.9% |
+| TRX perp | +13.7% |
+| AAVE perp | +9.2% |
+| XLM perp | +8.3% |
+| ALGO perp | +8.3% |
 | BCH perp | +5.6% |
-| ATOM perp | +5.1% |
+| ADA perp | +5.2% |
 | AVAX perp | +4.5% |
-| THETA perp | +4.4% |
-| ADA perp | +4.0% |
 | DOT perp | +2.7% |
+| THETA perp | +2.2% |
+| ATOM perp | +1.8% |
+| BNB perp | +1.0% |
 
 | Contract | Size |
 |---|---|
-| DOGE perp | -15.7% |
-| SUSHI perp | -15.1% |
-| LTC perp | -14.0% |
-| UNI perp | -10.2% |
-| BTC perp | -7.9% |
+| DOGE perp | -15.9% |
+| SUSHI perp | -15.7% |
+| LTC perp | -14.2% |
+| UNI perp | -10.6% |
+| BTC perp | -8.5% |
 | LINK perp | -6.6% |
-| XRP perp | -5.8% |
-| FIL perp | -5.5% |
-| ETC perp | -1.9% |
-| ETH perp | -1.4% |
+| XRP perp | -6.1% |
+| FIL perp | -4.5% |
+| ETC perp | -2.4% |
+| ETH perp | -1.3% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
