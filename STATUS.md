@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9747** (-2.53% since start) |
-| Peak / drawdown | 1.0572 / -7.80% |
-| Ticks recorded | 695 |
-| Last tick | 2026-08-21T15:08:12.358315+00:00 (+0.1975%) |
-| Risk rails | normal (dd -7.8%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-21 14:00:00+00:00) |
+| **Equity** | **0.9744** (-2.56% since start) |
+| Peak / drawdown | 1.0572 / -7.84% |
+| Ticks recorded | 696 |
+| Last tick | 2026-08-21T16:11:05.439742+00:00 (-0.0380%) |
+| Risk rails | normal (dd -7.8%); blind 2.2h -> 50% size on resume |
+| Data source | okx (bar 2026-08-21 15:00:00+00:00) |
 | Gross leverage | 0.98x |
 | Weeks tracked | 4 |
-| Average week | -0.56% |
+| Average week | -0.57% |
 | Weeks ≥ +3% | 25% |
-| Best / worst week | +3.03% / -5.04% |
+| Best / worst week | +3.03% / -5.07% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,9 +26,9 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +10.6% |
+| TRX perp | +10.7% |
 | ALGO perp | +8.2% |
-| AAVE perp | +6.5% |
+| AAVE perp | +6.4% |
 | DOT perp | +5.9% |
 | ATOM perp | +5.9% |
 | XLM perp | +5.2% |
@@ -44,7 +44,7 @@ and 8h funding settlements.*
 | Contract | Size |
 |---|---|
 | DOGE perp | -7.8% |
-| LTC perp | -7.4% |
+| LTC perp | -7.5% |
 | SUSHI perp | -6.9% |
 | UNI perp | -5.3% |
 | FIL perp | -4.4% |
