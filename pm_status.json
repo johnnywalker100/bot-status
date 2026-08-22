@@ -1,32 +1,37 @@
 {
-  "generated": "2026-08-02 19:50:48.630803+00:00",
+  "generated": "2026-08-22 18:10:14.590819+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 1.000272,
+  "equity": 0.827551,
   "peak": 1.000272,
-  "drawdown": 0.0,
+  "drawdown": -0.172674,
   "start": "2026-07-30 07:08:33.796300+00:00",
-  "gross_lev": 0.3439,
+  "gross_lev": 0.5942,
   "last_tick": {
-    "ts": "2026-08-02 19:50:48.630894+00:00",
+    "ts": "2026-08-22 18:10:14.590921+00:00",
     "tick_return": 0.0,
-    "equity": 1.000272,
-    "vol_scale": 0.344,
-    "risk": "11 open, hold to resolution \u00b7 dd +0.0% vs rolling 90d peak",
+    "equity": 0.827551,
+    "vol_scale": 0.594,
+    "risk": "16 open, hold to resolution \u00b7 dd -17.3% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-08-02 19:50:48.630921+00:00"
+    "asof": "2026-08-22 18:10:14.590957+00:00"
   },
   "positions": {
-    "NO BTC touch\u2193$45,000 0.76\u21920.75": -0.0172,
-    "NO BTC touch\u2193$35,000 0.91\u21920.90": -0.0121,
-    "NO BTC touch\u2193$50,000 0.66\u21920.66": -0.0075,
-    "NO BTC touch\u2193$40,000 0.87\u21920.84": -0.0319,
-    "NO SOL touch\u2193$40 0.76\u21920.73": -0.0409,
-    "NO BTC touch\u2191$75,000 0.51\u21920.50": -0.0198,
-    "NO SOL touch\u2191$160 0.90\u21920.92": 0.0187,
-    "NO BTC touch\u2191$90,000 0.84\u21920.83": -0.0118,
-    "NO ETH touch\u2191$3,500 0.89\u21920.89": -0.0042,
-    "NO ETH touch\u2193$1,000 0.88\u21920.86": -0.0254,
-    "NO SOL touch\u2193$60 0.43\u21920.28": -0.3362
+    "NO BTC touch\u2193$45,000 0.76\u21920.88": 0.1532,
+    "NO BTC touch\u2193$35,000 0.91\u21920.93": 0.0208,
+    "NO BTC touch\u2193$50,000 0.66\u21920.82": 0.2331,
+    "NO BTC touch\u2193$40,000 0.87\u21920.90": 0.0372,
+    "NO SOL touch\u2193$40 0.76\u21920.93": 0.2218,
+    "NO SOL touch\u2191$160 0.90\u21920.82": -0.092,
+    "NO BTC touch\u2191$90,000 0.84\u21920.57": -0.3213,
+    "NO ETH touch\u2191$3,500 0.89\u21920.73": -0.1833,
+    "NO ETH touch\u2193$1,000 0.88\u21920.93": 0.0539,
+    "NO SOL touch\u2193$60 0.51\u21920.74": 0.4393,
+    "NO ETH touch\u2193$1,250 0.79\u21920.91": 0.1587,
+    "NO ETH touch\u2193$1,500 0.56\u21920.82": 0.4612,
+    "NO BTC touch\u2193$57,500 0.84\u21920.99": 0.1752,
+    "NO SOL touch\u2193$50 0.86\u21920.83": -0.0319,
+    "NO SOL touch\u2191$110 0.84\u21920.69": -0.1779,
+    "NO SOL touch\u2191$120 0.91\u21920.89": -0.0163
   },
   "positions_detail": [
     {
@@ -35,8 +40,8 @@
       "band": "touch\u2193$45,000",
       "collat": 400.0,
       "entry": 0.763,
-      "mark": 0.75,
-      "upnl": -0.0172,
+      "mark": 0.88,
+      "upnl": 0.1532,
       "verdict": null,
       "obs_max": null
     },
@@ -46,8 +51,8 @@
       "band": "touch\u2193$35,000",
       "collat": 400.0,
       "entry": 0.911,
-      "mark": 0.9,
-      "upnl": -0.0121,
+      "mark": 0.93,
+      "upnl": 0.0208,
       "verdict": null,
       "obs_max": null
     },
@@ -57,8 +62,8 @@
       "band": "touch\u2193$50,000",
       "collat": 400.0,
       "entry": 0.665,
-      "mark": 0.66,
-      "upnl": -0.0075,
+      "mark": 0.82,
+      "upnl": 0.2331,
       "verdict": null,
       "obs_max": null
     },
@@ -68,8 +73,8 @@
       "band": "touch\u2193$40,000",
       "collat": 400.0,
       "entry": 0.868,
-      "mark": 0.84,
-      "upnl": -0.0319,
+      "mark": 0.9,
+      "upnl": 0.0372,
       "verdict": null,
       "obs_max": null
     },
@@ -79,19 +84,8 @@
       "band": "touch\u2193$40",
       "collat": 400.0,
       "entry": 0.761,
-      "mark": 0.73,
-      "upnl": -0.0409,
-      "verdict": null,
-      "obs_max": null
-    },
-    {
-      "side": "NO",
-      "city": "BTC",
-      "band": "touch\u2191$75,000",
-      "collat": 192.5,
-      "entry": 0.51,
-      "mark": 0.5,
-      "upnl": -0.0198,
+      "mark": 0.93,
+      "upnl": 0.2218,
       "verdict": null,
       "obs_max": null
     },
@@ -101,8 +95,8 @@
       "band": "touch\u2191$160",
       "collat": 400.0,
       "entry": 0.903,
-      "mark": 0.92,
-      "upnl": 0.0187,
+      "mark": 0.82,
+      "upnl": -0.092,
       "verdict": null,
       "obs_max": null
     },
@@ -112,8 +106,8 @@
       "band": "touch\u2191$90,000",
       "collat": 7.5,
       "entry": 0.84,
-      "mark": 0.83,
-      "upnl": -0.0118,
+      "mark": 0.57,
+      "upnl": -0.3213,
       "verdict": null,
       "obs_max": null
     },
@@ -123,8 +117,8 @@
       "band": "touch\u2191$3,500",
       "collat": 400.0,
       "entry": 0.894,
-      "mark": 0.89,
-      "upnl": -0.0042,
+      "mark": 0.73,
+      "upnl": -0.1833,
       "verdict": null,
       "obs_max": null
     },
@@ -134,8 +128,8 @@
       "band": "touch\u2193$1,000",
       "collat": 400.0,
       "entry": 0.882,
-      "mark": 0.86,
-      "upnl": -0.0254,
+      "mark": 0.93,
+      "upnl": 0.0539,
       "verdict": null,
       "obs_max": null
     },
@@ -143,10 +137,76 @@
       "side": "NO",
       "city": "SOL",
       "band": "touch\u2193$60",
-      "collat": 39.51,
-      "entry": 0.426,
-      "mark": 0.283,
-      "upnl": -0.3362,
+      "collat": 313.82,
+      "entry": 0.512,
+      "mark": 0.737,
+      "upnl": 0.4393,
+      "verdict": null,
+      "obs_max": null
+    },
+    {
+      "side": "NO",
+      "city": "ETH",
+      "band": "touch\u2193$1,250",
+      "collat": 400.0,
+      "entry": 0.785,
+      "mark": 0.91,
+      "upnl": 0.1587,
+      "verdict": null,
+      "obs_max": null
+    },
+    {
+      "side": "NO",
+      "city": "ETH",
+      "band": "touch\u2193$1,500",
+      "collat": 400.0,
+      "entry": 0.56,
+      "mark": 0.818,
+      "upnl": 0.4612,
+      "verdict": null,
+      "obs_max": null
+    },
+    {
+      "side": "NO",
+      "city": "BTC",
+      "band": "touch\u2193$57,500",
+      "collat": 400.0,
+      "entry": 0.84,
+      "mark": 0.987,
+      "upnl": 0.1752,
+      "verdict": null,
+      "obs_max": null
+    },
+    {
+      "side": "NO",
+      "city": "SOL",
+      "band": "touch\u2193$50",
+      "collat": 53.0,
+      "entry": 0.857,
+      "mark": 0.83,
+      "upnl": -0.0319,
+      "verdict": null,
+      "obs_max": null
+    },
+    {
+      "side": "NO",
+      "city": "SOL",
+      "band": "touch\u2191$110",
+      "collat": 95.49,
+      "entry": 0.843,
+      "mark": 0.693,
+      "upnl": -0.1779,
+      "verdict": null,
+      "obs_max": null
+    },
+    {
+      "side": "NO",
+      "city": "SOL",
+      "band": "touch\u2191$120",
+      "collat": 47.74,
+      "entry": 0.906,
+      "mark": 0.891,
+      "upnl": -0.0163,
       "verdict": null,
       "obs_max": null
     }
@@ -155,345 +215,21 @@
     {
       "d": "2026-08-01",
       "pnl": 2.72
+    },
+    {
+      "d": "2026-08-19",
+      "pnl": -1117.27
+    },
+    {
+      "d": "2026-08-21",
+      "pnl": -265.0
+    },
+    {
+      "d": "2026-08-22",
+      "pnl": -344.95
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-30 07:08:33.796300+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "desk opened",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 08:07:28.821995+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 08:14:27.257401+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 09:18:58.187439+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 10:25:37.354332+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 11:32:15.311695+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 12:38:51.697528+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 13:40:57.196021+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 14:47:33.246076+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 15:57:15.757765+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 17:03:48.868732+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 18:10:29.679761+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 19:16:22.379734+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 20:23:02.740593+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 21:29:41.284654+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 22:36:19.162887+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-30 23:42:59.472196+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 00:49:42.281306+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 01:56:26.027590+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 03:03:11.440641+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 04:09:59.242777+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 05:14:44.634367+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 06:16:37.255382+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 07:21:22.792392+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 08:26:10.614430+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 09:30:58.370678+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 10:35:48.780137+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 11:40:39.262314+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 12:45:26.975777+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 13:50:19.806184+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 14:55:10.129450+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 16:00:00.400588+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 17:04:50.841721+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 18:09:38.531218+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 19:14:26.527302+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 20:19:17.131594+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 21:24:07.409333+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 22:28:58.207903+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-07-31 23:33:50.967262+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-08-01 00:38:44.010740+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-08-01 01:43:36.729165+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-08-01 02:48:29.625159+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-08-01 03:48:47.207364+00:00",
-      "ret": 0.0,
-      "equity": 1.0,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-08-01 05:53:17.462931+00:00",
-      "ret": 0.000272,
-      "equity": 1.000272,
-      "risk": "settled WIN +3$",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-08-01 06:54:08.622339+00:00",
-      "ret": 0.0,
-      "equity": 1.000272,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-08-01 07:58:28.859299+00:00",
-      "ret": 0.0,
-      "equity": 1.000272,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-08-01 09:02:49.041740+00:00",
-      "ret": 0.0,
-      "equity": 1.000272,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
-    {
-      "ts": "2026-08-01 10:07:09.181359+00:00",
-      "ret": 0.0,
-      "equity": 1.000272,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
     {
       "ts": "2026-08-01 11:11:34.346804+00:00",
       "ret": 0.0,
@@ -703,6 +439,2596 @@
       "equity": 1.000272,
       "risk": "hold to resolution",
       "vol_scale": null
+    },
+    {
+      "ts": "2026-08-02 20:20:54.569282+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-02 21:25:20.129142+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-02 22:29:45.570544+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-02 23:36:05.720444+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 00:40:32.002340+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 01:45:11.450324+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 02:49:39.166172+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 03:54:07.131491+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 04:58:39.985169+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 06:14:02.171154+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 07:18:40.701065+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 10:31:10.644046+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 11:38:30.115903+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 12:43:27.847651+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 14:48:23.892721+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 15:53:11.712063+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 16:57:59.580444+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 18:03:10.442760+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 19:09:51.157166+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 21:17:18.481048+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 22:24:15.130274+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-03 23:30:19.734598+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 00:36:38.600824+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 01:40:14.114178+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 02:48:27.281763+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 03:52:25.575055+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 06:01:25.250551+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 07:06:22.763743+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 08:13:47.475207+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 09:19:09.995981+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 11:25:03.602550+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 12:30:30.598757+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 13:38:17.289832+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 14:44:25.330624+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 15:46:08.621637+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 16:54:55.980210+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 18:00:33.792681+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 19:07:08.896870+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 20:14:45.561502+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 21:25:21.407630+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 22:30:44.866896+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-04 23:35:25.141384+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 01:45:21.072156+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 03:48:54.640301+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 04:56:19.899169+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 07:04:19.174404+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 09:10:32.658677+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 11:15:49.153950+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 12:19:26.981563+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 14:21:08.393781+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 15:29:02.340513+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 16:34:33.990761+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 17:41:17.767145+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 18:47:35.023672+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 19:56:58.128081+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 21:03:57.859332+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 22:09:35.587213+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-05 23:17:00.231560+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 00:24:45.480082+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 01:29:52.442136+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 02:37:16.347468+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 03:42:31.535290+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 05:50:28.391424+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 06:59:46.539322+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 08:05:53.534017+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 10:16:05.557640+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 11:22:16.708293+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 13:28:42.731301+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 14:35:06.370314+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 15:43:35.447879+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 16:49:01.936955+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 17:55:41.827494+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 19:01:44.318009+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 20:12:58.530609+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 21:19:49.964913+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 22:21:49.107819+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-06 23:28:16.415006+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 00:31:46.168145+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 01:36:23.472839+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 02:42:29.704773+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 04:50:35.711155+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 05:58:38.325286+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 07:06:38.358180+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 08:14:07.937037+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 09:20:40.768673+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 10:28:28.801928+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 11:35:12.146046+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 12:41:49.385873+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 13:46:10.591493+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 14:53:24.529667+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 15:59:22.312223+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 17:06:43.393189+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 18:13:11.365204+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 19:22:06.824259+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 20:28:41.842723+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 21:35:16.228165+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-07 22:42:27.725188+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 00:51:38.166512+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 01:59:05.131814+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 03:05:48.349016+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 05:13:30.555813+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 06:20:08.838243+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 07:26:56.043729+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 08:33:49.342536+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 09:40:38.171234+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 10:46:50.287683+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 11:54:36.318705+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 13:00:39.665312+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 14:06:45.191089+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 15:13:43.277226+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 16:19:58.201494+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 17:25:38.477551+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 18:31:45.643673+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 19:39:46.851323+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 20:45:27.193433+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 21:51:35.207464+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-08 22:57:32.278191+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 01:04:50.822591+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 02:11:27.600739+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 03:18:15.112922+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 04:25:04.316165+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 05:30:49.626245+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 06:37:15.690752+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 07:43:01.027424+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 08:48:46.354284+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 09:54:31.628670+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 11:00:17.139165+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 12:06:00.153533+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 13:11:43.140952+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 14:17:25.935987+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 15:23:06.243403+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 16:28:46.567463+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 17:34:29.408194+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 18:40:12.260149+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 19:45:52.678596+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 20:51:33.037816+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 21:57:13.359394+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-09 23:02:53.694835+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 00:08:36.662516+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 01:14:29.414154+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 02:20:34.785459+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 03:26:37.588179+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 04:32:40.442572+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 05:38:43.484041+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 06:44:46.526675+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 07:50:49.392715+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 08:56:57.657431+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 10:03:00.365442+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 11:09:03.275838+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 12:15:06.170165+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 13:21:08.942851+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 14:27:14.361243+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 15:33:19.604334+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 16:39:24.899784+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 17:45:30.211769+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 18:51:38.097893+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 19:57:45.921972+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 21:03:53.883460+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 22:10:01.699354+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-10 23:16:09.710824+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 00:22:17.412648+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 01:28:22.746569+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 02:34:30.752727+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 03:40:43.487387+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 04:46:53.832163+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 05:53:04.208215+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 06:59:14.767713+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 08:05:27.756520+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 09:11:41.284341+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 10:17:54.162374+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 11:24:14.474955+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 12:30:32.357057+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 13:36:50.218149+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 14:43:10.646243+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 15:49:26.061153+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 16:55:41.398867+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 18:02:02.316964+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 19:08:19.834939+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 20:12:05.168751+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 21:18:23.167963+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 22:25:20.535393+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-11 23:31:33.443958+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 01:38:48.350039+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 03:47:51.069395+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 04:52:31.091328+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 05:59:35.545258+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 07:06:56.645176+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 08:13:12.038989+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 09:19:27.316218+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 10:25:45.134573+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 11:32:03.006345+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 12:38:20.886860+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 13:45:01.978422+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 14:51:19.238207+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 16:59:14.849129+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 18:05:53.407945+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 19:12:13.746822+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 20:18:39.065061+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 21:26:41.842637+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 22:33:14.286798+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-12 23:39:39.696762+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 00:48:52.769961+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 01:55:20.634870+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 03:02:50.318396+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 04:09:17.812027+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 05:15:43.477029+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 06:22:11.924143+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 07:26:48.282794+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 08:33:13.571291+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 09:39:41.467660+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 10:46:11.994246+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 11:52:42.316148+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 12:59:15.198932+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 14:05:48.247035+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 15:13:51.145968+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 16:20:24.227234+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 17:27:00.242126+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 18:33:37.981017+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 19:40:59.550962+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 20:50:06.548892+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 21:58:23.230566+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-13 23:12:16.521198+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 00:21:44.796009+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 02:34:20.065371+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 04:44:20.811142+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 05:50:51.337689+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 06:56:56.547168+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 08:06:03.156789+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 12:30:35.909647+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 14:45:00.095871+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 15:51:03.452179+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 17:00:15.708622+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 18:11:19.568782+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 19:19:18.028215+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 20:24:00.700836+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 22:33:42.817317+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-14 23:44:16.654707+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 00:53:57.445392+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 02:02:02.341929+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 03:06:25.931168+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 04:20:11.621920+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 05:26:56.647900+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 06:37:07.763163+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 07:46:17.904077+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 08:52:45.180020+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 09:57:27.972356+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 11:06:53.032162+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 12:17:43.278813+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 13:26:08.332607+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 14:31:53.669190+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 15:41:10.973437+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 16:50:31.670978+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 17:58:49.415882+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 19:06:09.029146+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 20:15:40.897760+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 22:27:40.884695+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-15 23:35:08.958078+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 00:40:08.124594+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 01:45:13.385516+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 02:56:44.156743+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 04:01:53.482138+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 07:16:57.734756+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 08:25:04.205999+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 09:33:59.335149+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 11:41:42.247032+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 12:51:46.022500+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 14:01:15.429862+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 15:06:03.354585+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 16:18:48.482535+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 18:32:28.258725+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 19:42:42.803586+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 20:49:38.414185+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-16 22:56:55.650251+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 00:06:32.555304+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 02:20:54.502469+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 03:27:24.435415+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 04:35:35.268942+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 05:42:49.276154+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 06:46:30.456420+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 07:54:14.335144+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 10:04:04.681420+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 11:14:15.090461+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 12:22:42.882672+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 13:29:02.867411+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 15:38:40.086414+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 16:51:06.859138+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 18:00:08.032614+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 19:08:11.120396+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 20:15:16.055172+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 21:20:42.075063+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 22:27:11.637669+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-17 23:34:41.027156+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 00:42:07.365684+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 01:50:41.896212+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 03:00:03.634816+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 04:06:10.508072+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 05:15:29.732154+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 06:24:09.690640+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 07:31:50.845156+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 08:37:26.053176+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 09:47:18.067543+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 10:53:45.200163+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 12:02:23.768031+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 13:12:00.382053+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 14:17:48.478550+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 15:25:18.798245+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 17:41:01.138618+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 18:51:01.301734+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 19:57:01.987547+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 21:04:52.027580+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 22:16:58.855964+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-18 23:24:06.423207+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 00:29:43.418304+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 01:33:39.323940+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 06:58:32.886167+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 08:07:09.877165+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 09:15:41.956263+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 10:26:24.409501+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 11:31:37.331299+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 13:42:35.156185+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 14:46:47.009034+00:00",
+      "ret": 0.0,
+      "equity": 1.000272,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 16:56:26.148404+00:00",
+      "ret": -0.111697,
+      "equity": 0.888545,
+      "risk": "settled LOSS -317$",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 19:04:44.209995+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 22:14:04.303415+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-19 23:18:40.435841+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 00:23:58.733802+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 01:35:39.431238+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 02:43:23.935999+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 04:54:24.374551+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 06:02:56.652924+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 07:06:47.357314+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 10:17:38.942999+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 12:25:32.533198+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 14:35:18.854079+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 15:44:56.389957+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 17:56:09.146692+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 19:01:26.291674+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 20:10:01.097284+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 21:17:17.730930+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-20 23:25:00.792198+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 00:36:12.733022+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 01:42:36.463453+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 02:52:38.394067+00:00",
+      "ret": 0.0,
+      "equity": 0.888545,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 04:02:30.271173+00:00",
+      "ret": -0.021664,
+      "equity": 0.869296,
+      "risk": "settled LOSS -192$",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 06:13:01.488132+00:00",
+      "ret": 0.0,
+      "equity": 0.869296,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 08:25:30.952928+00:00",
+      "ret": 0.0,
+      "equity": 0.869296,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 09:32:05.957692+00:00",
+      "ret": -0.008341,
+      "equity": 0.862045,
+      "risk": "settled LOSS -72$",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 10:38:46.227525+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 12:45:12.950176+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 13:55:31.331651+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 17:05:48.754814+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 18:12:33.050579+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 19:22:28.872160+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 20:26:33.396194+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-21 22:40:47.950302+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 01:53:16.840437+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 03:02:33.812450+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 04:11:28.489650+00:00",
+      "ret": 0.0,
+      "equity": 0.862045,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 05:15:20.232871+00:00",
+      "ret": -0.040014,
+      "equity": 0.827551,
+      "risk": "settled LOSS -345$",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 06:19:08.683338+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 07:25:06.304496+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 08:30:14.973923+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 09:36:32.735872+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 10:40:52.135294+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 11:48:39.498717+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 12:52:17.535464+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 13:56:42.958508+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 15:05:09.659150+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 16:10:05.023096+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
+    },
+    {
+      "ts": "2026-08-22 17:19:59.946777+00:00",
+      "ret": 0.0,
+      "equity": 0.827551,
+      "risk": "hold to resolution",
+      "vol_scale": null
     }
   ],
   "weekly": [],
@@ -750,13 +3076,13 @@
   "research": {
     "quant": {
       "live": {
-        "fills": 31,
-        "open": 11,
-        "open_collat": 3439.51,
-        "settled": 1,
+        "fills": 60,
+        "open": 16,
+        "open_collat": 4917.56,
+        "settled": 7,
         "won": 1,
-        "realised_pnl": 2.72,
-        "dd_now": 0.0,
+        "realised_pnl": -1724.5,
+        "dd_now": -0.1727,
         "hedges": {}
       },
       "backtest": {
@@ -817,18 +3143,18 @@
       "capture_needed_for_5pct_month": 0.04
     },
     "engine": {
-      "fills": 31,
-      "settled": 1,
+      "fills": 60,
+      "settled": 7,
       "won": 1,
-      "lost": 0,
-      "realised_pnl": 2.72,
-      "pace_per_month": 0.0023,
+      "lost": 6,
+      "realised_pnl": -1724.5,
+      "pace_per_month": -0.2235,
       "goal_per_month": 0.034,
-      "open_collat": 3439.51,
-      "open_marked": 3374.11,
-      "open_marked_collat": 3439.51,
-      "marks_done": 11,
-      "open_count": 11,
+      "open_collat": 4917.56,
+      "open_marked": 5529.55,
+      "open_marked_collat": 4917.56,
+      "marks_done": 16,
+      "open_count": 16,
       "decided_won": 0,
       "decided_lost": 0
     },
@@ -859,7 +3185,10 @@
         "rebate_full": 1.95
       },
       "c_per_share": -2.4973,
-      "verdict": "not viable at this quote policy"
+      "verdict": "not viable at this quote policy",
+      "final": true,
+      "recorded_through": "2026-08-02T19:50Z",
+      "note": "recorder retired 2026-08-22; verdict reached at 8.5x the fill bar"
     },
     "scorecard": [
       {
