@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9767** (-2.33% since start) |
-| Peak / drawdown | 1.0572 / -7.62% |
-| Ticks recorded | 721 |
-| Last tick | 2026-08-22T17:09:09.814771+00:00 (+0.4905%) |
-| Risk rails | normal (dd -7.6%); blind 2.2h -> 50% size on resume |
-| Data source | okx (bar 2026-08-22 16:00:00+00:00) |
-| Gross leverage | 0.50x |
+| **Equity** | **0.9781** (-2.19% since start) |
+| Peak / drawdown | 1.0572 / -7.49% |
+| Ticks recorded | 722 |
+| Last tick | 2026-08-22T18:09:24.004775+00:00 (+0.1442%) |
+| Risk rails | normal (dd -7.5%); blind 2.2h -> 50% size on resume |
+| Data source | okx (bar 2026-08-22 17:00:00+00:00) |
+| Gross leverage | 0.49x |
 | Weeks tracked | 4 |
-| Average week | -0.51% |
+| Average week | -0.47% |
 | Weeks ≥ +3% | 25% |
-| Best / worst week | +3.03% / -4.85% |
+| Best / worst week | +3.03% / -4.71% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -46,7 +46,7 @@ and 8h funding settlements.*
 | Contract | Size |
 |---|---|
 | UNI perp | -2.9% |
-| LTC perp | -2.3% |
+| LTC perp | -2.2% |
 | FIL perp | -0.6% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
