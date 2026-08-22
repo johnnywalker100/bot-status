@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9965** (-0.35% since start) |
-| Peak / drawdown | 1.0572 / -5.75% |
-| Ticks recorded | 708 |
-| Last tick | 2026-08-22T04:07:56.262514+00:00 (+0.1106%) |
-| Risk rails | normal (dd -5.7%); blind 2.1h -> 50% size on resume |
-| Data source | okx (bar 2026-08-22 03:00:00+00:00) |
-| Gross leverage | 0.79x |
+| **Equity** | **1.0080** (+0.80% since start) |
+| Peak / drawdown | 1.0572 / -4.66% |
+| Ticks recorded | 709 |
+| Last tick | 2026-08-22T05:08:34.965077+00:00 (+1.1557%) |
+| Risk rails | normal (dd -4.7%); blind 2.1h -> 50% size on resume |
+| Data source | okx (bar 2026-08-22 04:00:00+00:00) |
+| Gross leverage | 0.76x |
 | Weeks tracked | 4 |
-| Average week | -0.03% |
+| Average week | +0.25% |
 | Weeks ≥ +3% | 25% |
-| Best / worst week | +3.03% / -2.92% |
+| Best / worst week | +3.03% / -1.79% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,30 +26,30 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| ALGO perp | +9.4% |
-| TRX perp | +8.8% |
-| DOT perp | +6.4% |
-| XLM perp | +5.6% |
-| AAVE perp | +5.1% |
-| BTC perp | +4.8% |
-| ATOM perp | +4.8% |
-| BCH perp | +3.5% |
-| LINK perp | +3.5% |
-| SOL perp | +2.8% |
-| ADA perp | +2.8% |
-| THETA perp | +2.3% |
-| ETC perp | +2.2% |
+| ALGO perp | +9.0% |
+| TRX perp | +8.4% |
+| DOT perp | +6.2% |
+| XLM perp | +5.4% |
+| AAVE perp | +4.8% |
+| BTC perp | +4.7% |
+| ATOM perp | +4.6% |
+| LINK perp | +3.4% |
+| BCH perp | +3.2% |
+| SOL perp | +2.7% |
+| ADA perp | +2.6% |
+| THETA perp | +2.2% |
+| ETC perp | +2.1% |
 | ETH perp | +1.9% |
-| XRP perp | +1.4% |
+| XRP perp | +1.3% |
 | SUSHI perp | +0.7% |
 | DOGE perp | +0.6% |
 
 | Contract | Size |
 |---|---|
-| LTC perp | -6.5% |
-| UNI perp | -4.2% |
-| FIL perp | -1.1% |
-| AVAX perp | -0.8% |
+| LTC perp | -6.2% |
+| UNI perp | -4.0% |
+| FIL perp | -1.0% |
+| AVAX perp | -0.9% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
