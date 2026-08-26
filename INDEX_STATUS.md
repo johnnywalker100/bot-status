@@ -13,7 +13,7 @@ turnover cost and T-bill financing.*
 | Peak / drawdown | 1.0546 / -1.67% |
 | Fills recorded | 25 |
 | Last fill | 2026-08-26 (-0.1796%) |
-| Pending order | none |
+| Pending order | 2026-08-26 |
 | Risk rails | normal (dd -1.5%) |
 | Gross leverage | 0.67x |
 | Weeks tracked | 5 |
