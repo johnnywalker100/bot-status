@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9502** (-4.98% since start) |
-| Peak / drawdown | 1.0572 / -10.13% |
-| Ticks recorded | 937 |
-| Last tick | 2026-08-31T17:08:16.891672+00:00 (-0.0424%) |
-| Risk rails | normal (dd -10.1%) |
-| Data source | okx (bar 2026-08-31 16:00:00+00:00) |
-| Gross leverage | 0.46x |
+| **Equity** | **0.9517** (-4.83% since start) |
+| Peak / drawdown | 1.0572 / -9.98% |
+| Ticks recorded | 939 |
+| Last tick | 2026-08-31T19:07:59.985057+00:00 (+0.0165%) |
+| Risk rails | normal (dd -10.0%) |
+| Data source | okx (bar 2026-08-31 18:00:00+00:00) |
+| Gross leverage | 0.47x |
 | Weeks tracked | 6 |
-| Average week | -0.79% |
+| Average week | -0.77% |
 | Weeks ≥ +3% | 17% |
 | Best / worst week | +3.03% / -4.65% |
 
@@ -26,8 +26,8 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| ALGO perp | +6.3% |
-| TRX perp | +6.1% |
+| ALGO perp | +6.4% |
+| TRX perp | +6.2% |
 | ATOM perp | +4.9% |
 | ETC perp | +2.7% |
 | DOT perp | +2.3% |
@@ -40,11 +40,12 @@ and 8h funding settlements.*
 | FIL perp | +1.1% |
 | THETA perp | +0.8% |
 | XRP perp | +0.8% |
+| UNI perp | +0.5% |
 
 | Contract | Size |
 |---|---|
-| SUSHI perp | -5.3% |
-| ADA perp | -3.8% |
+| SUSHI perp | -5.2% |
+| ADA perp | -3.9% |
 | LTC perp | -3.4% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
