@@ -9,15 +9,15 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.8791** (-12.09% since start) |
-| Peak / drawdown | 1.0141 / -13.31% |
-| Ticks recorded | 917 |
-| Last tick | 2026-08-31T12:08:20.033619+00:00 (-0.0302%) |
-| Risk rails | brake: drawdown -13.3% <= -12%, half size |
-| Data source | coinbase-cfm (bar 2026-08-31 11:00:00+00:00) |
-| Gross leverage | 0.13x |
+| **Equity** | **0.8786** (-12.14% since start) |
+| Peak / drawdown | 1.0141 / -13.37% |
+| Ticks recorded | 918 |
+| Last tick | 2026-08-31T13:08:15.351847+00:00 (-0.0658%) |
+| Risk rails | brake: drawdown -13.4% <= -12%, half size |
+| Data source | coinbase-cfm (bar 2026-08-31 12:00:00+00:00) |
+| Gross leverage | 0.15x |
 | Weeks tracked | 6 |
-| Average week | -0.82% |
+| Average week | -0.83% |
 | Weeks >= +3% | 0% |
 | Best / worst week | +1.74% / -2.88% |
 
@@ -32,7 +32,7 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | Short | Size | Contracts |
 |---|---|---|
-| (none) | | |
+| ADA perp | -2.2% | -1 |
 
 *Every position is an integer number of CDE contracts at the configured
 account size - exactly what a live account could hold.*
