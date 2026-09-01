@@ -9,11 +9,11 @@ and 8h funding settlements.*
 | | |
 |---|---|
 | **Equity** | **0.9506** (-4.94% since start) |
-| Peak / drawdown | 1.0572 / -10.08% |
-| Ticks recorded | 943 |
-| Last tick | 2026-08-31T23:08:32.761499+00:00 (-0.1047%) |
+| Peak / drawdown | 1.0572 / -10.09% |
+| Ticks recorded | 944 |
+| Last tick | 2026-09-01T00:08:14.767677+00:00 (-0.0092%) |
 | Risk rails | normal (dd -10.1%) |
-| Data source | okx (bar 2026-08-31 22:00:00+00:00) |
+| Data source | okx (bar 2026-08-31 23:00:00+00:00) |
 | Gross leverage | 0.47x |
 | Weeks tracked | 6 |
 | Average week | -0.79% |
@@ -44,7 +44,7 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| SUSHI perp | -5.2% |
+| SUSHI perp | -5.3% |
 | ADA perp | -3.9% |
 | LTC perp | -3.4% |
 
