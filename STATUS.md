@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9517** (-4.83% since start) |
-| Peak / drawdown | 1.0572 / -9.99% |
-| Ticks recorded | 986 |
-| Last tick | 2026-09-02T18:07:59.705355+00:00 (+0.1186%) |
+| **Equity** | **0.9519** (-4.81% since start) |
+| Peak / drawdown | 1.0572 / -9.97% |
+| Ticks recorded | 987 |
+| Last tick | 2026-09-02T19:07:58.658329+00:00 (+0.0208%) |
 | Risk rails | normal (dd -10.0%) |
-| Data source | okx (bar 2026-09-02 17:00:00+00:00) |
+| Data source | okx (bar 2026-09-02 18:00:00+00:00) |
 | Gross leverage | 0.42x |
 | Weeks tracked | 6 |
-| Average week | -0.77% |
+| Average week | -0.76% |
 | Weeks ≥ +3% | 17% |
 | Best / worst week | +3.03% / -4.65% |
 
@@ -26,7 +26,7 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| SOL perp | +4.9% |
+| SOL perp | +5.0% |
 | ATOM perp | +4.9% |
 | ALGO perp | +4.7% |
 | BNB perp | +3.6% |
@@ -47,7 +47,7 @@ and 8h funding settlements.*
 | Contract | Size |
 |---|---|
 | ADA perp | -3.8% |
-| LTC perp | -3.4% |
+| LTC perp | -3.5% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
