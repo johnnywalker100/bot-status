@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9538** (-4.62% since start) |
-| Peak / drawdown | 1.0572 / -9.78% |
-| Ticks recorded | 974 |
-| Last tick | 2026-09-02T06:07:53.309235+00:00 (-0.0264%) |
+| **Equity** | **0.9531** (-4.69% since start) |
+| Peak / drawdown | 1.0572 / -9.85% |
+| Ticks recorded | 975 |
+| Last tick | 2026-09-02T07:07:57.603697+00:00 (-0.0745%) |
 | Risk rails | normal (dd -9.8%) |
-| Data source | okx (bar 2026-09-02 05:00:00+00:00) |
+| Data source | okx (bar 2026-09-02 06:00:00+00:00) |
 | Gross leverage | 0.42x |
 | Weeks tracked | 6 |
-| Average week | -0.73% |
+| Average week | -0.74% |
 | Weeks ≥ +3% | 17% |
 | Best / worst week | +3.03% / -4.65% |
 
@@ -31,7 +31,7 @@ and 8h funding settlements.*
 | ALGO perp | +4.6% |
 | BNB perp | +3.6% |
 | ETC perp | +2.7% |
-| DOT perp | +2.4% |
+| DOT perp | +2.3% |
 | AAVE perp | +1.5% |
 | BTC perp | +1.4% |
 | BCH perp | +1.3% |
@@ -46,7 +46,7 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| ADA perp | -3.9% |
+| ADA perp | -3.8% |
 | LTC perp | -3.4% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
