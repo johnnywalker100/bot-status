@@ -9,15 +9,15 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.8812** (-11.88% since start) |
-| Peak / drawdown | 1.0141 / -13.11% |
-| Ticks recorded | 1000 |
-| Last tick | 2026-09-03T23:08:21.810887+00:00 (-0.0605%) |
+| **Equity** | **0.8809** (-11.91% since start) |
+| Peak / drawdown | 1.0141 / -13.13% |
+| Ticks recorded | 1001 |
+| Last tick | 2026-09-04T00:08:11.068737+00:00 (-0.0290%) |
 | Risk rails | brake: drawdown -13.1% <= -12%, half size |
-| Data source | coinbase-cfm (bar 2026-09-03 22:00:00+00:00) |
+| Data source | coinbase-cfm (bar 2026-09-03 23:00:00+00:00) |
 | Gross leverage | 0.09x |
 | Weeks tracked | 6 |
-| Average week | -0.78% |
+| Average week | -0.79% |
 | Weeks >= +3% | 0% |
 | Best / worst week | +1.74% / -2.88% |
 
