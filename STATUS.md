@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0261** (+2.61% since start) |
-| Peak / drawdown | 1.0572 / -2.95% |
-| Ticks recorded | 1138 |
-| Last tick | 2026-09-09T02:08:01.175082+00:00 (-0.0919%) |
-| Risk rails | normal (dd -2.9%) |
-| Data source | okx (bar 2026-09-09 01:00:00+00:00) |
-| Gross leverage | 1.14x |
+| **Equity** | **1.0208** (+2.08% since start) |
+| Peak / drawdown | 1.0572 / -3.45% |
+| Ticks recorded | 1139 |
+| Last tick | 2026-09-09T03:08:13.834570+00:00 (-0.5164%) |
+| Risk rails | normal (dd -3.4%) |
+| Data source | okx (bar 2026-09-09 02:00:00+00:00) |
+| Gross leverage | 1.15x |
 | Weeks tracked | 7 |
-| Average week | +0.44% |
+| Average week | +0.36% |
 | Weeks ≥ +3% | 43% |
-| Best / worst week | +3.87% / -4.65% |
+| Best / worst week | +3.73% / -4.65% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,9 +26,9 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +20.7% |
-| ATOM perp | +12.7% |
-| SOL perp | +12.1% |
+| TRX perp | +20.8% |
+| ATOM perp | +12.5% |
+| SOL perp | +12.2% |
 | ALGO perp | +11.5% |
 | FIL perp | +8.7% |
 | BTC perp | +8.1% |
