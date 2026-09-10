@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10 14:22:14.034533+00:00",
+  "generated": "2026-09-10 14:24:14.045307+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.82631,
   "peak": 0.827551,
@@ -7,16 +7,16 @@
   "start": "2026-07-30 07:08:33.796300+00:00",
   "gross_lev": 0.5301,
   "last_tick": {
-    "ts": "2026-09-10 14:22:14.034618+00:00",
+    "ts": "2026-09-10 14:24:14.045502+00:00",
     "tick_return": 0.0,
     "equity": 0.82631,
     "vol_scale": 0.53,
     "risk": "13 open, hold to resolution \u00b7 dd -17.4% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-09-10 14:22:14.034651+00:00"
+    "asof": "2026-09-10 14:24:14.045552+00:00"
   },
   "positions": {
-    "NO BTC touch\u2193$45,000 0.76\u21920.90": 0.1794,
+    "NO BTC touch\u2193$45,000 0.76\u21920.91": 0.1925,
     "NO BTC touch\u2193$35,000 0.91\u21920.95": 0.0428,
     "NO BTC touch\u2193$50,000 0.66\u21920.85": 0.2783,
     "NO BTC touch\u2193$40,000 0.87\u21920.93": 0.0718,
@@ -37,8 +37,8 @@
       "band": "touch\u2193$45,000",
       "collat": 400.0,
       "entry": 0.763,
-      "mark": 0.9,
-      "upnl": 0.1794,
+      "mark": 0.91,
+      "upnl": 0.1925,
       "verdict": null,
       "obs_max": null
     },
@@ -202,13 +202,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-22 15:05:09.659150+00:00",
-      "ret": 0.0,
-      "equity": 0.827551,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
     {
       "ts": "2026-08-22 16:10:05.023096+00:00",
       "ret": 0.0,
@@ -3001,6 +2994,13 @@
       "equity": 0.82631,
       "risk": "hold to resolution",
       "vol_scale": null
+    },
+    {
+      "ts": "2026-09-10 14:19:05.401503+00:00",
+      "ret": 0.0,
+      "equity": 0.82631,
+      "risk": "hold to resolution",
+      "vol_scale": null
     }
   ],
   "weekly": [],
@@ -3123,7 +3123,7 @@
       "pace_per_month": -0.1248,
       "goal_per_month": 0.034,
       "open_collat": 4380.29,
-      "open_marked": 5086.65,
+      "open_marked": 5091.89,
       "open_marked_collat": 4380.29,
       "marks_done": 13,
       "open_count": 13,
