@@ -8,12 +8,12 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9641** (-3.59% since start) |
-| Peak / drawdown | 1.0572 / -8.81% |
-| Ticks recorded | 1270 |
-| Last tick | 2026-09-14T14:08:34.530839+00:00 (+0.2430%) |
+| **Equity** | **0.9638** (-3.62% since start) |
+| Peak / drawdown | 1.0572 / -8.84% |
+| Ticks recorded | 1271 |
+| Last tick | 2026-09-14T15:07:54.688305+00:00 (-0.0300%) |
 | Risk rails | normal (dd -8.8%) |
-| Data source | okx (bar 2026-09-14 13:00:00+00:00) |
+| Data source | okx (bar 2026-09-14 14:00:00+00:00) |
 | Gross leverage | 1.44x |
 | Weeks tracked | 8 |
 | Average week | -0.40% |
@@ -49,7 +49,7 @@ and 8h funding settlements.*
 | BCH perp | -8.3% |
 | BNB perp | -6.0% |
 | ETC perp | -4.9% |
-| FIL perp | -4.4% |
+| FIL perp | -4.3% |
 | LTC perp | -3.1% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
