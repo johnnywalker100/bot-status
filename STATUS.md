@@ -8,12 +8,12 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **0.9593** (-4.07% since start) |
-| Peak / drawdown | 1.0572 / -9.26% |
-| Ticks recorded | 1296 |
-| Last tick | 2026-09-15T16:08:23.989188+00:00 (+0.1179%) |
+| **Equity** | **0.9594** (-4.06% since start) |
+| Peak / drawdown | 1.0572 / -9.25% |
+| Ticks recorded | 1297 |
+| Last tick | 2026-09-15T17:08:04.509599+00:00 (+0.0108%) |
 | Risk rails | normal (dd -9.3%) |
-| Data source | okx (bar 2026-09-15 15:00:00+00:00) |
+| Data source | okx (bar 2026-09-15 16:00:00+00:00) |
 | Gross leverage | 1.44x |
 | Weeks tracked | 8 |
 | Average week | -0.46% |
@@ -47,7 +47,7 @@ and 8h funding settlements.*
 |---|---|
 | DOGE perp | -9.0% |
 | ADA perp | -8.7% |
-| BNB perp | -8.6% |
+| BNB perp | -8.7% |
 | ALGO perp | -7.1% |
 | ETC perp | -4.7% |
 | BCH perp | -4.4% |
