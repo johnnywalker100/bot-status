@@ -9,17 +9,17 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 
 | | |
 |---|---|
-| **Equity** | **0.8862** (-11.38% since start) |
-| Peak / drawdown | 1.0141 / -12.62% |
-| Ticks recorded | 1343 |
-| Last tick | 2026-09-18T08:08:19.411741+00:00 (+0.0269%) |
-| Risk rails | brake: drawdown -12.6% <= -12%, half size |
-| Data source | coinbase-cfm (bar 2026-09-18 07:00:00+00:00) |
+| **Equity** | **0.8870** (-11.30% since start) |
+| Peak / drawdown | 1.0141 / -12.54% |
+| Ticks recorded | 1344 |
+| Last tick | 2026-09-18T09:08:39.403553+00:00 (+0.0904%) |
+| Risk rails | brake: drawdown -12.5% <= -12%, half size |
+| Data source | coinbase-cfm (bar 2026-09-18 08:00:00+00:00) |
 | Gross leverage | 0.28x |
 | Weeks tracked | 8 |
-| Average week | -0.51% |
+| Average week | -0.50% |
 | Weeks >= +3% | 0% |
-| Best / worst week | +2.04% / -2.88% |
+| Best / worst week | +2.13% / -2.88% |
 
 ## Positions (weight of account / whole contracts)
 
@@ -29,8 +29,8 @@ money. Book: slow momentum 60% / funding carry 40% (see cfm_backtest.py).*
 | SOL perp | +6.0% | +1 |
 | DOT perp | +5.2% | +4 |
 | AVAX perp | +4.5% | +5 |
-| BCH perp | +2.8% | +1 |
 | ETH perp | +2.8% | +1 |
+| BCH perp | +2.8% | +1 |
 
 | Short | Size | Contracts |
 |---|---|---|
