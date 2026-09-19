@@ -8,17 +8,17 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0060** (+0.60% since start) |
-| Peak / drawdown | 1.0572 / -4.85% |
-| Ticks recorded | 1378 |
-| Last tick | 2026-09-19T02:07:53.372315+00:00 (+0.2071%) |
-| Risk rails | normal (dd -4.8%) |
-| Data source | okx (bar 2026-09-19 01:00:00+00:00) |
-| Gross leverage | 1.48x |
+| **Equity** | **1.0182** (+1.82% since start) |
+| Peak / drawdown | 1.0572 / -3.69% |
+| Ticks recorded | 1379 |
+| Last tick | 2026-09-19T03:08:12.083485+00:00 (+1.2177%) |
+| Risk rails | normal (dd -3.7%) |
+| Data source | okx (bar 2026-09-19 02:00:00+00:00) |
+| Gross leverage | 1.47x |
 | Weeks tracked | 8 |
-| Average week | +0.14% |
+| Average week | +0.30% |
 | Weeks ≥ +3% | 38% |
-| Best / worst week | +4.25% / -4.65% |
+| Best / worst week | +5.52% / -4.65% |
 
 ## Positions (futures contracts, fraction of account)
 
@@ -26,31 +26,31 @@ and 8h funding settlements.*
 
 | Contract | Size |
 |---|---|
-| TRX perp | +19.1% |
-| SOL perp | +13.5% |
-| ATOM perp | +11.8% |
-| THETA perp | +10.0% |
+| TRX perp | +18.9% |
+| SOL perp | +13.3% |
+| ATOM perp | +12.0% |
+| THETA perp | +10.3% |
 | XLM perp | +8.6% |
-| DOT perp | +8.5% |
+| DOT perp | +8.6% |
 | SUSHI perp | +7.6% |
-| AVAX perp | +6.3% |
-| BCH perp | +5.0% |
+| AVAX perp | +6.1% |
+| BCH perp | +4.9% |
 | LINK perp | +4.2% |
 | AAVE perp | +2.2% |
 | ETH perp | +1.1% |
-| FIL perp | +1.0% |
+| FIL perp | +1.1% |
 | XRP perp | +0.9% |
 | UNI perp | +0.8% |
 
 | Contract | Size |
 |---|---|
-| LTC perp | -9.5% |
-| ALGO perp | -9.2% |
-| DOGE perp | -9.2% |
-| BNB perp | -8.7% |
-| ETC perp | -4.9% |
-| BTC perp | -4.6% |
-| ADA perp | -1.3% |
+| LTC perp | -9.4% |
+| DOGE perp | -9.1% |
+| ALGO perp | -9.0% |
+| BNB perp | -8.6% |
+| ETC perp | -4.8% |
+| BTC perp | -4.5% |
+| ADA perp | -1.4% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
 mostly market-neutral: it earns funding spread + momentum, not a bet that
