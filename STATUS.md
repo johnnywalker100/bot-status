@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0300** (+3.00% since start) |
-| Peak / drawdown | 1.0572 / -2.58% |
-| Ticks recorded | 1433 |
-| Last tick | 2026-09-21T09:08:05.906317+00:00 (+1.2334%) |
+| **Equity** | **1.0297** (+2.97% since start) |
+| Peak / drawdown | 1.0572 / -2.60% |
+| Ticks recorded | 1434 |
+| Last tick | 2026-09-21T10:08:25.936776+00:00 (-0.0226%) |
 | Risk rails | normal (dd -2.6%) |
-| Data source | okx (bar 2026-09-21 08:00:00+00:00) |
+| Data source | okx (bar 2026-09-21 09:00:00+00:00) |
 | Gross leverage | 1.29x |
 | Weeks tracked | 9 |
-| Average week | +0.40% |
+| Average week | +0.39% |
 | Weeks ≥ +3% | 33% |
 | Best / worst week | +5.60% / -4.65% |
 
@@ -27,17 +27,17 @@ and 8h funding settlements.*
 | Contract | Size |
 |---|---|
 | TRX perp | +16.1% |
-| THETA perp | +12.4% |
-| ATOM perp | +12.0% |
-| SOL perp | +9.5% |
+| THETA perp | +12.5% |
+| ATOM perp | +11.9% |
+| SOL perp | +9.6% |
 | XLM perp | +9.0% |
-| DOT perp | +8.6% |
-| SUSHI perp | +7.7% |
+| DOT perp | +8.5% |
+| SUSHI perp | +7.6% |
 | AVAX perp | +5.0% |
-| BCH perp | +5.0% |
+| BCH perp | +4.9% |
 | LINK perp | +4.3% |
 | LTC perp | +2.4% |
-| ETC perp | +2.4% |
+| ETC perp | +2.3% |
 | AAVE perp | +2.2% |
 | ALGO perp | +1.7% |
 | ETH perp | +1.1% |
@@ -48,7 +48,7 @@ and 8h funding settlements.*
 | Contract | Size |
 |---|---|
 | DOGE perp | -11.5% |
-| BTC perp | -7.3% |
+| BTC perp | -7.4% |
 | BNB perp | -4.8% |
 | XRP perp | -3.8% |
 
