@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23 06:47:58.704241+00:00",
+  "generated": "2026-09-23 06:49:58.704695+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.806011,
   "peak": 0.826384,
@@ -7,13 +7,13 @@
   "start": "2026-07-30 07:08:33.796300+00:00",
   "gross_lev": 0.5783,
   "last_tick": {
-    "ts": "2026-09-23 06:47:58.704324+00:00",
+    "ts": "2026-09-23 06:49:58.704768+00:00",
     "tick_return": 9e-06,
     "equity": 0.806011,
     "vol_scale": 0.578,
     "risk": "16 open, hold to resolution \u00b7 dd -19.4% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-09-23 06:47:58.704355+00:00"
+    "asof": "2026-09-23 06:49:58.704805+00:00"
   },
   "positions": {
     "NO BTC touch\u2193$45,000 0.76\u21920.96": 0.2554,
@@ -3163,7 +3163,7 @@
       "won": 5,
       "lost": 8,
       "realised_pnl": -1937.29,
-      "pace_per_month": -0.1073,
+      "pace_per_month": -0.1072,
       "goal_per_month": 0.034,
       "open_collat": 4661.01,
       "open_marked": 5322.49,
