@@ -1,25 +1,25 @@
 {
-  "generated": "2026-09-25 00:37:59.169969+00:00",
+  "generated": "2026-09-25 00:39:59.170020+00:00",
   "note": "SIMULATED paper trading - no real funds",
-  "equity": 0.804329,
+  "equity": 0.804365,
   "peak": 0.826384,
-  "drawdown": -0.026689,
+  "drawdown": -0.026645,
   "start": "2026-07-30 07:08:33.796300+00:00",
   "gross_lev": 0.5795,
   "last_tick": {
-    "ts": "2026-09-25 00:37:59.170051+00:00",
-    "tick_return": -6e-05,
-    "equity": 0.804329,
+    "ts": "2026-09-25 00:39:59.170099+00:00",
+    "tick_return": 7e-05,
+    "equity": 0.804365,
     "vol_scale": 0.579,
     "risk": "16 open, hold to resolution \u00b7 dd -19.6% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-09-25 00:37:59.170083+00:00"
+    "asof": "2026-09-25 00:39:59.170151+00:00"
   },
   "positions": {
-    "NO BTC touch\u2193$45,000 0.76\u21920.94": 0.237,
-    "NO BTC touch\u2193$35,000 0.91\u21920.97": 0.0669,
+    "NO BTC touch\u2193$45,000 0.76\u21920.95": 0.241,
+    "NO BTC touch\u2193$35,000 0.91\u21920.97": 0.068,
     "NO BTC touch\u2193$50,000 0.66\u21920.92": 0.3835,
-    "NO BTC touch\u2193$40,000 0.87\u21920.96": 0.1121,
+    "NO BTC touch\u2193$40,000 0.87\u21920.96": 0.111,
     "NO SOL touch\u2193$40 0.76\u21920.95": 0.2494,
     "NO SOL touch\u2191$160 0.90\u21920.70": -0.2249,
     "NO BTC touch\u2191$90,000 0.84\u21920.29": -0.6547,
@@ -30,8 +30,8 @@
     "NO ETH touch\u2193$1,500 0.56\u21920.92": 0.6452,
     "NO SOL touch\u2193$50 0.86\u21920.93": 0.0847,
     "NO SOL touch\u2191$180 0.85\u21920.81": -0.0452,
-    "NO SOL touch\u2191$120 0.53\u21920.02": -0.9545,
-    "NO DOGE touch\u2191$0.15 0.92\u21920.94": 0.0248
+    "NO SOL touch\u2191$120 0.53\u21920.03": -0.9507,
+    "NO DOGE touch\u2191$0.15 0.92\u21920.97": 0.0597
   },
   "positions_detail": [
     {
@@ -40,8 +40,8 @@
       "band": "touch\u2193$45,000",
       "collat": 400.0,
       "entry": 0.763,
-      "mark": 0.944,
-      "upnl": 0.237,
+      "mark": 0.947,
+      "upnl": 0.241,
       "verdict": null,
       "obs_max": null
     },
@@ -51,8 +51,8 @@
       "band": "touch\u2193$35,000",
       "collat": 400.0,
       "entry": 0.911,
-      "mark": 0.972,
-      "upnl": 0.0669,
+      "mark": 0.973,
+      "upnl": 0.068,
       "verdict": null,
       "obs_max": null
     },
@@ -73,8 +73,8 @@
       "band": "touch\u2193$40,000",
       "collat": 400.0,
       "entry": 0.868,
-      "mark": 0.965,
-      "upnl": 0.1121,
+      "mark": 0.964,
+      "upnl": 0.111,
       "verdict": null,
       "obs_max": null
     },
@@ -194,8 +194,8 @@
       "band": "touch\u2191$120",
       "collat": 139.26,
       "entry": 0.527,
-      "mark": 0.024,
-      "upnl": -0.9545,
+      "mark": 0.026,
+      "upnl": -0.9507,
       "verdict": null,
       "obs_max": null
     },
@@ -205,8 +205,8 @@
       "band": "touch\u2191$0.15",
       "collat": 105.42,
       "entry": 0.915,
-      "mark": 0.938,
-      "upnl": 0.0248,
+      "mark": 0.97,
+      "upnl": 0.0597,
       "verdict": null,
       "obs_max": null
     }
@@ -242,13 +242,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-09-06 11:54:46.939397+00:00",
-      "ret": 0.0,
-      "equity": 0.826384,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
     {
       "ts": "2026-09-06 13:00:27.140532+00:00",
       "ret": 0.0,
@@ -3041,6 +3034,13 @@
       "equity": 0.804273,
       "risk": "hold to resolution",
       "vol_scale": null
+    },
+    {
+      "ts": "2026-09-25 00:34:28.724268+00:00",
+      "ret": 7e-05,
+      "equity": 0.804329,
+      "risk": "hold to resolution",
+      "vol_scale": null
     }
   ],
   "weekly": [],
@@ -3096,7 +3096,7 @@
         "realised_pnl": -1937.29,
         "dd_now": -0.1959,
         "hedges": {
-          "SOL": 103.91
+          "SOL": 109.91
         }
       },
       "backtest": {
@@ -3162,10 +3162,10 @@
       "won": 5,
       "lost": 8,
       "realised_pnl": -1937.29,
-      "pace_per_month": -0.1049,
+      "pace_per_month": -0.1048,
       "goal_per_month": 0.034,
       "open_collat": 4661.01,
-      "open_marked": 5355.0,
+      "open_marked": 5360.76,
       "open_marked_collat": 4661.01,
       "marks_done": 16,
       "open_count": 16,
