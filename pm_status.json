@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25 20:45:59.308684+00:00",
+  "generated": "2026-09-25 20:47:59.310740+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.79079,
   "peak": 0.826384,
@@ -7,18 +7,18 @@
   "start": "2026-07-30 07:08:33.796300+00:00",
   "gross_lev": 0.5718,
   "last_tick": {
-    "ts": "2026-09-25 20:45:59.308761+00:00",
+    "ts": "2026-09-25 20:47:59.310809+00:00",
     "tick_return": 0.0,
     "equity": 0.79079,
     "vol_scale": 0.572,
     "risk": "15 open, hold to resolution \u00b7 dd -20.9% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-09-25 20:45:59.308790+00:00"
+    "asof": "2026-09-25 20:47:59.310839+00:00"
   },
   "positions": {
     "NO BTC touch\u2193$45,000 0.76\u21920.95": 0.2449,
     "NO BTC touch\u2193$35,000 0.91\u21920.97": 0.0669,
-    "NO BTC touch\u2193$50,000 0.66\u21920.92": 0.3835,
+    "NO BTC touch\u2193$50,000 0.66\u21920.93": 0.3986,
     "NO BTC touch\u2193$40,000 0.87\u21920.96": 0.1017,
     "NO SOL touch\u2193$40 0.76\u21920.95": 0.2468,
     "NO SOL touch\u2191$160 0.90\u21920.68": -0.247,
@@ -27,8 +27,8 @@
     "NO ETH touch\u2193$1,000 0.88\u21920.95": 0.0766,
     "NO SOL touch\u2193$60 0.52\u21920.92": 0.7732,
     "NO ETH touch\u2193$1,250 0.79\u21920.94": 0.1969,
-    "NO ETH touch\u2193$1,500 0.56\u21920.92": 0.6434,
-    "NO SOL touch\u2193$50 0.86\u21920.92": 0.073,
+    "NO ETH touch\u2193$1,500 0.56\u21920.93": 0.6667,
+    "NO SOL touch\u2193$50 0.86\u21920.93": 0.0847,
     "NO SOL touch\u2191$180 0.85\u21920.81": -0.0511,
     "NO DOGE touch\u2191$0.15 0.92\u21920.94": 0.0303
   },
@@ -61,8 +61,8 @@
       "band": "touch\u2193$50,000",
       "collat": 400.0,
       "entry": 0.665,
-      "mark": 0.92,
-      "upnl": 0.3835,
+      "mark": 0.93,
+      "upnl": 0.3986,
       "verdict": null,
       "obs_max": null
     },
@@ -160,8 +160,8 @@
       "band": "touch\u2193$1,500",
       "collat": 400.0,
       "entry": 0.56,
-      "mark": 0.92,
-      "upnl": 0.6434,
+      "mark": 0.933,
+      "upnl": 0.6667,
       "verdict": null,
       "obs_max": null
     },
@@ -171,8 +171,8 @@
       "band": "touch\u2193$50",
       "collat": 53.0,
       "entry": 0.857,
-      "mark": 0.92,
-      "upnl": 0.073,
+      "mark": 0.93,
+      "upnl": 0.0847,
       "verdict": null,
       "obs_max": null
     },
@@ -234,13 +234,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-09-07 09:36:34.574234+00:00",
-      "ret": 0.0,
-      "equity": 0.826384,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
     {
       "ts": "2026-09-07 10:42:14.704019+00:00",
       "ret": 0.0,
@@ -3033,6 +3026,13 @@
       "equity": 0.79079,
       "risk": "hold to resolution",
       "vol_scale": null
+    },
+    {
+      "ts": "2026-09-25 20:40:59.215629+00:00",
+      "ret": 0.0,
+      "equity": 0.79079,
+      "risk": "hold to resolution",
+      "vol_scale": null
     }
   ],
   "weekly": [],
@@ -3155,7 +3155,7 @@
       "pace_per_month": -0.1105,
       "goal_per_month": 0.034,
       "open_collat": 4521.75,
-      "open_marked": 5341.52,
+      "open_marked": 5357.45,
       "open_marked_collat": 4521.75,
       "marks_done": 15,
       "open_count": 15,
