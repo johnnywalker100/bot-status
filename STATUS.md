@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0446** (+4.46% since start) |
-| Peak / drawdown | 1.0855 / -3.77% |
-| Ticks recorded | 1642 |
-| Last tick | 2026-09-30T02:08:06.772313+00:00 (-0.0095%) |
+| **Equity** | **1.0441** (+4.41% since start) |
+| Peak / drawdown | 1.0855 / -3.81% |
+| Ticks recorded | 1643 |
+| Last tick | 2026-09-30T03:07:54.231032+00:00 (-0.0468%) |
 | Risk rails | normal (dd -3.8%) |
-| Data source | okx (bar 2026-09-30 01:00:00+00:00) |
+| Data source | okx (bar 2026-09-30 02:00:00+00:00) |
 | Gross leverage | 1.12x |
 | Weeks tracked | 10 |
-| Average week | +0.51% |
+| Average week | +0.50% |
 | Weeks ≥ +3% | 40% |
 | Best / worst week | +5.60% / -4.65% |
 
@@ -29,7 +29,7 @@ and 8h funding settlements.*
 | TRX perp | +12.2% |
 | ETH perp | +10.4% |
 | ATOM perp | +10.3% |
-| SOL perp | +9.9% |
+| SOL perp | +10.0% |
 | BTC perp | +6.9% |
 | DOT perp | +6.5% |
 | FIL perp | +6.3% |
@@ -49,7 +49,7 @@ and 8h funding settlements.*
 | DOGE perp | -6.8% |
 | ADA perp | -5.1% |
 | ETC perp | -4.2% |
-| BNB perp | -1.2% |
+| BNB perp | -1.3% |
 | XRP perp | -1.1% |
 
 *Longs collect when price rises; shorts collect when price falls. The book is
