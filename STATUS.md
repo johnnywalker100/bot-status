@@ -8,12 +8,12 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0401** (+4.01% since start) |
-| Peak / drawdown | 1.0855 / -4.18% |
-| Ticks recorded | 1675 |
-| Last tick | 2026-10-01T11:08:12.787089+00:00 (-0.1969%) |
-| Risk rails | normal (dd -4.2%) |
-| Data source | okx (bar 2026-10-01 10:00:00+00:00) |
+| **Equity** | **1.0405** (+4.05% since start) |
+| Peak / drawdown | 1.0855 / -4.14% |
+| Ticks recorded | 1676 |
+| Last tick | 2026-10-01T12:08:20.931289+00:00 (+0.0435%) |
+| Risk rails | normal (dd -4.1%) |
+| Data source | okx (bar 2026-10-01 11:00:00+00:00) |
 | Gross leverage | 1.04x |
 | Weeks tracked | 10 |
 | Average week | +0.47% |
@@ -41,7 +41,7 @@ and 8h funding settlements.*
 | XLM perp | +1.6% |
 | ALGO perp | +1.4% |
 | THETA perp | +1.4% |
-| ADA perp | +1.0% |
+| ADA perp | +1.1% |
 | LINK perp | +1.0% |
 | SUSHI perp | +0.9% |
 | UNI perp | +0.8% |
