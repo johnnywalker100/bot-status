@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01 10:50:12.281027+00:00",
+  "generated": "2026-10-01 10:52:12.277634+00:00",
   "note": "SIMULATED paper trading - no real funds",
   "equity": 0.791765,
   "peak": 0.82631,
@@ -7,13 +7,13 @@
   "start": "2026-07-30 07:08:33.796300+00:00",
   "gross_lev": 0.5578,
   "last_tick": {
-    "ts": "2026-10-01 10:50:12.281149+00:00",
+    "ts": "2026-10-01 10:52:12.277717+00:00",
     "tick_return": 0.0,
     "equity": 0.791765,
     "vol_scale": 0.558,
     "risk": "14 open, hold to resolution \u00b7 dd -20.8% vs rolling 90d peak",
     "provider": "polymarket + okx",
-    "asof": "2026-10-01 10:50:12.281189+00:00"
+    "asof": "2026-10-01 10:52:12.277742+00:00"
   },
   "positions": {
     "NO BTC touch\u2193$45,000 0.76\u21920.95": 0.2488,
@@ -22,7 +22,7 @@
     "NO BTC touch\u2193$40,000 0.87\u21920.96": 0.111,
     "NO SOL touch\u2193$40 0.76\u21920.96": 0.2586,
     "NO SOL touch\u2191$160 0.90\u21920.69": -0.236,
-    "NO BTC touch\u2191$90,000 0.84\u21920.33": -0.6071,
+    "NO BTC touch\u2191$90,000 0.84\u21920.31": -0.6309,
     "NO ETH touch\u2191$3,500 0.89\u21920.64": -0.2839,
     "NO ETH touch\u2193$1,000 0.88\u21920.95": 0.0766,
     "NO SOL touch\u2193$60 0.52\u21920.91": 0.7596,
@@ -104,8 +104,8 @@
       "band": "touch\u2191$90,000",
       "collat": 7.5,
       "entry": 0.84,
-      "mark": 0.33,
-      "upnl": -0.6071,
+      "mark": 0.31,
+      "upnl": -0.6309,
       "verdict": null,
       "obs_max": null
     },
@@ -226,13 +226,6 @@
     }
   ],
   "history": [
-    {
-      "ts": "2026-09-12 22:35:59.147582+00:00",
-      "ret": 0.0,
-      "equity": 0.82631,
-      "risk": "hold to resolution",
-      "vol_scale": null
-    },
     {
       "ts": "2026-09-12 23:42:11.773692+00:00",
       "ret": 0.0,
@@ -3025,6 +3018,13 @@
       "equity": 0.791765,
       "risk": "hold to resolution",
       "vol_scale": null
+    },
+    {
+      "ts": "2026-10-01 10:47:55.585438+00:00",
+      "ret": 0.0,
+      "equity": 0.791765,
+      "risk": "hold to resolution",
+      "vol_scale": null
     }
   ],
   "weekly": [],
@@ -3147,7 +3147,7 @@
       "pace_per_month": -0.1002,
       "goal_per_month": 0.034,
       "open_collat": 4416.33,
-      "open_marked": 5256.17,
+      "open_marked": 5256.0,
       "open_marked_collat": 4416.33,
       "marks_done": 14,
       "open_count": 14,
