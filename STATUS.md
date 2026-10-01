@@ -8,15 +8,15 @@ and 8h funding settlements.*
 
 | | |
 |---|---|
-| **Equity** | **1.0356** (+3.56% since start) |
-| Peak / drawdown | 1.0855 / -4.59% |
-| Ticks recorded | 1677 |
-| Last tick | 2026-10-01T13:08:34.550208+00:00 (-0.4735%) |
-| Risk rails | normal (dd -4.6%) |
-| Data source | okx (bar 2026-10-01 12:00:00+00:00) |
+| **Equity** | **1.0366** (+3.66% since start) |
+| Peak / drawdown | 1.0855 / -4.50% |
+| Ticks recorded | 1678 |
+| Last tick | 2026-10-01T14:08:03.398162+00:00 (+0.0993%) |
+| Risk rails | normal (dd -4.5%) |
+| Data source | okx (bar 2026-10-01 13:00:00+00:00) |
 | Gross leverage | 1.03x |
 | Weeks tracked | 10 |
-| Average week | +0.42% |
+| Average week | +0.43% |
 | Weeks ≥ +3% | 40% |
 | Best / worst week | +5.60% / -4.65% |
 
@@ -31,7 +31,7 @@ and 8h funding settlements.*
 | ATOM perp | +10.4% |
 | SOL perp | +9.9% |
 | BTC perp | +6.9% |
-| FIL perp | +6.1% |
+| FIL perp | +6.0% |
 | AVAX perp | +5.6% |
 | DOT perp | +4.2% |
 | BCH perp | +3.7% |
